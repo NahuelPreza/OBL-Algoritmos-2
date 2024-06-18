@@ -1,0 +1,22 @@
+Ensalada Tacos Sushi
+Hamburguesa Hamburguesa Pizza Pasta Pizza
+Pizza Burrito Ensalada Pasta Sopa Hamburguesa Tacos
+Tacos Sushi Sopa Pollo
+Tacos Ensalada Hamburguesa Hamburguesa Sopa
+Pollo Pollo Pizza Sopa Pollo Pizza Burrito Ensalada Ensalada Pollo
+Pasta
+Burrito
+Pizza Burrito Ensalada Pasta Sopa Hamburguesa Tacos
+Entregado
+Pasta
+Tacos Burrito Tacos Pollo Hamburguesa Tacos Pizza Pollo Tacos
+Entregado
+Hamburguesa Sopa Burrito
+Sopa Sushi Pollo Hamburguesa
+Hamburguesa Sopa Burrito
+Burrito
+Pizza Pollo Hamburguesa Hamburguesa Ensalada Sushi
+Pasta Pasta Tacos
+Entregado
+Burrito Tacos Pizza Pasta Ensalada Burrito
+Entregado

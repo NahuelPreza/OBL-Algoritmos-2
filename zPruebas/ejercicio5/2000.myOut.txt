@@ -1,0 +1,3913 @@
+Parada 1 es importante: 1 llegadas: 3
+Parada 2 es importante: 1 llegadas: 2
+Parada 3 es importante: 1 llegadas: 2
+Parada 4 es importante: 1 llegadas: 4
+Parada 5 es importante: 0 llegadas: 1
+Parada 6 es importante: 1 llegadas: 6
+Parada 7 es importante: 1 llegadas: 2
+Parada 8 es importante: 0 llegadas: 1
+Parada 9 es importante: 1 llegadas: 2
+Parada 10 es importante: 1 llegadas: 2
+Parada 11 es importante: 1 llegadas: 3
+Parada 12 es importante: 1 llegadas: 2
+Parada 13 es importante: 1 llegadas: 2
+Parada 14 es importante: 1 llegadas: 2
+Parada 15 es importante: 1 llegadas: 2
+Parada 16 es importante: 1 llegadas: 4
+Parada 17 es importante: 1 llegadas: 2
+Parada 18 es importante: 1 llegadas: 2
+Parada 19 es importante: 1 llegadas: 4
+Parada 20 es importante: 1 llegadas: 2
+Parada 21 es importante: 1 llegadas: 2
+Parada 22 es importante: 1 llegadas: 4
+Parada 23 es importante: 1 llegadas: 2
+Parada 24 es importante: 1 llegadas: 2
+Parada 25 es importante: 1 llegadas: 5
+Parada 26 es importante: 1 llegadas: 5
+Parada 27 es importante: 1 llegadas: 2
+Parada 28 es importante: 1 llegadas: 2
+Parada 29 es importante: 1 llegadas: 2
+Parada 30 es importante: 1 llegadas: 8
+Parada 31 es importante: 1 llegadas: 2
+Parada 32 es importante: 1 llegadas: 2
+Parada 33 es importante: 1 llegadas: 2
+Parada 34 es importante: 1 llegadas: 2
+Parada 35 es importante: 1 llegadas: 2
+Parada 36 es importante: 1 llegadas: 2
+Parada 37 es importante: 1 llegadas: 4
+Parada 38 es importante: 1 llegadas: 2
+Parada 39 es importante: 0 llegadas: 1
+Parada 40 es importante: 1 llegadas: 4
+Parada 41 es importante: 1 llegadas: 2
+Parada 42 es importante: 1 llegadas: 2
+Parada 43 es importante: 1 llegadas: 4
+Parada 44 es importante: 1 llegadas: 4
+Parada 45 es importante: 1 llegadas: 2
+Parada 46 es importante: 1 llegadas: 2
+Parada 47 es importante: 1 llegadas: 2
+Parada 48 es importante: 1 llegadas: 2
+Parada 49 es importante: 1 llegadas: 2
+Parada 50 es importante: 1 llegadas: 4
+Parada 51 es importante: 1 llegadas: 2
+Parada 52 es importante: 1 llegadas: 2
+Parada 53 es importante: 1 llegadas: 2
+Parada 54 es importante: 1 llegadas: 2
+Parada 55 es importante: 1 llegadas: 2
+Parada 56 es importante: 1 llegadas: 4
+Parada 57 es importante: 1 llegadas: 4
+Parada 58 es importante: 1 llegadas: 4
+Parada 59 es importante: 0 llegadas: 1
+Parada 60 es importante: 1 llegadas: 2
+Parada 61 es importante: 1 llegadas: 2
+Parada 62 es importante: 1 llegadas: 2
+Parada 63 es importante: 1 llegadas: 2
+Parada 64 es importante: 1 llegadas: 2
+Parada 65 es importante: 1 llegadas: 2
+Parada 66 es importante: 1 llegadas: 2
+Parada 67 es importante: 1 llegadas: 2
+Parada 68 es importante: 1 llegadas: 2
+Parada 69 es importante: 1 llegadas: 2
+Parada 70 es importante: 1 llegadas: 2
+Parada 71 es importante: 1 llegadas: 2
+Parada 72 es importante: 1 llegadas: 2
+Parada 73 es importante: 1 llegadas: 2
+Parada 74 es importante: 1 llegadas: 2
+Parada 75 es importante: 1 llegadas: 2
+Parada 76 es importante: 1 llegadas: 2
+Parada 77 es importante: 1 llegadas: 2
+Parada 78 es importante: 1 llegadas: 2
+Parada 79 es importante: 1 llegadas: 2
+Parada 80 es importante: 1 llegadas: 4
+Parada 81 es importante: 1 llegadas: 2
+Parada 82 es importante: 0 llegadas: 1
+Parada 83 es importante: 1 llegadas: 2
+Parada 84 es importante: 1 llegadas: 2
+Parada 85 es importante: 1 llegadas: 2
+Parada 86 es importante: 0 llegadas: 1
+Parada 87 es importante: 1 llegadas: 2
+Parada 88 es importante: 1 llegadas: 4
+Parada 89 es importante: 1 llegadas: 2
+Parada 90 es importante: 1 llegadas: 2
+Parada 91 es importante: 1 llegadas: 4
+Parada 92 es importante: 1 llegadas: 4
+Parada 93 es importante: 1 llegadas: 2
+Parada 94 es importante: 1 llegadas: 2
+Parada 95 es importante: 1 llegadas: 4
+Parada 96 es importante: 1 llegadas: 2
+Parada 97 es importante: 1 llegadas: 2
+Parada 98 es importante: 1 llegadas: 2
+Parada 99 es importante: 1 llegadas: 2
+Parada 100 es importante: 1 llegadas: 2
+Parada 101 es importante: 1 llegadas: 2
+Parada 102 es importante: 1 llegadas: 2
+Parada 103 es importante: 1 llegadas: 2
+Parada 104 es importante: 1 llegadas: 2
+Parada 105 es importante: 1 llegadas: 4
+Parada 106 es importante: 1 llegadas: 3
+Parada 107 es importante: 1 llegadas: 2
+Parada 108 es importante: 1 llegadas: 2
+Parada 109 es importante: 1 llegadas: 4
+Parada 110 es importante: 0 llegadas: 1
+Parada 111 es importante: 1 llegadas: 2
+Parada 112 es importante: 1 llegadas: 2
+Parada 113 es importante: 1 llegadas: 2
+Parada 114 es importante: 1 llegadas: 2
+Parada 115 es importante: 1 llegadas: 2
+Parada 116 es importante: 1 llegadas: 2
+Parada 117 es importante: 1 llegadas: 2
+Parada 118 es importante: 1 llegadas: 2
+Parada 119 es importante: 1 llegadas: 2
+Parada 120 es importante: 1 llegadas: 2
+Parada 121 es importante: 1 llegadas: 2
+Parada 122 es importante: 1 llegadas: 2
+Parada 123 es importante: 1 llegadas: 2
+Parada 124 es importante: 1 llegadas: 2
+Parada 125 es importante: 1 llegadas: 2
+Parada 126 es importante: 1 llegadas: 2
+Parada 127 es importante: 1 llegadas: 7
+Parada 128 es importante: 1 llegadas: 4
+Parada 129 es importante: 1 llegadas: 4
+Parada 130 es importante: 1 llegadas: 3
+Parada 131 es importante: 1 llegadas: 2
+Parada 132 es importante: 1 llegadas: 2
+Parada 133 es importante: 1 llegadas: 2
+Parada 134 es importante: 1 llegadas: 2
+Parada 135 es importante: 1 llegadas: 4
+Parada 136 es importante: 1 llegadas: 2
+Parada 137 es importante: 1 llegadas: 2
+Parada 138 es importante: 1 llegadas: 2
+Parada 139 es importante: 1 llegadas: 2
+Parada 140 es importante: 1 llegadas: 2
+Parada 141 es importante: 1 llegadas: 2
+Parada 142 es importante: 1 llegadas: 2
+Parada 143 es importante: 1 llegadas: 2
+Parada 144 es importante: 1 llegadas: 2
+Parada 145 es importante: 1 llegadas: 2
+Parada 146 es importante: 1 llegadas: 2
+Parada 147 es importante: 1 llegadas: 2
+Parada 148 es importante: 1 llegadas: 4
+Parada 149 es importante: 1 llegadas: 4
+Parada 150 es importante: 1 llegadas: 4
+Parada 151 es importante: 1 llegadas: 2
+Parada 152 es importante: 1 llegadas: 2
+Parada 153 es importante: 1 llegadas: 4
+Parada 154 es importante: 1 llegadas: 2
+Parada 155 es importante: 0 llegadas: 1
+Parada 156 es importante: 1 llegadas: 2
+Parada 157 es importante: 1 llegadas: 6
+Parada 158 es importante: 1 llegadas: 2
+Parada 159 es importante: 1 llegadas: 2
+Parada 160 es importante: 0 llegadas: 1
+Parada 161 es importante: 1 llegadas: 2
+Parada 162 es importante: 1 llegadas: 2
+Parada 163 es importante: 1 llegadas: 2
+Parada 164 es importante: 1 llegadas: 2
+Parada 165 es importante: 1 llegadas: 2
+Parada 166 es importante: 1 llegadas: 4
+Parada 167 es importante: 1 llegadas: 2
+Parada 168 es importante: 1 llegadas: 2
+Parada 169 es importante: 1 llegadas: 2
+Parada 170 es importante: 1 llegadas: 4
+Parada 171 es importante: 1 llegadas: 4
+Parada 172 es importante: 1 llegadas: 2
+Parada 173 es importante: 1 llegadas: 2
+Parada 174 es importante: 1 llegadas: 2
+Parada 175 es importante: 1 llegadas: 3
+Parada 176 es importante: 1 llegadas: 2
+Parada 177 es importante: 1 llegadas: 2
+Parada 178 es importante: 1 llegadas: 2
+Parada 179 es importante: 1 llegadas: 4
+Parada 180 es importante: 1 llegadas: 2
+Parada 181 es importante: 1 llegadas: 2
+Parada 182 es importante: 1 llegadas: 2
+Parada 183 es importante: 0 llegadas: 1
+Parada 184 es importante: 1 llegadas: 4
+Parada 185 es importante: 1 llegadas: 2
+Parada 186 es importante: 1 llegadas: 2
+Parada 187 es importante: 1 llegadas: 2
+Parada 188 es importante: 1 llegadas: 2
+Parada 189 es importante: 1 llegadas: 2
+Parada 190 es importante: 1 llegadas: 2
+Parada 191 es importante: 1 llegadas: 4
+Parada 192 es importante: 1 llegadas: 2
+Parada 193 es importante: 1 llegadas: 2
+Parada 194 es importante: 1 llegadas: 2
+Parada 195 es importante: 1 llegadas: 2
+Parada 196 es importante: 1 llegadas: 2
+Parada 197 es importante: 1 llegadas: 2
+Parada 198 es importante: 0 llegadas: 1
+Parada 199 es importante: 1 llegadas: 2
+Parada 200 es importante: 1 llegadas: 6
+Parada 201 es importante: 1 llegadas: 4
+Parada 202 es importante: 1 llegadas: 2
+Parada 203 es importante: 1 llegadas: 6
+Parada 204 es importante: 1 llegadas: 2
+Parada 205 es importante: 1 llegadas: 2
+Parada 206 es importante: 1 llegadas: 6
+Parada 207 es importante: 1 llegadas: 2
+Parada 208 es importante: 1 llegadas: 2
+Parada 209 es importante: 1 llegadas: 2
+Parada 210 es importante: 1 llegadas: 2
+Parada 211 es importante: 1 llegadas: 4
+Parada 212 es importante: 1 llegadas: 2
+Parada 213 es importante: 1 llegadas: 2
+Parada 214 es importante: 1 llegadas: 4
+Parada 215 es importante: 1 llegadas: 2
+Parada 216 es importante: 1 llegadas: 2
+Parada 217 es importante: 1 llegadas: 2
+Parada 218 es importante: 1 llegadas: 2
+Parada 219 es importante: 0 llegadas: 1
+Parada 220 es importante: 1 llegadas: 6
+Parada 221 es importante: 1 llegadas: 2
+Parada 222 es importante: 1 llegadas: 2
+Parada 223 es importante: 1 llegadas: 2
+Parada 224 es importante: 1 llegadas: 2
+Parada 225 es importante: 1 llegadas: 2
+Parada 226 es importante: 1 llegadas: 4
+Parada 227 es importante: 1 llegadas: 6
+Parada 228 es importante: 1 llegadas: 2
+Parada 229 es importante: 1 llegadas: 2
+Parada 230 es importante: 1 llegadas: 2
+Parada 231 es importante: 1 llegadas: 3
+Parada 232 es importante: 1 llegadas: 2
+Parada 233 es importante: 1 llegadas: 4
+Parada 234 es importante: 1 llegadas: 4
+Parada 235 es importante: 1 llegadas: 3
+Parada 236 es importante: 1 llegadas: 2
+Parada 237 es importante: 1 llegadas: 2
+Parada 238 es importante: 1 llegadas: 2
+Parada 239 es importante: 1 llegadas: 2
+Parada 240 es importante: 1 llegadas: 4
+Parada 241 es importante: 1 llegadas: 2
+Parada 242 es importante: 1 llegadas: 2
+Parada 243 es importante: 1 llegadas: 4
+Parada 244 es importante: 1 llegadas: 8
+Parada 245 es importante: 1 llegadas: 2
+Parada 246 es importante: 1 llegadas: 2
+Parada 247 es importante: 1 llegadas: 3
+Parada 248 es importante: 0 llegadas: 1
+Parada 249 es importante: 1 llegadas: 2
+Parada 250 es importante: 1 llegadas: 2
+Parada 251 es importante: 0 llegadas: 1
+Parada 252 es importante: 1 llegadas: 2
+Parada 253 es importante: 1 llegadas: 2
+Parada 254 es importante: 1 llegadas: 2
+Parada 255 es importante: 1 llegadas: 2
+Parada 256 es importante: 1 llegadas: 2
+Parada 257 es importante: 1 llegadas: 2
+Parada 258 es importante: 1 llegadas: 2
+Parada 259 es importante: 1 llegadas: 2
+Parada 260 es importante: 1 llegadas: 2
+Parada 261 es importante: 1 llegadas: 2
+Parada 262 es importante: 1 llegadas: 2
+Parada 263 es importante: 1 llegadas: 2
+Parada 264 es importante: 1 llegadas: 2
+Parada 265 es importante: 1 llegadas: 4
+Parada 266 es importante: 1 llegadas: 2
+Parada 267 es importante: 1 llegadas: 2
+Parada 268 es importante: 1 llegadas: 2
+Parada 269 es importante: 1 llegadas: 2
+Parada 270 es importante: 1 llegadas: 2
+Parada 271 es importante: 1 llegadas: 2
+Parada 272 es importante: 1 llegadas: 6
+Parada 273 es importante: 1 llegadas: 4
+Parada 274 es importante: 0 llegadas: 1
+Parada 275 es importante: 1 llegadas: 2
+Parada 276 es importante: 1 llegadas: 2
+Parada 277 es importante: 1 llegadas: 2
+Parada 278 es importante: 1 llegadas: 4
+Parada 279 es importante: 1 llegadas: 2
+Parada 280 es importante: 1 llegadas: 2
+Parada 281 es importante: 1 llegadas: 2
+Parada 282 es importante: 1 llegadas: 3
+Parada 283 es importante: 0 llegadas: 1
+Parada 284 es importante: 1 llegadas: 2
+Parada 285 es importante: 1 llegadas: 2
+Parada 286 es importante: 1 llegadas: 3
+Parada 287 es importante: 1 llegadas: 2
+Parada 288 es importante: 1 llegadas: 2
+Parada 289 es importante: 1 llegadas: 2
+Parada 290 es importante: 1 llegadas: 2
+Parada 291 es importante: 1 llegadas: 2
+Parada 292 es importante: 1 llegadas: 5
+Parada 293 es importante: 1 llegadas: 2
+Parada 294 es importante: 1 llegadas: 2
+Parada 295 es importante: 1 llegadas: 2
+Parada 296 es importante: 1 llegadas: 2
+Parada 297 es importante: 1 llegadas: 4
+Parada 298 es importante: 1 llegadas: 3
+Parada 299 es importante: 1 llegadas: 2
+Parada 300 es importante: 1 llegadas: 4
+Parada 301 es importante: 1 llegadas: 2
+Parada 302 es importante: 1 llegadas: 2
+Parada 303 es importante: 1 llegadas: 4
+Parada 304 es importante: 1 llegadas: 2
+Parada 305 es importante: 1 llegadas: 4
+Parada 306 es importante: 0 llegadas: 1
+Parada 307 es importante: 1 llegadas: 2
+Parada 308 es importante: 1 llegadas: 2
+Parada 309 es importante: 1 llegadas: 2
+Parada 310 es importante: 1 llegadas: 2
+Parada 311 es importante: 1 llegadas: 2
+Parada 312 es importante: 1 llegadas: 2
+Parada 313 es importante: 1 llegadas: 4
+Parada 314 es importante: 1 llegadas: 3
+Parada 315 es importante: 0 llegadas: 1
+Parada 316 es importante: 1 llegadas: 2
+Parada 317 es importante: 1 llegadas: 2
+Parada 318 es importante: 1 llegadas: 2
+Parada 319 es importante: 1 llegadas: 2
+Parada 320 es importante: 1 llegadas: 2
+Parada 321 es importante: 1 llegadas: 2
+Parada 322 es importante: 1 llegadas: 2
+Parada 323 es importante: 1 llegadas: 2
+Parada 324 es importante: 1 llegadas: 6
+Parada 325 es importante: 1 llegadas: 2
+Parada 326 es importante: 1 llegadas: 2
+Parada 327 es importante: 1 llegadas: 2
+Parada 328 es importante: 1 llegadas: 3
+Parada 329 es importante: 1 llegadas: 2
+Parada 330 es importante: 1 llegadas: 2
+Parada 331 es importante: 1 llegadas: 3
+Parada 332 es importante: 1 llegadas: 2
+Parada 333 es importante: 1 llegadas: 2
+Parada 334 es importante: 1 llegadas: 2
+Parada 335 es importante: 1 llegadas: 2
+Parada 336 es importante: 1 llegadas: 2
+Parada 337 es importante: 1 llegadas: 2
+Parada 338 es importante: 1 llegadas: 2
+Parada 339 es importante: 1 llegadas: 3
+Parada 340 es importante: 1 llegadas: 2
+Parada 341 es importante: 0 llegadas: 1
+Parada 342 es importante: 1 llegadas: 2
+Parada 343 es importante: 1 llegadas: 5
+Parada 344 es importante: 1 llegadas: 2
+Parada 345 es importante: 1 llegadas: 2
+Parada 346 es importante: 1 llegadas: 2
+Parada 347 es importante: 1 llegadas: 2
+Parada 348 es importante: 1 llegadas: 2
+Parada 349 es importante: 1 llegadas: 2
+Parada 350 es importante: 1 llegadas: 2
+Parada 351 es importante: 0 llegadas: 1
+Parada 352 es importante: 1 llegadas: 2
+Parada 353 es importante: 1 llegadas: 2
+Parada 354 es importante: 1 llegadas: 2
+Parada 355 es importante: 1 llegadas: 2
+Parada 356 es importante: 1 llegadas: 3
+Parada 357 es importante: 1 llegadas: 2
+Parada 358 es importante: 1 llegadas: 2
+Parada 359 es importante: 1 llegadas: 4
+Parada 360 es importante: 1 llegadas: 4
+Parada 361 es importante: 1 llegadas: 2
+Parada 362 es importante: 1 llegadas: 2
+Parada 363 es importante: 1 llegadas: 2
+Parada 364 es importante: 1 llegadas: 2
+Parada 365 es importante: 1 llegadas: 2
+Parada 366 es importante: 1 llegadas: 2
+Parada 367 es importante: 1 llegadas: 2
+Parada 368 es importante: 1 llegadas: 2
+Parada 369 es importante: 1 llegadas: 2
+Parada 370 es importante: 1 llegadas: 2
+Parada 371 es importante: 1 llegadas: 2
+Parada 372 es importante: 1 llegadas: 2
+Parada 373 es importante: 1 llegadas: 2
+Parada 374 es importante: 1 llegadas: 2
+Parada 375 es importante: 1 llegadas: 2
+Parada 376 es importante: 1 llegadas: 2
+Parada 377 es importante: 1 llegadas: 2
+Parada 378 es importante: 1 llegadas: 2
+Parada 379 es importante: 1 llegadas: 4
+Parada 380 es importante: 1 llegadas: 2
+Parada 381 es importante: 1 llegadas: 2
+Parada 382 es importante: 1 llegadas: 2
+Parada 383 es importante: 0 llegadas: 1
+Parada 384 es importante: 1 llegadas: 2
+Parada 385 es importante: 1 llegadas: 2
+Parada 386 es importante: 1 llegadas: 2
+Parada 387 es importante: 1 llegadas: 2
+Parada 388 es importante: 1 llegadas: 2
+Parada 389 es importante: 1 llegadas: 2
+Parada 390 es importante: 1 llegadas: 2
+Parada 391 es importante: 1 llegadas: 2
+Parada 392 es importante: 1 llegadas: 3
+Parada 393 es importante: 1 llegadas: 2
+Parada 394 es importante: 1 llegadas: 2
+Parada 395 es importante: 1 llegadas: 2
+Parada 396 es importante: 1 llegadas: 2
+Parada 397 es importante: 1 llegadas: 2
+Parada 398 es importante: 1 llegadas: 2
+Parada 399 es importante: 1 llegadas: 4
+Parada 400 es importante: 1 llegadas: 2
+Parada 401 es importante: 1 llegadas: 2
+Parada 402 es importante: 1 llegadas: 2
+Parada 403 es importante: 1 llegadas: 2
+Parada 404 es importante: 1 llegadas: 2
+Parada 405 es importante: 1 llegadas: 6
+Parada 406 es importante: 1 llegadas: 2
+Parada 407 es importante: 1 llegadas: 2
+Parada 408 es importante: 1 llegadas: 2
+Parada 409 es importante: 1 llegadas: 2
+Parada 410 es importante: 1 llegadas: 4
+Parada 411 es importante: 1 llegadas: 2
+Parada 412 es importante: 1 llegadas: 2
+Parada 413 es importante: 1 llegadas: 4
+Parada 414 es importante: 1 llegadas: 2
+Parada 415 es importante: 1 llegadas: 4
+Parada 416 es importante: 1 llegadas: 2
+Parada 417 es importante: 1 llegadas: 2
+Parada 418 es importante: 1 llegadas: 2
+Parada 419 es importante: 1 llegadas: 2
+Parada 420 es importante: 1 llegadas: 2
+Parada 421 es importante: 1 llegadas: 2
+Parada 422 es importante: 1 llegadas: 2
+Parada 423 es importante: 1 llegadas: 2
+Parada 424 es importante: 1 llegadas: 4
+Parada 425 es importante: 0 llegadas: 1
+Parada 426 es importante: 1 llegadas: 2
+Parada 427 es importante: 1 llegadas: 2
+Parada 428 es importante: 1 llegadas: 4
+Parada 429 es importante: 1 llegadas: 2
+Parada 430 es importante: 1 llegadas: 2
+Parada 431 es importante: 1 llegadas: 2
+Parada 432 es importante: 1 llegadas: 2
+Parada 433 es importante: 1 llegadas: 2
+Parada 434 es importante: 1 llegadas: 2
+Parada 435 es importante: 1 llegadas: 2
+Parada 436 es importante: 1 llegadas: 2
+Parada 437 es importante: 1 llegadas: 2
+Parada 438 es importante: 1 llegadas: 2
+Parada 439 es importante: 1 llegadas: 2
+Parada 440 es importante: 1 llegadas: 4
+Parada 441 es importante: 1 llegadas: 4
+Parada 442 es importante: 1 llegadas: 2
+Parada 443 es importante: 1 llegadas: 2
+Parada 444 es importante: 1 llegadas: 4
+Parada 445 es importante: 1 llegadas: 2
+Parada 446 es importante: 1 llegadas: 2
+Parada 447 es importante: 1 llegadas: 4
+Parada 448 es importante: 1 llegadas: 3
+Parada 449 es importante: 1 llegadas: 2
+Parada 450 es importante: 1 llegadas: 2
+Parada 451 es importante: 0 llegadas: 1
+Parada 452 es importante: 0 llegadas: 1
+Parada 453 es importante: 1 llegadas: 2
+Parada 454 es importante: 1 llegadas: 2
+Parada 455 es importante: 1 llegadas: 6
+Parada 456 es importante: 1 llegadas: 2
+Parada 457 es importante: 1 llegadas: 2
+Parada 458 es importante: 1 llegadas: 2
+Parada 459 es importante: 1 llegadas: 2
+Parada 460 es importante: 1 llegadas: 2
+Parada 461 es importante: 1 llegadas: 2
+Parada 462 es importante: 1 llegadas: 2
+Parada 463 es importante: 1 llegadas: 2
+Parada 464 es importante: 1 llegadas: 2
+Parada 465 es importante: 1 llegadas: 2
+Parada 466 es importante: 1 llegadas: 2
+Parada 467 es importante: 0 llegadas: 1
+Parada 468 es importante: 1 llegadas: 2
+Parada 469 es importante: 0 llegadas: 1
+Parada 470 es importante: 1 llegadas: 2
+Parada 471 es importante: 1 llegadas: 2
+Parada 472 es importante: 1 llegadas: 2
+Parada 473 es importante: 1 llegadas: 4
+Parada 474 es importante: 1 llegadas: 2
+Parada 475 es importante: 1 llegadas: 2
+Parada 476 es importante: 1 llegadas: 2
+Parada 477 es importante: 1 llegadas: 2
+Parada 478 es importante: 1 llegadas: 2
+Parada 479 es importante: 1 llegadas: 2
+Parada 480 es importante: 1 llegadas: 2
+Parada 481 es importante: 1 llegadas: 2
+Parada 482 es importante: 1 llegadas: 2
+Parada 483 es importante: 1 llegadas: 2
+Parada 484 es importante: 1 llegadas: 2
+Parada 485 es importante: 1 llegadas: 2
+Parada 486 es importante: 1 llegadas: 2
+Parada 487 es importante: 1 llegadas: 2
+Parada 488 es importante: 1 llegadas: 4
+Parada 489 es importante: 1 llegadas: 4
+Parada 490 es importante: 1 llegadas: 2
+Parada 491 es importante: 1 llegadas: 2
+Parada 492 es importante: 1 llegadas: 2
+Parada 493 es importante: 1 llegadas: 4
+Parada 494 es importante: 1 llegadas: 2
+Parada 495 es importante: 1 llegadas: 2
+Parada 496 es importante: 1 llegadas: 2
+Parada 497 es importante: 1 llegadas: 2
+Parada 498 es importante: 1 llegadas: 2
+Parada 499 es importante: 1 llegadas: 2
+Parada 500 es importante: 1 llegadas: 2
+Parada 501 es importante: 1 llegadas: 2
+Parada 502 es importante: 1 llegadas: 2
+Parada 503 es importante: 1 llegadas: 2
+Parada 504 es importante: 1 llegadas: 2
+Parada 505 es importante: 1 llegadas: 2
+Parada 506 es importante: 1 llegadas: 2
+Parada 507 es importante: 1 llegadas: 2
+Parada 508 es importante: 1 llegadas: 2
+Parada 509 es importante: 1 llegadas: 4
+Parada 510 es importante: 1 llegadas: 6
+Parada 511 es importante: 1 llegadas: 2
+Parada 512 es importante: 1 llegadas: 2
+Parada 513 es importante: 1 llegadas: 2
+Parada 514 es importante: 1 llegadas: 2
+Parada 515 es importante: 1 llegadas: 2
+Parada 516 es importante: 1 llegadas: 2
+Parada 517 es importante: 1 llegadas: 2
+Parada 518 es importante: 1 llegadas: 2
+Parada 519 es importante: 1 llegadas: 2
+Parada 520 es importante: 1 llegadas: 2
+Parada 521 es importante: 1 llegadas: 2
+Parada 522 es importante: 1 llegadas: 2
+Parada 523 es importante: 1 llegadas: 2
+Parada 524 es importante: 1 llegadas: 2
+Parada 525 es importante: 1 llegadas: 4
+Parada 526 es importante: 1 llegadas: 2
+Parada 527 es importante: 1 llegadas: 2
+Parada 528 es importante: 1 llegadas: 2
+Parada 529 es importante: 1 llegadas: 8
+Parada 530 es importante: 1 llegadas: 4
+Parada 531 es importante: 1 llegadas: 2
+Parada 532 es importante: 1 llegadas: 2
+Parada 533 es importante: 1 llegadas: 3
+Parada 534 es importante: 1 llegadas: 3
+Parada 535 es importante: 1 llegadas: 2
+Parada 536 es importante: 0 llegadas: 1
+Parada 537 es importante: 0 llegadas: 1
+Parada 538 es importante: 1 llegadas: 2
+Parada 539 es importante: 1 llegadas: 2
+Parada 540 es importante: 1 llegadas: 2
+Parada 541 es importante: 1 llegadas: 2
+Parada 542 es importante: 1 llegadas: 2
+Parada 543 es importante: 1 llegadas: 2
+Parada 544 es importante: 1 llegadas: 2
+Parada 545 es importante: 1 llegadas: 2
+Parada 546 es importante: 1 llegadas: 2
+Parada 547 es importante: 1 llegadas: 2
+Parada 548 es importante: 1 llegadas: 2
+Parada 549 es importante: 1 llegadas: 4
+Parada 550 es importante: 1 llegadas: 2
+Parada 551 es importante: 1 llegadas: 2
+Parada 552 es importante: 1 llegadas: 2
+Parada 553 es importante: 1 llegadas: 2
+Parada 554 es importante: 1 llegadas: 2
+Parada 555 es importante: 1 llegadas: 2
+Parada 556 es importante: 1 llegadas: 2
+Parada 557 es importante: 0 llegadas: 1
+Parada 558 es importante: 1 llegadas: 2
+Parada 559 es importante: 1 llegadas: 4
+Parada 560 es importante: 1 llegadas: 2
+Parada 561 es importante: 1 llegadas: 2
+Parada 562 es importante: 1 llegadas: 2
+Parada 563 es importante: 1 llegadas: 4
+Parada 564 es importante: 1 llegadas: 2
+Parada 565 es importante: 1 llegadas: 2
+Parada 566 es importante: 1 llegadas: 2
+Parada 567 es importante: 1 llegadas: 4
+Parada 568 es importante: 1 llegadas: 2
+Parada 569 es importante: 1 llegadas: 2
+Parada 570 es importante: 1 llegadas: 5
+Parada 571 es importante: 1 llegadas: 3
+Parada 572 es importante: 1 llegadas: 2
+Parada 573 es importante: 1 llegadas: 2
+Parada 574 es importante: 1 llegadas: 2
+Parada 575 es importante: 1 llegadas: 2
+Parada 576 es importante: 1 llegadas: 4
+Parada 577 es importante: 0 llegadas: 1
+Parada 578 es importante: 1 llegadas: 4
+Parada 579 es importante: 1 llegadas: 2
+Parada 580 es importante: 1 llegadas: 3
+Parada 581 es importante: 1 llegadas: 2
+Parada 582 es importante: 1 llegadas: 2
+Parada 583 es importante: 1 llegadas: 2
+Parada 584 es importante: 1 llegadas: 2
+Parada 585 es importante: 1 llegadas: 4
+Parada 586 es importante: 1 llegadas: 2
+Parada 587 es importante: 1 llegadas: 2
+Parada 588 es importante: 1 llegadas: 2
+Parada 589 es importante: 1 llegadas: 2
+Parada 590 es importante: 1 llegadas: 2
+Parada 591 es importante: 1 llegadas: 4
+Parada 592 es importante: 0 llegadas: 1
+Parada 593 es importante: 1 llegadas: 2
+Parada 594 es importante: 1 llegadas: 2
+Parada 595 es importante: 1 llegadas: 2
+Parada 596 es importante: 1 llegadas: 2
+Parada 597 es importante: 1 llegadas: 2
+Parada 598 es importante: 1 llegadas: 2
+Parada 599 es importante: 1 llegadas: 2
+Parada 600 es importante: 1 llegadas: 4
+Parada 601 es importante: 1 llegadas: 4
+Parada 602 es importante: 1 llegadas: 8
+Parada 603 es importante: 1 llegadas: 2
+Parada 604 es importante: 0 llegadas: 1
+Parada 605 es importante: 1 llegadas: 4
+Parada 606 es importante: 1 llegadas: 2
+Parada 607 es importante: 1 llegadas: 4
+Parada 608 es importante: 0 llegadas: 1
+Parada 609 es importante: 1 llegadas: 2
+Parada 610 es importante: 1 llegadas: 2
+Parada 611 es importante: 1 llegadas: 2
+Parada 612 es importante: 1 llegadas: 2
+Parada 613 es importante: 1 llegadas: 2
+Parada 614 es importante: 1 llegadas: 2
+Parada 615 es importante: 1 llegadas: 2
+Parada 616 es importante: 1 llegadas: 2
+Parada 617 es importante: 1 llegadas: 2
+Parada 618 es importante: 1 llegadas: 2
+Parada 619 es importante: 1 llegadas: 2
+Parada 620 es importante: 1 llegadas: 2
+Parada 621 es importante: 1 llegadas: 2
+Parada 622 es importante: 1 llegadas: 4
+Parada 623 es importante: 1 llegadas: 2
+Parada 624 es importante: 1 llegadas: 2
+Parada 625 es importante: 1 llegadas: 2
+Parada 626 es importante: 0 llegadas: 1
+Parada 627 es importante: 1 llegadas: 2
+Parada 628 es importante: 1 llegadas: 2
+Parada 629 es importante: 1 llegadas: 2
+Parada 630 es importante: 1 llegadas: 2
+Parada 631 es importante: 1 llegadas: 2
+Parada 632 es importante: 1 llegadas: 2
+Parada 633 es importante: 1 llegadas: 2
+Parada 634 es importante: 1 llegadas: 4
+Parada 635 es importante: 1 llegadas: 2
+Parada 636 es importante: 1 llegadas: 2
+Parada 637 es importante: 1 llegadas: 2
+Parada 638 es importante: 1 llegadas: 4
+Parada 639 es importante: 1 llegadas: 2
+Parada 640 es importante: 1 llegadas: 2
+Parada 641 es importante: 1 llegadas: 2
+Parada 642 es importante: 1 llegadas: 2
+Parada 643 es importante: 1 llegadas: 2
+Parada 644 es importante: 1 llegadas: 2
+Parada 645 es importante: 1 llegadas: 4
+Parada 646 es importante: 1 llegadas: 2
+Parada 647 es importante: 1 llegadas: 2
+Parada 648 es importante: 1 llegadas: 2
+Parada 649 es importante: 1 llegadas: 2
+Parada 650 es importante: 1 llegadas: 2
+Parada 651 es importante: 1 llegadas: 2
+Parada 652 es importante: 1 llegadas: 2
+Parada 653 es importante: 1 llegadas: 2
+Parada 654 es importante: 1 llegadas: 2
+Parada 655 es importante: 1 llegadas: 2
+Parada 656 es importante: 1 llegadas: 2
+Parada 657 es importante: 1 llegadas: 4
+Parada 658 es importante: 1 llegadas: 2
+Parada 659 es importante: 1 llegadas: 2
+Parada 660 es importante: 1 llegadas: 2
+Parada 661 es importante: 1 llegadas: 2
+Parada 662 es importante: 1 llegadas: 2
+Parada 663 es importante: 1 llegadas: 2
+Parada 664 es importante: 1 llegadas: 2
+Parada 665 es importante: 1 llegadas: 4
+Parada 666 es importante: 1 llegadas: 2
+Parada 667 es importante: 1 llegadas: 2
+Parada 668 es importante: 1 llegadas: 2
+Parada 669 es importante: 1 llegadas: 2
+Parada 670 es importante: 1 llegadas: 2
+Parada 671 es importante: 1 llegadas: 4
+Parada 672 es importante: 1 llegadas: 2
+Parada 673 es importante: 1 llegadas: 3
+Parada 674 es importante: 1 llegadas: 2
+Parada 675 es importante: 1 llegadas: 2
+Parada 676 es importante: 1 llegadas: 6
+Parada 677 es importante: 1 llegadas: 2
+Parada 678 es importante: 1 llegadas: 2
+Parada 679 es importante: 1 llegadas: 2
+Parada 680 es importante: 1 llegadas: 2
+Parada 681 es importante: 1 llegadas: 4
+Parada 682 es importante: 1 llegadas: 2
+Parada 683 es importante: 1 llegadas: 2
+Parada 684 es importante: 1 llegadas: 2
+Parada 685 es importante: 1 llegadas: 2
+Parada 686 es importante: 1 llegadas: 5
+Parada 687 es importante: 1 llegadas: 2
+Parada 688 es importante: 1 llegadas: 2
+Parada 689 es importante: 1 llegadas: 3
+Parada 690 es importante: 1 llegadas: 2
+Parada 691 es importante: 1 llegadas: 2
+Parada 692 es importante: 0 llegadas: 1
+Parada 693 es importante: 1 llegadas: 2
+Parada 694 es importante: 1 llegadas: 3
+Parada 695 es importante: 1 llegadas: 2
+Parada 696 es importante: 1 llegadas: 2
+Parada 697 es importante: 1 llegadas: 2
+Parada 698 es importante: 0 llegadas: 1
+Parada 699 es importante: 1 llegadas: 2
+Parada 700 es importante: 1 llegadas: 2
+Parada 701 es importante: 1 llegadas: 2
+Parada 702 es importante: 1 llegadas: 2
+Parada 703 es importante: 1 llegadas: 2
+Parada 704 es importante: 1 llegadas: 2
+Parada 705 es importante: 1 llegadas: 5
+Parada 706 es importante: 1 llegadas: 2
+Parada 707 es importante: 1 llegadas: 2
+Parada 708 es importante: 1 llegadas: 2
+Parada 709 es importante: 1 llegadas: 4
+Parada 710 es importante: 1 llegadas: 2
+Parada 711 es importante: 1 llegadas: 2
+Parada 712 es importante: 1 llegadas: 2
+Parada 713 es importante: 1 llegadas: 2
+Parada 714 es importante: 1 llegadas: 2
+Parada 715 es importante: 1 llegadas: 2
+Parada 716 es importante: 1 llegadas: 2
+Parada 717 es importante: 1 llegadas: 2
+Parada 718 es importante: 1 llegadas: 4
+Parada 719 es importante: 1 llegadas: 4
+Parada 720 es importante: 1 llegadas: 2
+Parada 721 es importante: 1 llegadas: 2
+Parada 722 es importante: 1 llegadas: 2
+Parada 723 es importante: 1 llegadas: 2
+Parada 724 es importante: 1 llegadas: 2
+Parada 725 es importante: 1 llegadas: 2
+Parada 726 es importante: 1 llegadas: 2
+Parada 727 es importante: 1 llegadas: 2
+Parada 728 es importante: 1 llegadas: 3
+Parada 729 es importante: 1 llegadas: 2
+Parada 730 es importante: 1 llegadas: 2
+Parada 731 es importante: 1 llegadas: 6
+Parada 732 es importante: 1 llegadas: 2
+Parada 733 es importante: 1 llegadas: 2
+Parada 734 es importante: 1 llegadas: 2
+Parada 735 es importante: 1 llegadas: 2
+Parada 736 es importante: 1 llegadas: 2
+Parada 737 es importante: 1 llegadas: 4
+Parada 738 es importante: 1 llegadas: 2
+Parada 739 es importante: 1 llegadas: 2
+Parada 740 es importante: 0 llegadas: 1
+Parada 741 es importante: 1 llegadas: 2
+Parada 742 es importante: 1 llegadas: 2
+Parada 743 es importante: 1 llegadas: 4
+Parada 744 es importante: 1 llegadas: 2
+Parada 745 es importante: 1 llegadas: 2
+Parada 746 es importante: 1 llegadas: 2
+Parada 747 es importante: 1 llegadas: 2
+Parada 748 es importante: 1 llegadas: 2
+Parada 749 es importante: 1 llegadas: 2
+Parada 750 es importante: 1 llegadas: 2
+Parada 751 es importante: 1 llegadas: 2
+Parada 752 es importante: 1 llegadas: 2
+Parada 753 es importante: 1 llegadas: 2
+Parada 754 es importante: 1 llegadas: 2
+Parada 755 es importante: 1 llegadas: 4
+Parada 756 es importante: 1 llegadas: 2
+Parada 757 es importante: 0 llegadas: 1
+Parada 758 es importante: 1 llegadas: 2
+Parada 759 es importante: 1 llegadas: 2
+Parada 760 es importante: 1 llegadas: 2
+Parada 761 es importante: 1 llegadas: 4
+Parada 762 es importante: 1 llegadas: 2
+Parada 763 es importante: 1 llegadas: 2
+Parada 764 es importante: 1 llegadas: 2
+Parada 765 es importante: 1 llegadas: 2
+Parada 766 es importante: 1 llegadas: 2
+Parada 767 es importante: 1 llegadas: 2
+Parada 768 es importante: 1 llegadas: 2
+Parada 769 es importante: 1 llegadas: 4
+Parada 770 es importante: 1 llegadas: 2
+Parada 771 es importante: 1 llegadas: 2
+Parada 772 es importante: 1 llegadas: 2
+Parada 773 es importante: 1 llegadas: 2
+Parada 774 es importante: 1 llegadas: 2
+Parada 775 es importante: 1 llegadas: 2
+Parada 776 es importante: 1 llegadas: 2
+Parada 777 es importante: 1 llegadas: 2
+Parada 778 es importante: 1 llegadas: 2
+Parada 779 es importante: 1 llegadas: 2
+Parada 780 es importante: 1 llegadas: 2
+Parada 781 es importante: 1 llegadas: 2
+Parada 782 es importante: 1 llegadas: 2
+Parada 783 es importante: 1 llegadas: 2
+Parada 784 es importante: 1 llegadas: 8
+Parada 785 es importante: 1 llegadas: 2
+Parada 786 es importante: 1 llegadas: 2
+Parada 787 es importante: 1 llegadas: 6
+Parada 788 es importante: 1 llegadas: 2
+Parada 789 es importante: 1 llegadas: 2
+Parada 790 es importante: 1 llegadas: 5
+Parada 791 es importante: 1 llegadas: 3
+Parada 792 es importante: 1 llegadas: 2
+Parada 793 es importante: 1 llegadas: 2
+Parada 794 es importante: 1 llegadas: 2
+Parada 795 es importante: 1 llegadas: 2
+Parada 796 es importante: 1 llegadas: 2
+Parada 797 es importante: 1 llegadas: 2
+Parada 798 es importante: 1 llegadas: 2
+Parada 799 es importante: 1 llegadas: 2
+Parada 800 es importante: 1 llegadas: 2
+Parada 801 es importante: 1 llegadas: 2
+Parada 802 es importante: 1 llegadas: 2
+Parada 803 es importante: 1 llegadas: 6
+Parada 804 es importante: 1 llegadas: 2
+Parada 805 es importante: 1 llegadas: 2
+Parada 806 es importante: 1 llegadas: 8
+Parada 807 es importante: 1 llegadas: 2
+Parada 808 es importante: 1 llegadas: 4
+Parada 809 es importante: 1 llegadas: 2
+Parada 810 es importante: 1 llegadas: 2
+Parada 811 es importante: 1 llegadas: 2
+Parada 812 es importante: 1 llegadas: 2
+Parada 813 es importante: 1 llegadas: 4
+Parada 814 es importante: 1 llegadas: 4
+Parada 815 es importante: 1 llegadas: 4
+Parada 816 es importante: 1 llegadas: 2
+Parada 817 es importante: 1 llegadas: 2
+Parada 818 es importante: 1 llegadas: 2
+Parada 819 es importante: 1 llegadas: 4
+Parada 820 es importante: 1 llegadas: 2
+Parada 821 es importante: 1 llegadas: 2
+Parada 822 es importante: 1 llegadas: 2
+Parada 823 es importante: 1 llegadas: 2
+Parada 824 es importante: 1 llegadas: 2
+Parada 825 es importante: 1 llegadas: 2
+Parada 826 es importante: 1 llegadas: 4
+Parada 827 es importante: 0 llegadas: 1
+Parada 828 es importante: 1 llegadas: 2
+Parada 829 es importante: 1 llegadas: 2
+Parada 830 es importante: 1 llegadas: 2
+Parada 831 es importante: 1 llegadas: 2
+Parada 832 es importante: 1 llegadas: 3
+Parada 833 es importante: 1 llegadas: 2
+Parada 834 es importante: 1 llegadas: 2
+Parada 835 es importante: 1 llegadas: 3
+Parada 836 es importante: 1 llegadas: 2
+Parada 837 es importante: 1 llegadas: 4
+Parada 838 es importante: 0 llegadas: 1
+Parada 839 es importante: 1 llegadas: 6
+Parada 840 es importante: 1 llegadas: 2
+Parada 841 es importante: 1 llegadas: 2
+Parada 842 es importante: 1 llegadas: 2
+Parada 843 es importante: 1 llegadas: 2
+Parada 844 es importante: 1 llegadas: 2
+Parada 845 es importante: 1 llegadas: 2
+Parada 846 es importante: 1 llegadas: 2
+Parada 847 es importante: 1 llegadas: 2
+Parada 848 es importante: 1 llegadas: 4
+Parada 849 es importante: 0 llegadas: 1
+Parada 850 es importante: 1 llegadas: 2
+Parada 851 es importante: 1 llegadas: 2
+Parada 852 es importante: 1 llegadas: 2
+Parada 853 es importante: 1 llegadas: 2
+Parada 854 es importante: 1 llegadas: 2
+Parada 855 es importante: 1 llegadas: 2
+Parada 856 es importante: 1 llegadas: 3
+Parada 857 es importante: 1 llegadas: 2
+Parada 858 es importante: 1 llegadas: 2
+Parada 859 es importante: 1 llegadas: 2
+Parada 860 es importante: 1 llegadas: 2
+Parada 861 es importante: 1 llegadas: 2
+Parada 862 es importante: 1 llegadas: 2
+Parada 863 es importante: 1 llegadas: 4
+Parada 864 es importante: 1 llegadas: 2
+Parada 865 es importante: 1 llegadas: 2
+Parada 866 es importante: 1 llegadas: 2
+Parada 867 es importante: 1 llegadas: 3
+Parada 868 es importante: 1 llegadas: 2
+Parada 869 es importante: 1 llegadas: 2
+Parada 870 es importante: 1 llegadas: 6
+Parada 871 es importante: 1 llegadas: 2
+Parada 872 es importante: 1 llegadas: 3
+Parada 873 es importante: 1 llegadas: 2
+Parada 874 es importante: 1 llegadas: 2
+Parada 875 es importante: 0 llegadas: 1
+Parada 876 es importante: 1 llegadas: 2
+Parada 877 es importante: 1 llegadas: 4
+Parada 878 es importante: 1 llegadas: 2
+Parada 879 es importante: 1 llegadas: 2
+Parada 880 es importante: 1 llegadas: 2
+Parada 881 es importante: 0 llegadas: 1
+Parada 882 es importante: 1 llegadas: 2
+Parada 883 es importante: 1 llegadas: 2
+Parada 884 es importante: 1 llegadas: 2
+Parada 885 es importante: 1 llegadas: 2
+Parada 886 es importante: 1 llegadas: 2
+Parada 887 es importante: 1 llegadas: 2
+Parada 888 es importante: 1 llegadas: 3
+Parada 889 es importante: 1 llegadas: 2
+Parada 890 es importante: 1 llegadas: 2
+Parada 891 es importante: 1 llegadas: 6
+Parada 892 es importante: 1 llegadas: 2
+Parada 893 es importante: 1 llegadas: 2
+Parada 894 es importante: 1 llegadas: 2
+Parada 895 es importante: 1 llegadas: 2
+Parada 896 es importante: 1 llegadas: 2
+Parada 897 es importante: 1 llegadas: 2
+Parada 898 es importante: 1 llegadas: 6
+Parada 899 es importante: 1 llegadas: 2
+Parada 900 es importante: 1 llegadas: 2
+Parada 901 es importante: 1 llegadas: 3
+Parada 902 es importante: 1 llegadas: 4
+Parada 903 es importante: 1 llegadas: 2
+Parada 904 es importante: 1 llegadas: 2
+Parada 905 es importante: 1 llegadas: 4
+Parada 906 es importante: 1 llegadas: 2
+Parada 907 es importante: 1 llegadas: 4
+Parada 908 es importante: 1 llegadas: 2
+Parada 909 es importante: 1 llegadas: 2
+Parada 910 es importante: 1 llegadas: 2
+Parada 911 es importante: 1 llegadas: 2
+Parada 912 es importante: 1 llegadas: 3
+Parada 913 es importante: 1 llegadas: 4
+Parada 914 es importante: 1 llegadas: 2
+Parada 915 es importante: 1 llegadas: 2
+Parada 916 es importante: 1 llegadas: 2
+Parada 917 es importante: 1 llegadas: 2
+Parada 918 es importante: 1 llegadas: 2
+Parada 919 es importante: 1 llegadas: 2
+Parada 920 es importante: 1 llegadas: 2
+Parada 921 es importante: 1 llegadas: 2
+Parada 922 es importante: 1 llegadas: 3
+Parada 923 es importante: 1 llegadas: 4
+Parada 924 es importante: 1 llegadas: 2
+Parada 925 es importante: 1 llegadas: 4
+Parada 926 es importante: 1 llegadas: 2
+Parada 927 es importante: 1 llegadas: 2
+Parada 928 es importante: 1 llegadas: 2
+Parada 929 es importante: 1 llegadas: 2
+Parada 930 es importante: 1 llegadas: 4
+Parada 931 es importante: 1 llegadas: 2
+Parada 932 es importante: 1 llegadas: 2
+Parada 933 es importante: 1 llegadas: 4
+Parada 934 es importante: 1 llegadas: 2
+Parada 935 es importante: 1 llegadas: 2
+Parada 936 es importante: 1 llegadas: 2
+Parada 937 es importante: 1 llegadas: 2
+Parada 938 es importante: 1 llegadas: 2
+Parada 939 es importante: 1 llegadas: 2
+Parada 940 es importante: 1 llegadas: 2
+Parada 941 es importante: 1 llegadas: 2
+Parada 942 es importante: 1 llegadas: 2
+Parada 943 es importante: 1 llegadas: 2
+Parada 944 es importante: 1 llegadas: 2
+Parada 945 es importante: 1 llegadas: 2
+Parada 946 es importante: 1 llegadas: 2
+Parada 947 es importante: 0 llegadas: 1
+Parada 948 es importante: 1 llegadas: 2
+Parada 949 es importante: 1 llegadas: 2
+Parada 950 es importante: 1 llegadas: 2
+Parada 951 es importante: 1 llegadas: 2
+Parada 952 es importante: 1 llegadas: 2
+Parada 953 es importante: 1 llegadas: 2
+Parada 954 es importante: 1 llegadas: 2
+Parada 955 es importante: 1 llegadas: 2
+Parada 956 es importante: 1 llegadas: 2
+Parada 957 es importante: 1 llegadas: 4
+Parada 958 es importante: 1 llegadas: 4
+Parada 959 es importante: 1 llegadas: 2
+Parada 960 es importante: 1 llegadas: 2
+Parada 961 es importante: 1 llegadas: 2
+Parada 962 es importante: 1 llegadas: 2
+Parada 963 es importante: 1 llegadas: 2
+Parada 964 es importante: 1 llegadas: 2
+Parada 965 es importante: 1 llegadas: 2
+Parada 966 es importante: 1 llegadas: 3
+Parada 967 es importante: 1 llegadas: 2
+Parada 968 es importante: 1 llegadas: 6
+Parada 969 es importante: 1 llegadas: 2
+Parada 970 es importante: 1 llegadas: 2
+Parada 971 es importante: 1 llegadas: 4
+Parada 972 es importante: 1 llegadas: 2
+Parada 973 es importante: 1 llegadas: 4
+Parada 974 es importante: 1 llegadas: 2
+Parada 975 es importante: 0 llegadas: 1
+Parada 976 es importante: 1 llegadas: 2
+Parada 977 es importante: 1 llegadas: 2
+Parada 978 es importante: 1 llegadas: 4
+Parada 979 es importante: 1 llegadas: 2
+Parada 980 es importante: 1 llegadas: 2
+Parada 981 es importante: 1 llegadas: 2
+Parada 982 es importante: 1 llegadas: 2
+Parada 983 es importante: 1 llegadas: 2
+Parada 984 es importante: 0 llegadas: 1
+Parada 985 es importante: 1 llegadas: 2
+Parada 986 es importante: 1 llegadas: 2
+Parada 987 es importante: 1 llegadas: 2
+Parada 988 es importante: 1 llegadas: 2
+Parada 989 es importante: 1 llegadas: 2
+Parada 990 es importante: 1 llegadas: 2
+Parada 991 es importante: 1 llegadas: 2
+Parada 992 es importante: 1 llegadas: 2
+Parada 993 es importante: 1 llegadas: 2
+Parada 994 es importante: 1 llegadas: 2
+Parada 995 es importante: 1 llegadas: 2
+Parada 996 es importante: 1 llegadas: 2
+Parada 997 es importante: 1 llegadas: 2
+Parada 998 es importante: 1 llegadas: 4
+Parada 999 es importante: 1 llegadas: 2
+Parada 1000 es importante: 1 llegadas: 4
+Parada 1001 es importante: 1 llegadas: 2
+Parada 1002 es importante: 0 llegadas: 1
+Parada 1003 es importante: 1 llegadas: 2
+Parada 1004 es importante: 1 llegadas: 4
+Parada 1005 es importante: 1 llegadas: 2
+Parada 1006 es importante: 0 llegadas: 1
+Parada 1007 es importante: 1 llegadas: 2
+Parada 1008 es importante: 1 llegadas: 2
+Parada 1009 es importante: 1 llegadas: 4
+Parada 1010 es importante: 1 llegadas: 2
+Parada 1011 es importante: 1 llegadas: 4
+Parada 1012 es importante: 1 llegadas: 4
+Parada 1013 es importante: 1 llegadas: 4
+Parada 1014 es importante: 1 llegadas: 2
+Parada 1015 es importante: 1 llegadas: 2
+Parada 1016 es importante: 1 llegadas: 2
+Parada 1017 es importante: 1 llegadas: 2
+Parada 1018 es importante: 1 llegadas: 2
+Parada 1019 es importante: 1 llegadas: 2
+Parada 1020 es importante: 1 llegadas: 2
+Parada 1021 es importante: 1 llegadas: 4
+Parada 1022 es importante: 1 llegadas: 2
+Parada 1023 es importante: 1 llegadas: 2
+Parada 1024 es importante: 1 llegadas: 2
+Parada 1025 es importante: 1 llegadas: 2
+Parada 1026 es importante: 1 llegadas: 2
+Parada 1027 es importante: 1 llegadas: 2
+Parada 1028 es importante: 1 llegadas: 2
+Parada 1029 es importante: 1 llegadas: 2
+Parada 1030 es importante: 0 llegadas: 1
+Parada 1031 es importante: 1 llegadas: 2
+Parada 1032 es importante: 1 llegadas: 2
+Parada 1033 es importante: 1 llegadas: 2
+Parada 1034 es importante: 1 llegadas: 2
+Parada 1035 es importante: 1 llegadas: 2
+Parada 1036 es importante: 1 llegadas: 2
+Parada 1037 es importante: 1 llegadas: 2
+Parada 1038 es importante: 1 llegadas: 6
+Parada 1039 es importante: 1 llegadas: 2
+Parada 1040 es importante: 1 llegadas: 2
+Parada 1041 es importante: 1 llegadas: 4
+Parada 1042 es importante: 1 llegadas: 2
+Parada 1043 es importante: 1 llegadas: 2
+Parada 1044 es importante: 1 llegadas: 2
+Parada 1045 es importante: 1 llegadas: 2
+Parada 1046 es importante: 1 llegadas: 6
+Parada 1047 es importante: 1 llegadas: 2
+Parada 1048 es importante: 1 llegadas: 2
+Parada 1049 es importante: 1 llegadas: 2
+Parada 1050 es importante: 1 llegadas: 2
+Parada 1051 es importante: 1 llegadas: 2
+Parada 1052 es importante: 1 llegadas: 2
+Parada 1053 es importante: 1 llegadas: 2
+Parada 1054 es importante: 0 llegadas: 1
+Parada 1055 es importante: 1 llegadas: 2
+Parada 1056 es importante: 1 llegadas: 2
+Parada 1057 es importante: 1 llegadas: 2
+Parada 1058 es importante: 1 llegadas: 2
+Parada 1059 es importante: 1 llegadas: 4
+Parada 1060 es importante: 1 llegadas: 4
+Parada 1061 es importante: 1 llegadas: 2
+Parada 1062 es importante: 1 llegadas: 4
+Parada 1063 es importante: 1 llegadas: 2
+Parada 1064 es importante: 1 llegadas: 2
+Parada 1065 es importante: 1 llegadas: 2
+Parada 1066 es importante: 1 llegadas: 2
+Parada 1067 es importante: 1 llegadas: 2
+Parada 1068 es importante: 1 llegadas: 2
+Parada 1069 es importante: 1 llegadas: 2
+Parada 1070 es importante: 1 llegadas: 4
+Parada 1071 es importante: 1 llegadas: 2
+Parada 1072 es importante: 1 llegadas: 2
+Parada 1073 es importante: 1 llegadas: 2
+Parada 1074 es importante: 1 llegadas: 2
+Parada 1075 es importante: 1 llegadas: 6
+Parada 1076 es importante: 1 llegadas: 4
+Parada 1077 es importante: 1 llegadas: 2
+Parada 1078 es importante: 1 llegadas: 2
+Parada 1079 es importante: 1 llegadas: 2
+Parada 1080 es importante: 1 llegadas: 2
+Parada 1081 es importante: 1 llegadas: 2
+Parada 1082 es importante: 1 llegadas: 2
+Parada 1083 es importante: 1 llegadas: 4
+Parada 1084 es importante: 1 llegadas: 2
+Parada 1085 es importante: 1 llegadas: 2
+Parada 1086 es importante: 1 llegadas: 4
+Parada 1087 es importante: 1 llegadas: 2
+Parada 1088 es importante: 1 llegadas: 4
+Parada 1089 es importante: 1 llegadas: 3
+Parada 1090 es importante: 1 llegadas: 2
+Parada 1091 es importante: 1 llegadas: 2
+Parada 1092 es importante: 1 llegadas: 3
+Parada 1093 es importante: 1 llegadas: 2
+Parada 1094 es importante: 1 llegadas: 4
+Parada 1095 es importante: 0 llegadas: 1
+Parada 1096 es importante: 1 llegadas: 2
+Parada 1097 es importante: 1 llegadas: 4
+Parada 1098 es importante: 1 llegadas: 4
+Parada 1099 es importante: 1 llegadas: 2
+Parada 1100 es importante: 1 llegadas: 2
+Parada 1101 es importante: 1 llegadas: 4
+Parada 1102 es importante: 1 llegadas: 4
+Parada 1103 es importante: 1 llegadas: 2
+Parada 1104 es importante: 1 llegadas: 4
+Parada 1105 es importante: 1 llegadas: 4
+Parada 1106 es importante: 1 llegadas: 2
+Parada 1107 es importante: 1 llegadas: 2
+Parada 1108 es importante: 1 llegadas: 2
+Parada 1109 es importante: 1 llegadas: 2
+Parada 1110 es importante: 1 llegadas: 2
+Parada 1111 es importante: 1 llegadas: 2
+Parada 1112 es importante: 1 llegadas: 2
+Parada 1113 es importante: 1 llegadas: 2
+Parada 1114 es importante: 1 llegadas: 2
+Parada 1115 es importante: 1 llegadas: 2
+Parada 1116 es importante: 1 llegadas: 4
+Parada 1117 es importante: 1 llegadas: 2
+Parada 1118 es importante: 1 llegadas: 2
+Parada 1119 es importante: 1 llegadas: 2
+Parada 1120 es importante: 1 llegadas: 2
+Parada 1121 es importante: 1 llegadas: 2
+Parada 1122 es importante: 1 llegadas: 2
+Parada 1123 es importante: 1 llegadas: 5
+Parada 1124 es importante: 1 llegadas: 2
+Parada 1125 es importante: 1 llegadas: 2
+Parada 1126 es importante: 1 llegadas: 2
+Parada 1127 es importante: 1 llegadas: 2
+Parada 1128 es importante: 1 llegadas: 2
+Parada 1129 es importante: 1 llegadas: 2
+Parada 1130 es importante: 1 llegadas: 2
+Parada 1131 es importante: 1 llegadas: 2
+Parada 1132 es importante: 1 llegadas: 2
+Parada 1133 es importante: 1 llegadas: 3
+Parada 1134 es importante: 1 llegadas: 2
+Parada 1135 es importante: 1 llegadas: 2
+Parada 1136 es importante: 1 llegadas: 2
+Parada 1137 es importante: 1 llegadas: 2
+Parada 1138 es importante: 1 llegadas: 4
+Parada 1139 es importante: 1 llegadas: 2
+Parada 1140 es importante: 1 llegadas: 2
+Parada 1141 es importante: 1 llegadas: 4
+Parada 1142 es importante: 1 llegadas: 2
+Parada 1143 es importante: 1 llegadas: 2
+Parada 1144 es importante: 1 llegadas: 2
+Parada 1145 es importante: 1 llegadas: 2
+Parada 1146 es importante: 1 llegadas: 2
+Parada 1147 es importante: 1 llegadas: 5
+Parada 1148 es importante: 1 llegadas: 2
+Parada 1149 es importante: 1 llegadas: 2
+Parada 1150 es importante: 0 llegadas: 1
+Parada 1151 es importante: 1 llegadas: 2
+Parada 1152 es importante: 1 llegadas: 2
+Parada 1153 es importante: 1 llegadas: 2
+Parada 1154 es importante: 1 llegadas: 2
+Parada 1155 es importante: 1 llegadas: 2
+Parada 1156 es importante: 1 llegadas: 2
+Parada 1157 es importante: 1 llegadas: 2
+Parada 1158 es importante: 0 llegadas: 1
+Parada 1159 es importante: 1 llegadas: 2
+Parada 1160 es importante: 1 llegadas: 2
+Parada 1161 es importante: 1 llegadas: 2
+Parada 1162 es importante: 1 llegadas: 2
+Parada 1163 es importante: 1 llegadas: 2
+Parada 1164 es importante: 1 llegadas: 4
+Parada 1165 es importante: 1 llegadas: 2
+Parada 1166 es importante: 1 llegadas: 4
+Parada 1167 es importante: 1 llegadas: 2
+Parada 1168 es importante: 1 llegadas: 2
+Parada 1169 es importante: 1 llegadas: 2
+Parada 1170 es importante: 1 llegadas: 2
+Parada 1171 es importante: 1 llegadas: 2
+Parada 1172 es importante: 1 llegadas: 2
+Parada 1173 es importante: 1 llegadas: 2
+Parada 1174 es importante: 1 llegadas: 2
+Parada 1175 es importante: 1 llegadas: 2
+Parada 1176 es importante: 1 llegadas: 2
+Parada 1177 es importante: 1 llegadas: 2
+Parada 1178 es importante: 1 llegadas: 2
+Parada 1179 es importante: 1 llegadas: 2
+Parada 1180 es importante: 1 llegadas: 2
+Parada 1181 es importante: 1 llegadas: 2
+Parada 1182 es importante: 1 llegadas: 2
+Parada 1183 es importante: 1 llegadas: 2
+Parada 1184 es importante: 1 llegadas: 4
+Parada 1185 es importante: 1 llegadas: 2
+Parada 1186 es importante: 1 llegadas: 3
+Parada 1187 es importante: 1 llegadas: 5
+Parada 1188 es importante: 1 llegadas: 2
+Parada 1189 es importante: 1 llegadas: 2
+Parada 1190 es importante: 1 llegadas: 4
+Parada 1191 es importante: 1 llegadas: 2
+Parada 1192 es importante: 1 llegadas: 4
+Parada 1193 es importante: 1 llegadas: 2
+Parada 1194 es importante: 1 llegadas: 2
+Parada 1195 es importante: 1 llegadas: 2
+Parada 1196 es importante: 1 llegadas: 2
+Parada 1197 es importante: 1 llegadas: 2
+Parada 1198 es importante: 1 llegadas: 2
+Parada 1199 es importante: 1 llegadas: 2
+Parada 1200 es importante: 1 llegadas: 2
+Parada 1201 es importante: 1 llegadas: 2
+Parada 1202 es importante: 1 llegadas: 2
+Parada 1203 es importante: 1 llegadas: 2
+Parada 1204 es importante: 1 llegadas: 2
+Parada 1205 es importante: 1 llegadas: 2
+Parada 1206 es importante: 1 llegadas: 2
+Parada 1207 es importante: 1 llegadas: 2
+Parada 1208 es importante: 1 llegadas: 2
+Parada 1209 es importante: 0 llegadas: 1
+Parada 1210 es importante: 1 llegadas: 5
+Parada 1211 es importante: 1 llegadas: 2
+Parada 1212 es importante: 1 llegadas: 2
+Parada 1213 es importante: 1 llegadas: 2
+Parada 1214 es importante: 1 llegadas: 8
+Parada 1215 es importante: 1 llegadas: 2
+Parada 1216 es importante: 1 llegadas: 2
+Parada 1217 es importante: 1 llegadas: 2
+Parada 1218 es importante: 1 llegadas: 4
+Parada 1219 es importante: 1 llegadas: 2
+Parada 1220 es importante: 1 llegadas: 2
+Parada 1221 es importante: 1 llegadas: 2
+Parada 1222 es importante: 1 llegadas: 2
+Parada 1223 es importante: 1 llegadas: 4
+Parada 1224 es importante: 1 llegadas: 2
+Parada 1225 es importante: 1 llegadas: 2
+Parada 1226 es importante: 1 llegadas: 2
+Parada 1227 es importante: 1 llegadas: 4
+Parada 1228 es importante: 1 llegadas: 2
+Parada 1229 es importante: 1 llegadas: 7
+Parada 1230 es importante: 1 llegadas: 6
+Parada 1231 es importante: 1 llegadas: 2
+Parada 1232 es importante: 1 llegadas: 2
+Parada 1233 es importante: 1 llegadas: 2
+Parada 1234 es importante: 0 llegadas: 1
+Parada 1235 es importante: 0 llegadas: 1
+Parada 1236 es importante: 1 llegadas: 2
+Parada 1237 es importante: 1 llegadas: 2
+Parada 1238 es importante: 1 llegadas: 2
+Parada 1239 es importante: 1 llegadas: 2
+Parada 1240 es importante: 1 llegadas: 2
+Parada 1241 es importante: 1 llegadas: 2
+Parada 1242 es importante: 1 llegadas: 4
+Parada 1243 es importante: 1 llegadas: 2
+Parada 1244 es importante: 1 llegadas: 8
+Parada 1245 es importante: 1 llegadas: 2
+Parada 1246 es importante: 1 llegadas: 5
+Parada 1247 es importante: 1 llegadas: 2
+Parada 1248 es importante: 1 llegadas: 2
+Parada 1249 es importante: 1 llegadas: 2
+Parada 1250 es importante: 1 llegadas: 4
+Parada 1251 es importante: 1 llegadas: 2
+Parada 1252 es importante: 1 llegadas: 2
+Parada 1253 es importante: 1 llegadas: 2
+Parada 1254 es importante: 1 llegadas: 4
+Parada 1255 es importante: 1 llegadas: 2
+Parada 1256 es importante: 0 llegadas: 1
+Parada 1257 es importante: 1 llegadas: 2
+Parada 1258 es importante: 0 llegadas: 1
+Parada 1259 es importante: 1 llegadas: 6
+Parada 1260 es importante: 1 llegadas: 2
+Parada 1261 es importante: 1 llegadas: 6
+Parada 1262 es importante: 1 llegadas: 2
+Parada 1263 es importante: 1 llegadas: 2
+Parada 1264 es importante: 1 llegadas: 2
+Parada 1265 es importante: 1 llegadas: 2
+Parada 1266 es importante: 0 llegadas: 1
+Parada 1267 es importante: 1 llegadas: 2
+Parada 1268 es importante: 1 llegadas: 2
+Parada 1269 es importante: 1 llegadas: 2
+Parada 1270 es importante: 1 llegadas: 2
+Parada 1271 es importante: 1 llegadas: 2
+Parada 1272 es importante: 1 llegadas: 2
+Parada 1273 es importante: 1 llegadas: 4
+Parada 1274 es importante: 1 llegadas: 2
+Parada 1275 es importante: 1 llegadas: 2
+Parada 1276 es importante: 1 llegadas: 2
+Parada 1277 es importante: 1 llegadas: 2
+Parada 1278 es importante: 1 llegadas: 2
+Parada 1279 es importante: 1 llegadas: 4
+Parada 1280 es importante: 1 llegadas: 2
+Parada 1281 es importante: 1 llegadas: 2
+Parada 1282 es importante: 1 llegadas: 2
+Parada 1283 es importante: 1 llegadas: 2
+Parada 1284 es importante: 1 llegadas: 2
+Parada 1285 es importante: 1 llegadas: 2
+Parada 1286 es importante: 1 llegadas: 2
+Parada 1287 es importante: 1 llegadas: 7
+Parada 1288 es importante: 1 llegadas: 2
+Parada 1289 es importante: 1 llegadas: 2
+Parada 1290 es importante: 0 llegadas: 1
+Parada 1291 es importante: 1 llegadas: 2
+Parada 1292 es importante: 1 llegadas: 2
+Parada 1293 es importante: 1 llegadas: 4
+Parada 1294 es importante: 1 llegadas: 2
+Parada 1295 es importante: 1 llegadas: 2
+Parada 1296 es importante: 1 llegadas: 2
+Parada 1297 es importante: 1 llegadas: 2
+Parada 1298 es importante: 1 llegadas: 2
+Parada 1299 es importante: 1 llegadas: 2
+Parada 1300 es importante: 1 llegadas: 2
+Parada 1301 es importante: 1 llegadas: 2
+Parada 1302 es importante: 1 llegadas: 2
+Parada 1303 es importante: 1 llegadas: 2
+Parada 1304 es importante: 1 llegadas: 2
+Parada 1305 es importante: 1 llegadas: 2
+Parada 1306 es importante: 1 llegadas: 3
+Parada 1307 es importante: 1 llegadas: 2
+Parada 1308 es importante: 1 llegadas: 2
+Parada 1309 es importante: 1 llegadas: 2
+Parada 1310 es importante: 1 llegadas: 3
+Parada 1311 es importante: 1 llegadas: 2
+Parada 1312 es importante: 1 llegadas: 2
+Parada 1313 es importante: 1 llegadas: 2
+Parada 1314 es importante: 1 llegadas: 2
+Parada 1315 es importante: 1 llegadas: 2
+Parada 1316 es importante: 1 llegadas: 2
+Parada 1317 es importante: 1 llegadas: 2
+Parada 1318 es importante: 0 llegadas: 1
+Parada 1319 es importante: 1 llegadas: 2
+Parada 1320 es importante: 1 llegadas: 2
+Parada 1321 es importante: 1 llegadas: 2
+Parada 1322 es importante: 1 llegadas: 2
+Parada 1323 es importante: 1 llegadas: 2
+Parada 1324 es importante: 1 llegadas: 2
+Parada 1325 es importante: 1 llegadas: 2
+Parada 1326 es importante: 1 llegadas: 2
+Parada 1327 es importante: 1 llegadas: 2
+Parada 1328 es importante: 1 llegadas: 3
+Parada 1329 es importante: 1 llegadas: 2
+Parada 1330 es importante: 1 llegadas: 4
+Parada 1331 es importante: 1 llegadas: 4
+Parada 1332 es importante: 1 llegadas: 2
+Parada 1333 es importante: 1 llegadas: 2
+Parada 1334 es importante: 1 llegadas: 2
+Parada 1335 es importante: 1 llegadas: 2
+Parada 1336 es importante: 1 llegadas: 2
+Parada 1337 es importante: 1 llegadas: 2
+Parada 1338 es importante: 1 llegadas: 3
+Parada 1339 es importante: 1 llegadas: 2
+Parada 1340 es importante: 1 llegadas: 2
+Parada 1341 es importante: 0 llegadas: 1
+Parada 1342 es importante: 1 llegadas: 2
+Parada 1343 es importante: 1 llegadas: 2
+Parada 1344 es importante: 1 llegadas: 4
+Parada 1345 es importante: 1 llegadas: 2
+Parada 1346 es importante: 1 llegadas: 2
+Parada 1347 es importante: 1 llegadas: 2
+Parada 1348 es importante: 1 llegadas: 2
+Parada 1349 es importante: 1 llegadas: 2
+Parada 1350 es importante: 1 llegadas: 2
+Parada 1351 es importante: 1 llegadas: 2
+Parada 1352 es importante: 1 llegadas: 2
+Parada 1353 es importante: 1 llegadas: 2
+Parada 1354 es importante: 1 llegadas: 3
+Parada 1355 es importante: 1 llegadas: 2
+Parada 1356 es importante: 1 llegadas: 2
+Parada 1357 es importante: 1 llegadas: 2
+Parada 1358 es importante: 1 llegadas: 2
+Parada 1359 es importante: 1 llegadas: 2
+Parada 1360 es importante: 1 llegadas: 2
+Parada 1361 es importante: 1 llegadas: 2
+Parada 1362 es importante: 1 llegadas: 2
+Parada 1363 es importante: 0 llegadas: 1
+Parada 1364 es importante: 1 llegadas: 2
+Parada 1365 es importante: 1 llegadas: 2
+Parada 1366 es importante: 1 llegadas: 2
+Parada 1367 es importante: 1 llegadas: 2
+Parada 1368 es importante: 1 llegadas: 2
+Parada 1369 es importante: 1 llegadas: 2
+Parada 1370 es importante: 1 llegadas: 4
+Parada 1371 es importante: 1 llegadas: 2
+Parada 1372 es importante: 1 llegadas: 2
+Parada 1373 es importante: 1 llegadas: 2
+Parada 1374 es importante: 1 llegadas: 2
+Parada 1375 es importante: 1 llegadas: 2
+Parada 1376 es importante: 1 llegadas: 2
+Parada 1377 es importante: 1 llegadas: 4
+Parada 1378 es importante: 1 llegadas: 2
+Parada 1379 es importante: 1 llegadas: 2
+Parada 1380 es importante: 1 llegadas: 2
+Parada 1381 es importante: 1 llegadas: 2
+Parada 1382 es importante: 1 llegadas: 2
+Parada 1383 es importante: 1 llegadas: 2
+Parada 1384 es importante: 1 llegadas: 4
+Parada 1385 es importante: 1 llegadas: 2
+Parada 1386 es importante: 1 llegadas: 2
+Parada 1387 es importante: 1 llegadas: 2
+Parada 1388 es importante: 1 llegadas: 2
+Parada 1389 es importante: 1 llegadas: 2
+Parada 1390 es importante: 1 llegadas: 2
+Parada 1391 es importante: 1 llegadas: 2
+Parada 1392 es importante: 1 llegadas: 2
+Parada 1393 es importante: 1 llegadas: 2
+Parada 1394 es importante: 1 llegadas: 8
+Parada 1395 es importante: 1 llegadas: 2
+Parada 1396 es importante: 1 llegadas: 2
+Parada 1397 es importante: 1 llegadas: 2
+Parada 1398 es importante: 1 llegadas: 2
+Parada 1399 es importante: 1 llegadas: 2
+Parada 1400 es importante: 1 llegadas: 2
+Parada 1401 es importante: 0 llegadas: 1
+Parada 1402 es importante: 1 llegadas: 2
+Parada 1403 es importante: 1 llegadas: 2
+Parada 1404 es importante: 1 llegadas: 4
+Parada 1405 es importante: 1 llegadas: 2
+Parada 1406 es importante: 1 llegadas: 2
+Parada 1407 es importante: 1 llegadas: 2
+Parada 1408 es importante: 1 llegadas: 2
+Parada 1409 es importante: 1 llegadas: 2
+Parada 1410 es importante: 1 llegadas: 2
+Parada 1411 es importante: 1 llegadas: 2
+Parada 1412 es importante: 1 llegadas: 2
+Parada 1413 es importante: 1 llegadas: 2
+Parada 1414 es importante: 1 llegadas: 2
+Parada 1415 es importante: 1 llegadas: 2
+Parada 1416 es importante: 1 llegadas: 2
+Parada 1417 es importante: 1 llegadas: 2
+Parada 1418 es importante: 1 llegadas: 4
+Parada 1419 es importante: 1 llegadas: 2
+Parada 1420 es importante: 1 llegadas: 2
+Parada 1421 es importante: 1 llegadas: 2
+Parada 1422 es importante: 1 llegadas: 2
+Parada 1423 es importante: 1 llegadas: 5
+Parada 1424 es importante: 1 llegadas: 2
+Parada 1425 es importante: 1 llegadas: 4
+Parada 1426 es importante: 0 llegadas: 1
+Parada 1427 es importante: 1 llegadas: 2
+Parada 1428 es importante: 1 llegadas: 2
+Parada 1429 es importante: 1 llegadas: 2
+Parada 1430 es importante: 1 llegadas: 3
+Parada 1431 es importante: 1 llegadas: 4
+Parada 1432 es importante: 1 llegadas: 2
+Parada 1433 es importante: 1 llegadas: 2
+Parada 1434 es importante: 1 llegadas: 2
+Parada 1435 es importante: 1 llegadas: 2
+Parada 1436 es importante: 1 llegadas: 2
+Parada 1437 es importante: 1 llegadas: 2
+Parada 1438 es importante: 1 llegadas: 3
+Parada 1439 es importante: 1 llegadas: 2
+Parada 1440 es importante: 1 llegadas: 2
+Parada 1441 es importante: 1 llegadas: 2
+Parada 1442 es importante: 1 llegadas: 2
+Parada 1443 es importante: 1 llegadas: 2
+Parada 1444 es importante: 1 llegadas: 2
+Parada 1445 es importante: 1 llegadas: 2
+Parada 1446 es importante: 1 llegadas: 2
+Parada 1447 es importante: 1 llegadas: 2
+Parada 1448 es importante: 1 llegadas: 2
+Parada 1449 es importante: 1 llegadas: 2
+Parada 1450 es importante: 1 llegadas: 2
+Parada 1451 es importante: 1 llegadas: 2
+Parada 1452 es importante: 1 llegadas: 2
+Parada 1453 es importante: 1 llegadas: 2
+Parada 1454 es importante: 1 llegadas: 2
+Parada 1455 es importante: 1 llegadas: 2
+Parada 1456 es importante: 1 llegadas: 2
+Parada 1457 es importante: 1 llegadas: 2
+Parada 1458 es importante: 1 llegadas: 5
+Parada 1459 es importante: 1 llegadas: 2
+Parada 1460 es importante: 1 llegadas: 2
+Parada 1461 es importante: 1 llegadas: 2
+Parada 1462 es importante: 1 llegadas: 2
+Parada 1463 es importante: 1 llegadas: 6
+Parada 1464 es importante: 1 llegadas: 4
+Parada 1465 es importante: 1 llegadas: 2
+Parada 1466 es importante: 1 llegadas: 4
+Parada 1467 es importante: 1 llegadas: 6
+Parada 1468 es importante: 1 llegadas: 2
+Parada 1469 es importante: 1 llegadas: 4
+Parada 1470 es importante: 1 llegadas: 2
+Parada 1471 es importante: 1 llegadas: 4
+Parada 1472 es importante: 1 llegadas: 4
+Parada 1473 es importante: 1 llegadas: 2
+Parada 1474 es importante: 1 llegadas: 4
+Parada 1475 es importante: 1 llegadas: 2
+Parada 1476 es importante: 1 llegadas: 2
+Parada 1477 es importante: 1 llegadas: 2
+Parada 1478 es importante: 1 llegadas: 2
+Parada 1479 es importante: 1 llegadas: 4
+Parada 1480 es importante: 1 llegadas: 2
+Parada 1481 es importante: 1 llegadas: 2
+Parada 1482 es importante: 1 llegadas: 2
+Parada 1483 es importante: 1 llegadas: 2
+Parada 1484 es importante: 1 llegadas: 2
+Parada 1485 es importante: 0 llegadas: 1
+Parada 1486 es importante: 1 llegadas: 2
+Parada 1487 es importante: 1 llegadas: 6
+Parada 1488 es importante: 1 llegadas: 4
+Parada 1489 es importante: 1 llegadas: 3
+Parada 1490 es importante: 1 llegadas: 2
+Parada 1491 es importante: 1 llegadas: 2
+Parada 1492 es importante: 1 llegadas: 6
+Parada 1493 es importante: 1 llegadas: 6
+Parada 1494 es importante: 1 llegadas: 2
+Parada 1495 es importante: 1 llegadas: 2
+Parada 1496 es importante: 0 llegadas: 1
+Parada 1497 es importante: 1 llegadas: 2
+Parada 1498 es importante: 1 llegadas: 2
+Parada 1499 es importante: 1 llegadas: 9
+Parada 1500 es importante: 1 llegadas: 2
+Parada 1501 es importante: 1 llegadas: 3
+Parada 1502 es importante: 1 llegadas: 2
+Parada 1503 es importante: 1 llegadas: 2
+Parada 1504 es importante: 1 llegadas: 2
+Parada 1505 es importante: 1 llegadas: 2
+Parada 1506 es importante: 1 llegadas: 2
+Parada 1507 es importante: 1 llegadas: 2
+Parada 1508 es importante: 1 llegadas: 2
+Parada 1509 es importante: 1 llegadas: 2
+Parada 1510 es importante: 1 llegadas: 2
+Parada 1511 es importante: 1 llegadas: 2
+Parada 1512 es importante: 0 llegadas: 1
+Parada 1513 es importante: 1 llegadas: 2
+Parada 1514 es importante: 1 llegadas: 2
+Parada 1515 es importante: 1 llegadas: 2
+Parada 1516 es importante: 1 llegadas: 2
+Parada 1517 es importante: 1 llegadas: 2
+Parada 1518 es importante: 1 llegadas: 2
+Parada 1519 es importante: 1 llegadas: 4
+Parada 1520 es importante: 1 llegadas: 2
+Parada 1521 es importante: 1 llegadas: 2
+Parada 1522 es importante: 1 llegadas: 4
+Parada 1523 es importante: 1 llegadas: 2
+Parada 1524 es importante: 1 llegadas: 2
+Parada 1525 es importante: 1 llegadas: 2
+Parada 1526 es importante: 1 llegadas: 2
+Parada 1527 es importante: 0 llegadas: 1
+Parada 1528 es importante: 1 llegadas: 3
+Parada 1529 es importante: 1 llegadas: 4
+Parada 1530 es importante: 1 llegadas: 2
+Parada 1531 es importante: 1 llegadas: 2
+Parada 1532 es importante: 1 llegadas: 2
+Parada 1533 es importante: 1 llegadas: 2
+Parada 1534 es importante: 1 llegadas: 2
+Parada 1535 es importante: 1 llegadas: 4
+Parada 1536 es importante: 1 llegadas: 2
+Parada 1537 es importante: 1 llegadas: 2
+Parada 1538 es importante: 1 llegadas: 2
+Parada 1539 es importante: 1 llegadas: 2
+Parada 1540 es importante: 1 llegadas: 2
+Parada 1541 es importante: 1 llegadas: 2
+Parada 1542 es importante: 1 llegadas: 2
+Parada 1543 es importante: 1 llegadas: 2
+Parada 1544 es importante: 1 llegadas: 2
+Parada 1545 es importante: 1 llegadas: 2
+Parada 1546 es importante: 1 llegadas: 2
+Parada 1547 es importante: 1 llegadas: 3
+Parada 1548 es importante: 1 llegadas: 2
+Parada 1549 es importante: 1 llegadas: 2
+Parada 1550 es importante: 1 llegadas: 2
+Parada 1551 es importante: 1 llegadas: 2
+Parada 1552 es importante: 1 llegadas: 2
+Parada 1553 es importante: 1 llegadas: 2
+Parada 1554 es importante: 1 llegadas: 2
+Parada 1555 es importante: 1 llegadas: 2
+Parada 1556 es importante: 1 llegadas: 2
+Parada 1557 es importante: 1 llegadas: 2
+Parada 1558 es importante: 1 llegadas: 2
+Parada 1559 es importante: 1 llegadas: 2
+Parada 1560 es importante: 1 llegadas: 2
+Parada 1561 es importante: 1 llegadas: 4
+Parada 1562 es importante: 1 llegadas: 2
+Parada 1563 es importante: 1 llegadas: 2
+Parada 1564 es importante: 1 llegadas: 2
+Parada 1565 es importante: 1 llegadas: 2
+Parada 1566 es importante: 1 llegadas: 2
+Parada 1567 es importante: 1 llegadas: 2
+Parada 1568 es importante: 0 llegadas: 1
+Parada 1569 es importante: 1 llegadas: 2
+Parada 1570 es importante: 1 llegadas: 2
+Parada 1571 es importante: 1 llegadas: 6
+Parada 1572 es importante: 0 llegadas: 1
+Parada 1573 es importante: 1 llegadas: 2
+Parada 1574 es importante: 1 llegadas: 2
+Parada 1575 es importante: 1 llegadas: 2
+Parada 1576 es importante: 1 llegadas: 2
+Parada 1577 es importante: 1 llegadas: 2
+Parada 1578 es importante: 1 llegadas: 5
+Parada 1579 es importante: 1 llegadas: 2
+Parada 1580 es importante: 1 llegadas: 2
+Parada 1581 es importante: 1 llegadas: 2
+Parada 1582 es importante: 1 llegadas: 2
+Parada 1583 es importante: 1 llegadas: 2
+Parada 1584 es importante: 1 llegadas: 2
+Parada 1585 es importante: 1 llegadas: 2
+Parada 1586 es importante: 1 llegadas: 2
+Parada 1587 es importante: 1 llegadas: 2
+Parada 1588 es importante: 1 llegadas: 6
+Parada 1589 es importante: 0 llegadas: 1
+Parada 1590 es importante: 1 llegadas: 2
+Parada 1591 es importante: 1 llegadas: 2
+Parada 1592 es importante: 1 llegadas: 2
+Parada 1593 es importante: 1 llegadas: 2
+Parada 1594 es importante: 1 llegadas: 2
+Parada 1595 es importante: 1 llegadas: 2
+Parada 1596 es importante: 1 llegadas: 2
+Parada 1597 es importante: 1 llegadas: 2
+Parada 1598 es importante: 1 llegadas: 2
+Parada 1599 es importante: 1 llegadas: 2
+Parada 1600 es importante: 1 llegadas: 2
+Parada 1601 es importante: 1 llegadas: 2
+Parada 1602 es importante: 1 llegadas: 2
+Parada 1603 es importante: 1 llegadas: 2
+Parada 1604 es importante: 1 llegadas: 2
+Parada 1605 es importante: 1 llegadas: 2
+Parada 1606 es importante: 1 llegadas: 2
+Parada 1607 es importante: 1 llegadas: 2
+Parada 1608 es importante: 1 llegadas: 2
+Parada 1609 es importante: 1 llegadas: 6
+Parada 1610 es importante: 1 llegadas: 2
+Parada 1611 es importante: 1 llegadas: 2
+Parada 1612 es importante: 1 llegadas: 2
+Parada 1613 es importante: 1 llegadas: 2
+Parada 1614 es importante: 1 llegadas: 2
+Parada 1615 es importante: 1 llegadas: 2
+Parada 1616 es importante: 1 llegadas: 2
+Parada 1617 es importante: 1 llegadas: 2
+Parada 1618 es importante: 1 llegadas: 2
+Parada 1619 es importante: 1 llegadas: 4
+Parada 1620 es importante: 1 llegadas: 2
+Parada 1621 es importante: 1 llegadas: 2
+Parada 1622 es importante: 1 llegadas: 2
+Parada 1623 es importante: 1 llegadas: 2
+Parada 1624 es importante: 1 llegadas: 2
+Parada 1625 es importante: 1 llegadas: 2
+Parada 1626 es importante: 1 llegadas: 2
+Parada 1627 es importante: 1 llegadas: 2
+Parada 1628 es importante: 1 llegadas: 2
+Parada 1629 es importante: 1 llegadas: 4
+Parada 1630 es importante: 1 llegadas: 2
+Parada 1631 es importante: 1 llegadas: 4
+Parada 1632 es importante: 1 llegadas: 2
+Parada 1633 es importante: 1 llegadas: 2
+Parada 1634 es importante: 1 llegadas: 2
+Parada 1635 es importante: 1 llegadas: 2
+Parada 1636 es importante: 1 llegadas: 2
+Parada 1637 es importante: 1 llegadas: 2
+Parada 1638 es importante: 1 llegadas: 2
+Parada 1639 es importante: 1 llegadas: 2
+Parada 1640 es importante: 1 llegadas: 2
+Parada 1641 es importante: 1 llegadas: 2
+Parada 1642 es importante: 1 llegadas: 2
+Parada 1643 es importante: 1 llegadas: 2
+Parada 1644 es importante: 1 llegadas: 2
+Parada 1645 es importante: 1 llegadas: 2
+Parada 1646 es importante: 1 llegadas: 2
+Parada 1647 es importante: 1 llegadas: 2
+Parada 1648 es importante: 1 llegadas: 2
+Parada 1649 es importante: 1 llegadas: 2
+Parada 1650 es importante: 1 llegadas: 2
+Parada 1651 es importante: 1 llegadas: 2
+Parada 1652 es importante: 1 llegadas: 4
+Parada 1653 es importante: 1 llegadas: 4
+Parada 1654 es importante: 1 llegadas: 2
+Parada 1655 es importante: 0 llegadas: 1
+Parada 1656 es importante: 0 llegadas: 1
+Parada 1657 es importante: 1 llegadas: 2
+Parada 1658 es importante: 1 llegadas: 2
+Parada 1659 es importante: 1 llegadas: 2
+Parada 1660 es importante: 1 llegadas: 2
+Parada 1661 es importante: 1 llegadas: 2
+Parada 1662 es importante: 1 llegadas: 2
+Parada 1663 es importante: 1 llegadas: 2
+Parada 1664 es importante: 1 llegadas: 4
+Parada 1665 es importante: 0 llegadas: 1
+Parada 1666 es importante: 1 llegadas: 2
+Parada 1667 es importante: 1 llegadas: 4
+Parada 1668 es importante: 1 llegadas: 2
+Parada 1669 es importante: 1 llegadas: 3
+Parada 1670 es importante: 1 llegadas: 2
+Parada 1671 es importante: 1 llegadas: 4
+Parada 1672 es importante: 1 llegadas: 2
+Parada 1673 es importante: 1 llegadas: 2
+Parada 1674 es importante: 1 llegadas: 2
+Parada 1675 es importante: 1 llegadas: 2
+Parada 1676 es importante: 1 llegadas: 2
+Parada 1677 es importante: 1 llegadas: 2
+Parada 1678 es importante: 1 llegadas: 2
+Parada 1679 es importante: 1 llegadas: 2
+Parada 1680 es importante: 1 llegadas: 2
+Parada 1681 es importante: 1 llegadas: 2
+Parada 1682 es importante: 1 llegadas: 6
+Parada 1683 es importante: 1 llegadas: 2
+Parada 1684 es importante: 1 llegadas: 11
+Parada 1685 es importante: 1 llegadas: 2
+Parada 1686 es importante: 1 llegadas: 2
+Parada 1687 es importante: 1 llegadas: 4
+Parada 1688 es importante: 1 llegadas: 5
+Parada 1689 es importante: 1 llegadas: 3
+Parada 1690 es importante: 1 llegadas: 2
+Parada 1691 es importante: 1 llegadas: 4
+Parada 1692 es importante: 1 llegadas: 2
+Parada 1693 es importante: 1 llegadas: 4
+Parada 1694 es importante: 1 llegadas: 2
+Parada 1695 es importante: 1 llegadas: 2
+Parada 1696 es importante: 1 llegadas: 4
+Parada 1697 es importante: 1 llegadas: 2
+Parada 1698 es importante: 1 llegadas: 2
+Parada 1699 es importante: 1 llegadas: 2
+Parada 1700 es importante: 1 llegadas: 4
+Parada 1701 es importante: 1 llegadas: 2
+Parada 1702 es importante: 1 llegadas: 2
+Parada 1703 es importante: 1 llegadas: 2
+Parada 1704 es importante: 1 llegadas: 2
+Parada 1705 es importante: 1 llegadas: 2
+Parada 1706 es importante: 1 llegadas: 2
+Parada 1707 es importante: 1 llegadas: 2
+Parada 1708 es importante: 1 llegadas: 4
+Parada 1709 es importante: 1 llegadas: 2
+Parada 1710 es importante: 1 llegadas: 4
+Parada 1711 es importante: 1 llegadas: 2
+Parada 1712 es importante: 1 llegadas: 2
+Parada 1713 es importante: 1 llegadas: 2
+Parada 1714 es importante: 1 llegadas: 2
+Parada 1715 es importante: 1 llegadas: 4
+Parada 1716 es importante: 1 llegadas: 3
+Parada 1717 es importante: 1 llegadas: 4
+Parada 1718 es importante: 1 llegadas: 2
+Parada 1719 es importante: 1 llegadas: 2
+Parada 1720 es importante: 1 llegadas: 2
+Parada 1721 es importante: 1 llegadas: 4
+Parada 1722 es importante: 1 llegadas: 2
+Parada 1723 es importante: 1 llegadas: 2
+Parada 1724 es importante: 1 llegadas: 2
+Parada 1725 es importante: 1 llegadas: 4
+Parada 1726 es importante: 1 llegadas: 2
+Parada 1727 es importante: 1 llegadas: 2
+Parada 1728 es importante: 1 llegadas: 2
+Parada 1729 es importante: 1 llegadas: 2
+Parada 1730 es importante: 1 llegadas: 6
+Parada 1731 es importante: 1 llegadas: 2
+Parada 1732 es importante: 1 llegadas: 3
+Parada 1733 es importante: 1 llegadas: 2
+Parada 1734 es importante: 1 llegadas: 2
+Parada 1735 es importante: 1 llegadas: 2
+Parada 1736 es importante: 1 llegadas: 2
+Parada 1737 es importante: 1 llegadas: 2
+Parada 1738 es importante: 1 llegadas: 2
+Parada 1739 es importante: 1 llegadas: 4
+Parada 1740 es importante: 1 llegadas: 5
+Parada 1741 es importante: 1 llegadas: 2
+Parada 1742 es importante: 1 llegadas: 2
+Parada 1743 es importante: 1 llegadas: 2
+Parada 1744 es importante: 1 llegadas: 4
+Parada 1745 es importante: 1 llegadas: 2
+Parada 1746 es importante: 0 llegadas: 1
+Parada 1747 es importante: 1 llegadas: 6
+Parada 1748 es importante: 1 llegadas: 4
+Parada 1749 es importante: 1 llegadas: 2
+Parada 1750 es importante: 1 llegadas: 2
+Parada 1751 es importante: 1 llegadas: 2
+Parada 1752 es importante: 1 llegadas: 2
+Parada 1753 es importante: 1 llegadas: 2
+Parada 1754 es importante: 1 llegadas: 6
+Parada 1755 es importante: 1 llegadas: 2
+Parada 1756 es importante: 1 llegadas: 2
+Parada 1757 es importante: 1 llegadas: 2
+Parada 1758 es importante: 1 llegadas: 2
+Parada 1759 es importante: 1 llegadas: 4
+Parada 1760 es importante: 1 llegadas: 2
+Parada 1761 es importante: 1 llegadas: 2
+Parada 1762 es importante: 1 llegadas: 2
+Parada 1763 es importante: 1 llegadas: 2
+Parada 1764 es importante: 1 llegadas: 2
+Parada 1765 es importante: 1 llegadas: 2
+Parada 1766 es importante: 1 llegadas: 2
+Parada 1767 es importante: 1 llegadas: 2
+Parada 1768 es importante: 1 llegadas: 2
+Parada 1769 es importante: 1 llegadas: 2
+Parada 1770 es importante: 1 llegadas: 2
+Parada 1771 es importante: 1 llegadas: 2
+Parada 1772 es importante: 1 llegadas: 6
+Parada 1773 es importante: 1 llegadas: 2
+Parada 1774 es importante: 1 llegadas: 2
+Parada 1775 es importante: 1 llegadas: 2
+Parada 1776 es importante: 1 llegadas: 2
+Parada 1777 es importante: 1 llegadas: 2
+Parada 1778 es importante: 1 llegadas: 2
+Parada 1779 es importante: 1 llegadas: 2
+Parada 1780 es importante: 1 llegadas: 4
+Parada 1781 es importante: 1 llegadas: 2
+Parada 1782 es importante: 1 llegadas: 2
+Parada 1783 es importante: 1 llegadas: 4
+Parada 1784 es importante: 1 llegadas: 2
+Parada 1785 es importante: 1 llegadas: 2
+Parada 1786 es importante: 1 llegadas: 2
+Parada 1787 es importante: 1 llegadas: 2
+Parada 1788 es importante: 1 llegadas: 2
+Parada 1789 es importante: 1 llegadas: 2
+Parada 1790 es importante: 1 llegadas: 6
+Parada 1791 es importante: 1 llegadas: 4
+Parada 1792 es importante: 1 llegadas: 2
+Parada 1793 es importante: 1 llegadas: 2
+Parada 1794 es importante: 1 llegadas: 2
+Parada 1795 es importante: 1 llegadas: 2
+Parada 1796 es importante: 1 llegadas: 6
+Parada 1797 es importante: 1 llegadas: 2
+Parada 1798 es importante: 1 llegadas: 2
+Parada 1799 es importante: 1 llegadas: 2
+Parada 1800 es importante: 1 llegadas: 2
+Parada 1801 es importante: 1 llegadas: 5
+Parada 1802 es importante: 0 llegadas: 1
+Parada 1803 es importante: 1 llegadas: 4
+Parada 1804 es importante: 1 llegadas: 2
+Parada 1805 es importante: 1 llegadas: 2
+Parada 1806 es importante: 1 llegadas: 2
+Parada 1807 es importante: 1 llegadas: 4
+Parada 1808 es importante: 1 llegadas: 2
+Parada 1809 es importante: 1 llegadas: 2
+Parada 1810 es importante: 1 llegadas: 2
+Parada 1811 es importante: 1 llegadas: 2
+Parada 1812 es importante: 0 llegadas: 1
+Parada 1813 es importante: 1 llegadas: 2
+Parada 1814 es importante: 1 llegadas: 2
+Parada 1815 es importante: 1 llegadas: 6
+Parada 1816 es importante: 1 llegadas: 6
+Parada 1817 es importante: 1 llegadas: 4
+Parada 1818 es importante: 1 llegadas: 4
+Parada 1819 es importante: 1 llegadas: 2
+Parada 1820 es importante: 1 llegadas: 2
+Parada 1821 es importante: 1 llegadas: 2
+Parada 1822 es importante: 1 llegadas: 2
+Parada 1823 es importante: 1 llegadas: 2
+Parada 1824 es importante: 1 llegadas: 2
+Parada 1825 es importante: 1 llegadas: 2
+Parada 1826 es importante: 1 llegadas: 2
+Parada 1827 es importante: 1 llegadas: 2
+Parada 1828 es importante: 1 llegadas: 2
+Parada 1829 es importante: 1 llegadas: 2
+Parada 1830 es importante: 1 llegadas: 4
+Parada 1831 es importante: 1 llegadas: 2
+Parada 1832 es importante: 1 llegadas: 2
+Parada 1833 es importante: 1 llegadas: 2
+Parada 1834 es importante: 1 llegadas: 2
+Parada 1835 es importante: 1 llegadas: 2
+Parada 1836 es importante: 1 llegadas: 2
+Parada 1837 es importante: 1 llegadas: 2
+Parada 1838 es importante: 1 llegadas: 2
+Parada 1839 es importante: 1 llegadas: 2
+Parada 1840 es importante: 1 llegadas: 2
+Parada 1841 es importante: 1 llegadas: 2
+Parada 1842 es importante: 1 llegadas: 2
+Parada 1843 es importante: 1 llegadas: 2
+Parada 1844 es importante: 1 llegadas: 2
+Parada 1845 es importante: 1 llegadas: 2
+Parada 1846 es importante: 1 llegadas: 2
+Parada 1847 es importante: 1 llegadas: 2
+Parada 1848 es importante: 1 llegadas: 2
+Parada 1849 es importante: 1 llegadas: 2
+Parada 1850 es importante: 1 llegadas: 2
+Parada 1851 es importante: 1 llegadas: 2
+Parada 1852 es importante: 1 llegadas: 2
+Parada 1853 es importante: 1 llegadas: 3
+Parada 1854 es importante: 1 llegadas: 2
+Parada 1855 es importante: 1 llegadas: 5
+Parada 1856 es importante: 1 llegadas: 2
+Parada 1857 es importante: 1 llegadas: 4
+Parada 1858 es importante: 1 llegadas: 2
+Parada 1859 es importante: 0 llegadas: 1
+Parada 1860 es importante: 1 llegadas: 3
+Parada 1861 es importante: 1 llegadas: 2
+Parada 1862 es importante: 1 llegadas: 2
+Parada 1863 es importante: 1 llegadas: 5
+Parada 1864 es importante: 1 llegadas: 4
+Parada 1865 es importante: 1 llegadas: 2
+Parada 1866 es importante: 1 llegadas: 2
+Parada 1867 es importante: 1 llegadas: 2
+Parada 1868 es importante: 1 llegadas: 2
+Parada 1869 es importante: 1 llegadas: 2
+Parada 1870 es importante: 0 llegadas: 1
+Parada 1871 es importante: 1 llegadas: 2
+Parada 1872 es importante: 1 llegadas: 2
+Parada 1873 es importante: 1 llegadas: 2
+Parada 1874 es importante: 1 llegadas: 4
+Parada 1875 es importante: 1 llegadas: 2
+Parada 1876 es importante: 1 llegadas: 2
+Parada 1877 es importante: 1 llegadas: 6
+Parada 1878 es importante: 1 llegadas: 4
+Parada 1879 es importante: 0 llegadas: 1
+Parada 1880 es importante: 1 llegadas: 2
+Parada 1881 es importante: 0 llegadas: 1
+Parada 1882 es importante: 1 llegadas: 2
+Parada 1883 es importante: 1 llegadas: 2
+Parada 1884 es importante: 1 llegadas: 2
+Parada 1885 es importante: 1 llegadas: 6
+Parada 1886 es importante: 1 llegadas: 2
+Parada 1887 es importante: 1 llegadas: 4
+Parada 1888 es importante: 1 llegadas: 6
+Parada 1889 es importante: 1 llegadas: 4
+Parada 1890 es importante: 1 llegadas: 4
+Parada 1891 es importante: 1 llegadas: 2
+Parada 1892 es importante: 1 llegadas: 2
+Parada 1893 es importante: 1 llegadas: 2
+Parada 1894 es importante: 1 llegadas: 2
+Parada 1895 es importante: 1 llegadas: 2
+Parada 1896 es importante: 1 llegadas: 3
+Parada 1897 es importante: 1 llegadas: 2
+Parada 1898 es importante: 1 llegadas: 2
+Parada 1899 es importante: 1 llegadas: 2
+Parada 1900 es importante: 1 llegadas: 2
+Parada 1901 es importante: 1 llegadas: 2
+Parada 1902 es importante: 1 llegadas: 2
+Parada 1903 es importante: 1 llegadas: 2
+Parada 1904 es importante: 1 llegadas: 2
+Parada 1905 es importante: 1 llegadas: 2
+Parada 1906 es importante: 1 llegadas: 4
+Parada 1907 es importante: 1 llegadas: 2
+Parada 1908 es importante: 1 llegadas: 2
+Parada 1909 es importante: 1 llegadas: 2
+Parada 1910 es importante: 1 llegadas: 2
+Parada 1911 es importante: 1 llegadas: 2
+Parada 1912 es importante: 1 llegadas: 2
+Parada 1913 es importante: 1 llegadas: 2
+Parada 1914 es importante: 1 llegadas: 2
+Parada 1915 es importante: 0 llegadas: 1
+Parada 1916 es importante: 1 llegadas: 2
+Parada 1917 es importante: 1 llegadas: 2
+Parada 1918 es importante: 1 llegadas: 2
+Parada 1919 es importante: 1 llegadas: 2
+Parada 1920 es importante: 1 llegadas: 2
+Parada 1921 es importante: 1 llegadas: 2
+Parada 1922 es importante: 1 llegadas: 2
+Parada 1923 es importante: 1 llegadas: 2
+Parada 1924 es importante: 1 llegadas: 4
+Parada 1925 es importante: 1 llegadas: 2
+Parada 1926 es importante: 1 llegadas: 4
+Parada 1927 es importante: 1 llegadas: 2
+Parada 1928 es importante: 1 llegadas: 2
+Parada 1929 es importante: 1 llegadas: 2
+Parada 1930 es importante: 1 llegadas: 2
+Parada 1931 es importante: 1 llegadas: 4
+Parada 1932 es importante: 1 llegadas: 2
+Parada 1933 es importante: 0 llegadas: 1
+Parada 1934 es importante: 1 llegadas: 2
+Parada 1935 es importante: 1 llegadas: 2
+Parada 1936 es importante: 1 llegadas: 2
+Parada 1937 es importante: 1 llegadas: 6
+Parada 1938 es importante: 1 llegadas: 2
+Parada 1939 es importante: 1 llegadas: 2
+Parada 1940 es importante: 1 llegadas: 2
+Parada 1941 es importante: 1 llegadas: 2
+Parada 1942 es importante: 1 llegadas: 2
+Parada 1943 es importante: 1 llegadas: 2
+Parada 1944 es importante: 1 llegadas: 2
+Parada 1945 es importante: 1 llegadas: 2
+Parada 1946 es importante: 1 llegadas: 2
+Parada 1947 es importante: 1 llegadas: 2
+Parada 1948 es importante: 1 llegadas: 2
+Parada 1949 es importante: 1 llegadas: 3
+Parada 1950 es importante: 1 llegadas: 3
+Parada 1951 es importante: 1 llegadas: 2
+Parada 1952 es importante: 0 llegadas: 1
+Parada 1953 es importante: 1 llegadas: 2
+Parada 1954 es importante: 1 llegadas: 2
+Parada 1955 es importante: 1 llegadas: 2
+Parada 1956 es importante: 1 llegadas: 2
+Parada 1957 es importante: 1 llegadas: 2
+Parada 1958 es importante: 1 llegadas: 2
+Parada 1959 es importante: 1 llegadas: 2
+Parada 1960 es importante: 1 llegadas: 2
+Parada 1961 es importante: 1 llegadas: 2
+Parada 1962 es importante: 1 llegadas: 2
+Parada 1963 es importante: 1 llegadas: 3
+Parada 1964 es importante: 1 llegadas: 2
+Parada 1965 es importante: 1 llegadas: 4
+Parada 1966 es importante: 1 llegadas: 2
+Parada 1967 es importante: 1 llegadas: 4
+Parada 1968 es importante: 1 llegadas: 3
+Parada 1969 es importante: 1 llegadas: 2
+Parada 1970 es importante: 0 llegadas: 1
+Parada 1971 es importante: 1 llegadas: 2
+Parada 1972 es importante: 1 llegadas: 2
+Parada 1973 es importante: 1 llegadas: 2
+Parada 1974 es importante: 1 llegadas: 2
+Parada 1975 es importante: 1 llegadas: 2
+Parada 1976 es importante: 1 llegadas: 2
+Parada 1977 es importante: 1 llegadas: 4
+Parada 1978 es importante: 1 llegadas: 2
+Parada 1979 es importante: 1 llegadas: 6
+Parada 1980 es importante: 1 llegadas: 2
+Parada 1981 es importante: 1 llegadas: 2
+Parada 1982 es importante: 1 llegadas: 2
+Parada 1983 es importante: 1 llegadas: 2
+Parada 1984 es importante: 1 llegadas: 2
+Parada 1985 es importante: 1 llegadas: 2
+Parada 1986 es importante: 1 llegadas: 3
+Parada 1987 es importante: 1 llegadas: 2
+Parada 1988 es importante: 1 llegadas: 2
+Parada 1989 es importante: 1 llegadas: 2
+Parada 1990 es importante: 1 llegadas: 2
+Parada 1991 es importante: 1 llegadas: 2
+Parada 1992 es importante: 1 llegadas: 2
+Parada 1993 es importante: 1 llegadas: 2
+Parada 1994 es importante: 1 llegadas: 2
+Parada 1995 es importante: 1 llegadas: 2
+Parada 1996 es importante: 1 llegadas: 2
+Parada 1997 es importante: 0 llegadas: 1
+Parada 1998 es importante: 1 llegadas: 6
+Parada 1999 es importante: 0 llegadas: 1
+Parada 2000 es importante: 1 llegadas: 6
+Parada 1 tiene distancia promedio: 201.174
+Parada 2 tiene distancia promedio: 209.612
+Parada 3 tiene distancia promedio: 207.159
+Parada 4 tiene distancia promedio: 208.583
+Parada 6 tiene distancia promedio: 206.078
+Parada 7 tiene distancia promedio: 194.702
+Parada 9 tiene distancia promedio: 194.261
+Parada 10 tiene distancia promedio: 211.803
+Parada 11 tiene distancia promedio: 0.0005
+Parada 12 tiene distancia promedio: 209.99
+Parada 13 tiene distancia promedio: 208.538
+Parada 14 tiene distancia promedio: 193.82
+Parada 15 tiene distancia promedio: 193.38
+Parada 16 tiene distancia promedio: 209.768
+Parada 17 tiene distancia promedio: 192.94
+Parada 18 tiene distancia promedio: 192.501
+Parada 19 tiene distancia promedio: 206.543
+Parada 20 tiene distancia promedio: 192.063
+Parada 21 tiene distancia promedio: 191.625
+Parada 22 tiene distancia promedio: 207.827
+Parada 23 tiene distancia promedio: 191.188
+Parada 24 tiene distancia promedio: 190.75
+Parada 25 tiene distancia promedio: 203.149
+Parada 26 tiene distancia promedio: 206.13
+Parada 27 tiene distancia promedio: 207.947
+Parada 28 tiene distancia promedio: 207.131
+Parada 29 tiene distancia promedio: 190.314
+Parada 30 tiene distancia promedio: 205.791
+Parada 31 tiene distancia promedio: 189.878
+Parada 32 tiene distancia promedio: 189.442
+Parada 33 tiene distancia promedio: 206.393
+Parada 34 tiene distancia promedio: 208.059
+Parada 35 tiene distancia promedio: 189.007
+Parada 36 tiene distancia promedio: 188.573
+Parada 37 tiene distancia promedio: 204.04
+Parada 38 tiene distancia promedio: 188.139
+Parada 40 tiene distancia promedio: 210.194
+Parada 41 tiene distancia promedio: 187.706
+Parada 42 tiene distancia promedio: 207.343
+Parada 43 tiene distancia promedio: 206.098
+Parada 44 tiene distancia promedio: 207.184
+Parada 45 tiene distancia promedio: 207.776
+Parada 46 tiene distancia promedio: 208.633
+Parada 47 tiene distancia promedio: 187.273
+Parada 48 tiene distancia promedio: 186.84
+Parada 49 tiene distancia promedio: 186.408
+Parada 50 tiene distancia promedio: 207.746
+Parada 51 tiene distancia promedio: 185.976
+Parada 52 tiene distancia promedio: 185.546
+Parada 53 tiene distancia promedio: 207.017
+Parada 54 tiene distancia promedio: 185.115
+Parada 55 tiene distancia promedio: 184.685
+Parada 56 tiene distancia promedio: 206.912
+Parada 57 tiene distancia promedio: 207.222
+Parada 58 tiene distancia promedio: 204.522
+Parada 60 tiene distancia promedio: 184.256
+Parada 61 tiene distancia promedio: 210.106
+Parada 62 tiene distancia promedio: 208.742
+Parada 63 tiene distancia promedio: 206.448
+Parada 64 tiene distancia promedio: 208.48
+Parada 65 tiene distancia promedio: 183.827
+Parada 66 tiene distancia promedio: 183.398
+Parada 67 tiene distancia promedio: 182.97
+Parada 68 tiene distancia promedio: 205.181
+Parada 69 tiene distancia promedio: 182.542
+Parada 70 tiene distancia promedio: 182.115
+Parada 71 tiene distancia promedio: 181.689
+Parada 72 tiene distancia promedio: 181.263
+Parada 73 tiene distancia promedio: 180.838
+Parada 74 tiene distancia promedio: 206.052
+Parada 75 tiene distancia promedio: 180.412
+Parada 76 tiene distancia promedio: 179.988
+Parada 77 tiene distancia promedio: 179.564
+Parada 78 tiene distancia promedio: 179.141
+Parada 79 tiene distancia promedio: 178.718
+Parada 80 tiene distancia promedio: 204.768
+Parada 81 tiene distancia promedio: 209.025
+Parada 83 tiene distancia promedio: 207.886
+Parada 84 tiene distancia promedio: 178.295
+Parada 85 tiene distancia promedio: 208.503
+Parada 87 tiene distancia promedio: 206.995
+Parada 88 tiene distancia promedio: 206.753
+Parada 89 tiene distancia promedio: 209.16
+Parada 90 tiene distancia promedio: 177.873
+Parada 91 tiene distancia promedio: 205.617
+Parada 92 tiene distancia promedio: 205.998
+Parada 93 tiene distancia promedio: 208.139
+Parada 94 tiene distancia promedio: 177.452
+Parada 95 tiene distancia promedio: 203.736
+Parada 96 tiene distancia promedio: 208.778
+Parada 97 tiene distancia promedio: 177.03
+Parada 98 tiene distancia promedio: 207.053
+Parada 99 tiene distancia promedio: 176.61
+Parada 100 tiene distancia promedio: 212.276
+Parada 101 tiene distancia promedio: 176.19
+Parada 102 tiene distancia promedio: 175.77
+Parada 103 tiene distancia promedio: 175.351
+Parada 104 tiene distancia promedio: 210.252
+Parada 105 tiene distancia promedio: 206.508
+Parada 106 tiene distancia promedio: 204.006
+Parada 107 tiene distancia promedio: 174.933
+Parada 108 tiene distancia promedio: 207.929
+Parada 109 tiene distancia promedio: 209.492
+Parada 111 tiene distancia promedio: 174.515
+Parada 112 tiene distancia promedio: 208.502
+Parada 113 tiene distancia promedio: 174.097
+Parada 114 tiene distancia promedio: 173.68
+Parada 115 tiene distancia promedio: 173.264
+Parada 116 tiene distancia promedio: 208.643
+Parada 117 tiene distancia promedio: 207.648
+Parada 118 tiene distancia promedio: 207.888
+Parada 119 tiene distancia promedio: 207.391
+Parada 120 tiene distancia promedio: 172.848
+Parada 121 tiene distancia promedio: 203.849
+Parada 122 tiene distancia promedio: 207.907
+Parada 123 tiene distancia promedio: 206.032
+Parada 124 tiene distancia promedio: 211.498
+Parada 125 tiene distancia promedio: 172.433
+Parada 126 tiene distancia promedio: 172.018
+Parada 127 tiene distancia promedio: 204.447
+Parada 128 tiene distancia promedio: 206.806
+Parada 129 tiene distancia promedio: 206.532
+Parada 130 tiene distancia promedio: 207.238
+Parada 131 tiene distancia promedio: 171.603
+Parada 132 tiene distancia promedio: 171.189
+Parada 133 tiene distancia promedio: 207.978
+Parada 134 tiene distancia promedio: 212.165
+Parada 135 tiene distancia promedio: 206.29
+Parada 136 tiene distancia promedio: 210.522
+Parada 137 tiene distancia promedio: 170.775
+Parada 138 tiene distancia promedio: 170.363
+Parada 139 tiene distancia promedio: 169.95
+Parada 140 tiene distancia promedio: 169.538
+Parada 141 tiene distancia promedio: 169.126
+Parada 142 tiene distancia promedio: 207.024
+Parada 143 tiene distancia promedio: 207.931
+Parada 144 tiene distancia promedio: 168.715
+Parada 145 tiene distancia promedio: 168.305
+Parada 146 tiene distancia promedio: 210.542
+Parada 147 tiene distancia promedio: 167.895
+Parada 148 tiene distancia promedio: 205.1
+Parada 149 tiene distancia promedio: 207.889
+Parada 150 tiene distancia promedio: 206.375
+Parada 151 tiene distancia promedio: 167.486
+Parada 152 tiene distancia promedio: 210.567
+Parada 153 tiene distancia promedio: 206.978
+Parada 154 tiene distancia promedio: 208.502
+Parada 156 tiene distancia promedio: 167.077
+Parada 157 tiene distancia promedio: 204.737
+Parada 158 tiene distancia promedio: 166.668
+Parada 159 tiene distancia promedio: 166.26
+Parada 161 tiene distancia promedio: 165.852
+Parada 162 tiene distancia promedio: 165.446
+Parada 163 tiene distancia promedio: 165.039
+Parada 164 tiene distancia promedio: 164.633
+Parada 165 tiene distancia promedio: 164.227
+Parada 166 tiene distancia promedio: 203.488
+Parada 167 tiene distancia promedio: 163.822
+Parada 168 tiene distancia promedio: 163.418
+Parada 169 tiene distancia promedio: 163.014
+Parada 170 tiene distancia promedio: 209.621
+Parada 171 tiene distancia promedio: 205.96
+Parada 172 tiene distancia promedio: 162.611
+Parada 173 tiene distancia promedio: 204.794
+Parada 174 tiene distancia promedio: 162.208
+Parada 175 tiene distancia promedio: 204.18
+Parada 176 tiene distancia promedio: 210.928
+Parada 177 tiene distancia promedio: 210.553
+Parada 178 tiene distancia promedio: 207.782
+Parada 179 tiene distancia promedio: 206.208
+Parada 180 tiene distancia promedio: 207.851
+Parada 181 tiene distancia promedio: 206.102
+Parada 182 tiene distancia promedio: 161.805
+Parada 184 tiene distancia promedio: 210.809
+Parada 185 tiene distancia promedio: 161.403
+Parada 186 tiene distancia promedio: 161.001
+Parada 187 tiene distancia promedio: 209.077
+Parada 188 tiene distancia promedio: 204.477
+Parada 189 tiene distancia promedio: 206.037
+Parada 190 tiene distancia promedio: 208.631
+Parada 191 tiene distancia promedio: 209.435
+Parada 192 tiene distancia promedio: 205.915
+Parada 193 tiene distancia promedio: 205.717
+Parada 194 tiene distancia promedio: 203.254
+Parada 195 tiene distancia promedio: 208.097
+Parada 196 tiene distancia promedio: 160.601
+Parada 197 tiene distancia promedio: 160.2
+Parada 199 tiene distancia promedio: 159.8
+Parada 200 tiene distancia promedio: 205.502
+Parada 201 tiene distancia promedio: 206.298
+Parada 202 tiene distancia promedio: 159.4
+Parada 203 tiene distancia promedio: 206.999
+Parada 204 tiene distancia promedio: 159.001
+Parada 205 tiene distancia promedio: 158.603
+Parada 206 tiene distancia promedio: 205.069
+Parada 207 tiene distancia promedio: 207.888
+Parada 208 tiene distancia promedio: 158.205
+Parada 209 tiene distancia promedio: 157.808
+Parada 210 tiene distancia promedio: 209.921
+Parada 211 tiene distancia promedio: 205.327
+Parada 212 tiene distancia promedio: 157.411
+Parada 213 tiene distancia promedio: 207.068
+Parada 214 tiene distancia promedio: 206.547
+Parada 215 tiene distancia promedio: 157.014
+Parada 216 tiene distancia promedio: 156.618
+Parada 217 tiene distancia promedio: 210.021
+Parada 218 tiene distancia promedio: 207.222
+Parada 220 tiene distancia promedio: 206.054
+Parada 221 tiene distancia promedio: 156.222
+Parada 222 tiene distancia promedio: 204.96
+Parada 223 tiene distancia promedio: 206.969
+Parada 224 tiene distancia promedio: 155.827
+Parada 225 tiene distancia promedio: 207.964
+Parada 226 tiene distancia promedio: 206.999
+Parada 227 tiene distancia promedio: 205.708
+Parada 228 tiene distancia promedio: 155.433
+Parada 229 tiene distancia promedio: 206.62
+Parada 230 tiene distancia promedio: 155.039
+Parada 231 tiene distancia promedio: 205.768
+Parada 232 tiene distancia promedio: 154.645
+Parada 233 tiene distancia promedio: 207.073
+Parada 234 tiene distancia promedio: 212.623
+Parada 235 tiene distancia promedio: 207.931
+Parada 236 tiene distancia promedio: 215.178
+Parada 237 tiene distancia promedio: 209.688
+Parada 238 tiene distancia promedio: 207.978
+Parada 239 tiene distancia promedio: 154.252
+Parada 240 tiene distancia promedio: 209.988
+Parada 241 tiene distancia promedio: 153.86
+Parada 242 tiene distancia promedio: 203.738
+Parada 243 tiene distancia promedio: 210.331
+Parada 244 tiene distancia promedio: 207.564
+Parada 245 tiene distancia promedio: 207.905
+Parada 246 tiene distancia promedio: 208.354
+Parada 247 tiene distancia promedio: 208.058
+Parada 249 tiene distancia promedio: 209.136
+Parada 250 tiene distancia promedio: 153.468
+Parada 252 tiene distancia promedio: 206.953
+Parada 253 tiene distancia promedio: 153.077
+Parada 254 tiene distancia promedio: 152.685
+Parada 255 tiene distancia promedio: 205.585
+Parada 256 tiene distancia promedio: 207.802
+Parada 257 tiene distancia promedio: 206.869
+Parada 258 tiene distancia promedio: 206.243
+Parada 259 tiene distancia promedio: 210.672
+Parada 260 tiene distancia promedio: 152.295
+Parada 261 tiene distancia promedio: 210.6
+Parada 262 tiene distancia promedio: 151.905
+Parada 263 tiene distancia promedio: 151.516
+Parada 264 tiene distancia promedio: 207.702
+Parada 265 tiene distancia promedio: 206.022
+Parada 266 tiene distancia promedio: 151.126
+Parada 267 tiene distancia promedio: 150.738
+Parada 268 tiene distancia promedio: 204.681
+Parada 269 tiene distancia promedio: 211.681
+Parada 270 tiene distancia promedio: 150.35
+Parada 271 tiene distancia promedio: 149.963
+Parada 272 tiene distancia promedio: 208.331
+Parada 273 tiene distancia promedio: 208.664
+Parada 275 tiene distancia promedio: 206.048
+Parada 276 tiene distancia promedio: 206.958
+Parada 277 tiene distancia promedio: 206.951
+Parada 278 tiene distancia promedio: 205.688
+Parada 279 tiene distancia promedio: 207.593
+Parada 280 tiene distancia promedio: 149.576
+Parada 281 tiene distancia promedio: 209.888
+Parada 282 tiene distancia promedio: 208.723
+Parada 284 tiene distancia promedio: 149.189
+Parada 285 tiene distancia promedio: 148.803
+Parada 286 tiene distancia promedio: 207.119
+Parada 287 tiene distancia promedio: 148.417
+Parada 288 tiene distancia promedio: 148.032
+Parada 289 tiene distancia promedio: 147.648
+Parada 290 tiene distancia promedio: 147.264
+Parada 291 tiene distancia promedio: 206.911
+Parada 292 tiene distancia promedio: 208.228
+Parada 293 tiene distancia promedio: 146.881
+Parada 294 tiene distancia promedio: 146.498
+Parada 295 tiene distancia promedio: 213.284
+Parada 296 tiene distancia promedio: 146.115
+Parada 297 tiene distancia promedio: 206.35
+Parada 298 tiene distancia promedio: 206.956
+Parada 299 tiene distancia promedio: 145.733
+Parada 300 tiene distancia promedio: 208.871
+Parada 301 tiene distancia promedio: 145.351
+Parada 302 tiene distancia promedio: 205.607
+Parada 303 tiene distancia promedio: 209.935
+Parada 304 tiene distancia promedio: 144.97
+Parada 305 tiene distancia promedio: 206.641
+Parada 307 tiene distancia promedio: 144.59
+Parada 308 tiene distancia promedio: 208.641
+Parada 309 tiene distancia promedio: 144.21
+Parada 310 tiene distancia promedio: 143.831
+Parada 311 tiene distancia promedio: 143.452
+Parada 312 tiene distancia promedio: 143.073
+Parada 313 tiene distancia promedio: 206.907
+Parada 314 tiene distancia promedio: 207.652
+Parada 316 tiene distancia promedio: 0.0015
+Parada 317 tiene distancia promedio: 212.754
+Parada 318 tiene distancia promedio: 208.868
+Parada 319 tiene distancia promedio: 142.695
+Parada 320 tiene distancia promedio: 142.317
+Parada 321 tiene distancia promedio: 141.94
+Parada 322 tiene distancia promedio: 205.774
+Parada 323 tiene distancia promedio: 141.564
+Parada 324 tiene distancia promedio: 205.223
+Parada 325 tiene distancia promedio: 141.188
+Parada 326 tiene distancia promedio: 208.662
+Parada 327 tiene distancia promedio: 140.812
+Parada 328 tiene distancia promedio: 205.156
+Parada 329 tiene distancia promedio: 140.438
+Parada 330 tiene distancia promedio: 140.063
+Parada 331 tiene distancia promedio: 207.332
+Parada 332 tiene distancia promedio: 139.689
+Parada 333 tiene distancia promedio: 207.412
+Parada 334 tiene distancia promedio: 0.0005
+Parada 335 tiene distancia promedio: 139.315
+Parada 336 tiene distancia promedio: 138.942
+Parada 337 tiene distancia promedio: 138.57
+Parada 338 tiene distancia promedio: 208.595
+Parada 339 tiene distancia promedio: 207.041
+Parada 340 tiene distancia promedio: 138.198
+Parada 342 tiene distancia promedio: 137.827
+Parada 343 tiene distancia promedio: 209.485
+Parada 344 tiene distancia promedio: 137.456
+Parada 345 tiene distancia promedio: 206.568
+Parada 346 tiene distancia promedio: 207.927
+Parada 347 tiene distancia promedio: 205.761
+Parada 348 tiene distancia promedio: 137.085
+Parada 349 tiene distancia promedio: 136.715
+Parada 350 tiene distancia promedio: 205.398
+Parada 352 tiene distancia promedio: 136.345
+Parada 353 tiene distancia promedio: 206.29
+Parada 354 tiene distancia promedio: 135.976
+Parada 355 tiene distancia promedio: 207.538
+Parada 356 tiene distancia promedio: 205.004
+Parada 357 tiene distancia promedio: 210.392
+Parada 358 tiene distancia promedio: 135.608
+Parada 359 tiene distancia promedio: 209.321
+Parada 360 tiene distancia promedio: 211.472
+Parada 361 tiene distancia promedio: 135.24
+Parada 362 tiene distancia promedio: 134.873
+Parada 363 tiene distancia promedio: 134.506
+Parada 364 tiene distancia promedio: 134.139
+Parada 365 tiene distancia promedio: 133.773
+Parada 366 tiene distancia promedio: 133.407
+Parada 367 tiene distancia promedio: 209.97
+Parada 368 tiene distancia promedio: 133.042
+Parada 369 tiene distancia promedio: 206.486
+Parada 370 tiene distancia promedio: 207.715
+Parada 371 tiene distancia promedio: 0.0005
+Parada 372 tiene distancia promedio: 208.21
+Parada 373 tiene distancia promedio: 211.827
+Parada 374 tiene distancia promedio: 132.678
+Parada 375 tiene distancia promedio: 132.314
+Parada 376 tiene distancia promedio: 209.085
+Parada 377 tiene distancia promedio: 131.951
+Parada 378 tiene distancia promedio: 208.212
+Parada 379 tiene distancia promedio: 210.667
+Parada 380 tiene distancia promedio: 131.588
+Parada 381 tiene distancia promedio: 131.225
+Parada 382 tiene distancia promedio: 130.863
+Parada 384 tiene distancia promedio: 130.501
+Parada 385 tiene distancia promedio: 130.141
+Parada 386 tiene distancia promedio: 212.814
+Parada 387 tiene distancia promedio: 129.78
+Parada 388 tiene distancia promedio: 129.42
+Parada 389 tiene distancia promedio: 129.06
+Parada 390 tiene distancia promedio: 207.688
+Parada 391 tiene distancia promedio: 209.037
+Parada 392 tiene distancia promedio: 208.078
+Parada 393 tiene distancia promedio: 206.825
+Parada 394 tiene distancia promedio: 128.702
+Parada 395 tiene distancia promedio: 128.343
+Parada 396 tiene distancia promedio: 209.393
+Parada 397 tiene distancia promedio: 127.985
+Parada 398 tiene distancia promedio: 127.627
+Parada 399 tiene distancia promedio: 210.857
+Parada 400 tiene distancia promedio: 127.27
+Parada 401 tiene distancia promedio: 208.867
+Parada 402 tiene distancia promedio: 126.914
+Parada 403 tiene distancia promedio: 212.73
+Parada 404 tiene distancia promedio: 126.558
+Parada 405 tiene distancia promedio: 206.108
+Parada 406 tiene distancia promedio: 126.203
+Parada 407 tiene distancia promedio: 125.847
+Parada 408 tiene distancia promedio: 210.398
+Parada 409 tiene distancia promedio: 125.493
+Parada 410 tiene distancia promedio: 208.867
+Parada 411 tiene distancia promedio: 125.139
+Parada 412 tiene distancia promedio: 124.785
+Parada 413 tiene distancia promedio: 0.002
+Parada 414 tiene distancia promedio: 124.433
+Parada 415 tiene distancia promedio: 205.343
+Parada 416 tiene distancia promedio: 208.724
+Parada 417 tiene distancia promedio: 209.813
+Parada 418 tiene distancia promedio: 124.08
+Parada 419 tiene distancia promedio: 207.498
+Parada 420 tiene distancia promedio: 202.828
+Parada 421 tiene distancia promedio: 207.926
+Parada 422 tiene distancia promedio: 208.694
+Parada 423 tiene distancia promedio: 207.131
+Parada 424 tiene distancia promedio: 206.316
+Parada 426 tiene distancia promedio: 206.27
+Parada 427 tiene distancia promedio: 123.728
+Parada 428 tiene distancia promedio: 205.062
+Parada 429 tiene distancia promedio: 123.376
+Parada 430 tiene distancia promedio: 0.0005
+Parada 431 tiene distancia promedio: 123.025
+Parada 432 tiene distancia promedio: 122.675
+Parada 433 tiene distancia promedio: 206.731
+Parada 434 tiene distancia promedio: 122.325
+Parada 435 tiene distancia promedio: 206.111
+Parada 436 tiene distancia promedio: 121.975
+Parada 437 tiene distancia promedio: 121.626
+Parada 438 tiene distancia promedio: 208.946
+Parada 439 tiene distancia promedio: 121.278
+Parada 440 tiene distancia promedio: 206.274
+Parada 441 tiene distancia promedio: 208.628
+Parada 442 tiene distancia promedio: 120.93
+Parada 443 tiene distancia promedio: 120.582
+Parada 444 tiene distancia promedio: 205.347
+Parada 445 tiene distancia promedio: 206.53
+Parada 446 tiene distancia promedio: 120.236
+Parada 447 tiene distancia promedio: 206.123
+Parada 448 tiene distancia promedio: 206.975
+Parada 449 tiene distancia promedio: 207
+Parada 450 tiene distancia promedio: 119.889
+Parada 453 tiene distancia promedio: 119.543
+Parada 454 tiene distancia promedio: 119.198
+Parada 455 tiene distancia promedio: 205.653
+Parada 456 tiene distancia promedio: 118.853
+Parada 457 tiene distancia promedio: 118.508
+Parada 458 tiene distancia promedio: 118.164
+Parada 459 tiene distancia promedio: 0.0005
+Parada 460 tiene distancia promedio: 117.82
+Parada 461 tiene distancia promedio: 208.44
+Parada 462 tiene distancia promedio: 117.478
+Parada 463 tiene distancia promedio: 117.135
+Parada 464 tiene distancia promedio: 206.01
+Parada 465 tiene distancia promedio: 116.793
+Parada 466 tiene distancia promedio: 116.451
+Parada 468 tiene distancia promedio: 206.54
+Parada 470 tiene distancia promedio: 116.111
+Parada 471 tiene distancia promedio: 115.77
+Parada 472 tiene distancia promedio: 115.43
+Parada 473 tiene distancia promedio: 208.854
+Parada 474 tiene distancia promedio: 115.091
+Parada 475 tiene distancia promedio: 114.751
+Parada 476 tiene distancia promedio: 114.413
+Parada 477 tiene distancia promedio: 209.004
+Parada 478 tiene distancia promedio: 205.626
+Parada 479 tiene distancia promedio: 206.658
+Parada 480 tiene distancia promedio: 204.764
+Parada 481 tiene distancia promedio: 206.553
+Parada 482 tiene distancia promedio: 209.644
+Parada 483 tiene distancia promedio: 209.037
+Parada 484 tiene distancia promedio: 211.285
+Parada 485 tiene distancia promedio: 114.075
+Parada 486 tiene distancia promedio: 208.607
+Parada 487 tiene distancia promedio: 113.737
+Parada 488 tiene distancia promedio: 205.302
+Parada 489 tiene distancia promedio: 206.347
+Parada 490 tiene distancia promedio: 113.4
+Parada 491 tiene distancia promedio: 113.064
+Parada 492 tiene distancia promedio: 0.0015
+Parada 493 tiene distancia promedio: 206.978
+Parada 494 tiene distancia promedio: 211.72
+Parada 495 tiene distancia promedio: 112.728
+Parada 496 tiene distancia promedio: 112.392
+Parada 497 tiene distancia promedio: 112.058
+Parada 498 tiene distancia promedio: 111.723
+Parada 499 tiene distancia promedio: 210.108
+Parada 500 tiene distancia promedio: 111.389
+Parada 501 tiene distancia promedio: 210.864
+Parada 502 tiene distancia promedio: 111.055
+Parada 503 tiene distancia promedio: 209.28
+Parada 504 tiene distancia promedio: 110.722
+Parada 505 tiene distancia promedio: 209.912
+Parada 506 tiene distancia promedio: 211.496
+Parada 507 tiene distancia promedio: 110.39
+Parada 508 tiene distancia promedio: 110.058
+Parada 509 tiene distancia promedio: 205.709
+Parada 510 tiene distancia promedio: 208.363
+Parada 511 tiene distancia promedio: 208.509
+Parada 512 tiene distancia promedio: 109.727
+Parada 513 tiene distancia promedio: 109.395
+Parada 514 tiene distancia promedio: 207.995
+Parada 515 tiene distancia promedio: 209.16
+Parada 516 tiene distancia promedio: 207.513
+Parada 517 tiene distancia promedio: 109.065
+Parada 518 tiene distancia promedio: 206.171
+Parada 519 tiene distancia promedio: 108.735
+Parada 520 tiene distancia promedio: 108.406
+Parada 521 tiene distancia promedio: 108.076
+Parada 522 tiene distancia promedio: 107.748
+Parada 523 tiene distancia promedio: 208.019
+Parada 524 tiene distancia promedio: 0.0015
+Parada 525 tiene distancia promedio: 204.589
+Parada 526 tiene distancia promedio: 207.86
+Parada 527 tiene distancia promedio: 107.42
+Parada 528 tiene distancia promedio: 206.791
+Parada 529 tiene distancia promedio: 204.239
+Parada 530 tiene distancia promedio: 203.957
+Parada 531 tiene distancia promedio: 209.825
+Parada 532 tiene distancia promedio: 107.093
+Parada 533 tiene distancia promedio: 208.476
+Parada 534 tiene distancia promedio: 206.431
+Parada 535 tiene distancia promedio: 106.766
+Parada 538 tiene distancia promedio: 210.857
+Parada 539 tiene distancia promedio: 106.439
+Parada 540 tiene distancia promedio: 106.113
+Parada 541 tiene distancia promedio: 207.397
+Parada 542 tiene distancia promedio: 105.787
+Parada 543 tiene distancia promedio: 105.463
+Parada 544 tiene distancia promedio: 105.138
+Parada 545 tiene distancia promedio: 209.815
+Parada 546 tiene distancia promedio: 104.814
+Parada 547 tiene distancia promedio: 0.0015
+Parada 548 tiene distancia promedio: 104.49
+Parada 549 tiene distancia promedio: 208.02
+Parada 550 tiene distancia promedio: 206.837
+Parada 551 tiene distancia promedio: 104.168
+Parada 552 tiene distancia promedio: 207.881
+Parada 553 tiene distancia promedio: 208.816
+Parada 554 tiene distancia promedio: 103.845
+Parada 555 tiene distancia promedio: 208.538
+Parada 556 tiene distancia promedio: 103.523
+Parada 558 tiene distancia promedio: 214.698
+Parada 559 tiene distancia promedio: 206.552
+Parada 560 tiene distancia promedio: 207.703
+Parada 561 tiene distancia promedio: 205.396
+Parada 562 tiene distancia promedio: 212.14
+Parada 563 tiene distancia promedio: 206.506
+Parada 564 tiene distancia promedio: 207.243
+Parada 565 tiene distancia promedio: 103.201
+Parada 566 tiene distancia promedio: 102.88
+Parada 567 tiene distancia promedio: 207.685
+Parada 568 tiene distancia promedio: 102.56
+Parada 569 tiene distancia promedio: 102.24
+Parada 570 tiene distancia promedio: 206.095
+Parada 571 tiene distancia promedio: 211.088
+Parada 572 tiene distancia promedio: 202.15
+Parada 573 tiene distancia promedio: 208.254
+Parada 574 tiene distancia promedio: 101.921
+Parada 575 tiene distancia promedio: 206.52
+Parada 576 tiene distancia promedio: 207.188
+Parada 578 tiene distancia promedio: 207.692
+Parada 579 tiene distancia promedio: 101.602
+Parada 580 tiene distancia promedio: 208.313
+Parada 581 tiene distancia promedio: 101.283
+Parada 582 tiene distancia promedio: 100.965
+Parada 583 tiene distancia promedio: 100.647
+Parada 584 tiene distancia promedio: 100.331
+Parada 585 tiene distancia promedio: 206.867
+Parada 586 tiene distancia promedio: 100.014
+Parada 587 tiene distancia promedio: 210.881
+Parada 588 tiene distancia promedio: 0.0005
+Parada 589 tiene distancia promedio: 206.657
+Parada 590 tiene distancia promedio: 209.089
+Parada 591 tiene distancia promedio: 207.037
+Parada 593 tiene distancia promedio: 99.698
+Parada 594 tiene distancia promedio: 99.3825
+Parada 595 tiene distancia promedio: 99.0675
+Parada 596 tiene distancia promedio: 98.753
+Parada 597 tiene distancia promedio: 98.439
+Parada 598 tiene distancia promedio: 98.1255
+Parada 599 tiene distancia promedio: 97.8125
+Parada 600 tiene distancia promedio: 206.495
+Parada 601 tiene distancia promedio: 206.741
+Parada 602 tiene distancia promedio: 206.106
+Parada 603 tiene distancia promedio: 97.5
+Parada 605 tiene distancia promedio: 207.716
+Parada 606 tiene distancia promedio: 97.188
+Parada 607 tiene distancia promedio: 206.567
+Parada 609 tiene distancia promedio: 96.8765
+Parada 610 tiene distancia promedio: 96.5655
+Parada 611 tiene distancia promedio: 207.845
+Parada 612 tiene distancia promedio: 205.714
+Parada 613 tiene distancia promedio: 96.255
+Parada 614 tiene distancia promedio: 95.945
+Parada 615 tiene distancia promedio: 95.6355
+Parada 616 tiene distancia promedio: 95.3265
+Parada 617 tiene distancia promedio: 95.018
+Parada 618 tiene distancia promedio: 94.71
+Parada 619 tiene distancia promedio: 94.4025
+Parada 620 tiene distancia promedio: 94.0955
+Parada 621 tiene distancia promedio: 206.655
+Parada 622 tiene distancia promedio: 208.119
+Parada 623 tiene distancia promedio: 93.789
+Parada 624 tiene distancia promedio: 93.483
+Parada 625 tiene distancia promedio: 93.1775
+Parada 627 tiene distancia promedio: 209.387
+Parada 628 tiene distancia promedio: 92.8725
+Parada 629 tiene distancia promedio: 207.845
+Parada 630 tiene distancia promedio: 92.568
+Parada 631 tiene distancia promedio: 209.596
+Parada 632 tiene distancia promedio: 208.706
+Parada 633 tiene distancia promedio: 208.209
+Parada 634 tiene distancia promedio: 210.067
+Parada 635 tiene distancia promedio: 92.264
+Parada 636 tiene distancia promedio: 91.9605
+Parada 637 tiene distancia promedio: 208.655
+Parada 638 tiene distancia promedio: 204.16
+Parada 639 tiene distancia promedio: 91.6575
+Parada 640 tiene distancia promedio: 206.768
+Parada 641 tiene distancia promedio: 207.4
+Parada 642 tiene distancia promedio: 91.355
+Parada 643 tiene distancia promedio: 91.053
+Parada 644 tiene distancia promedio: 207.393
+Parada 645 tiene distancia promedio: 206.168
+Parada 646 tiene distancia promedio: 90.7515
+Parada 647 tiene distancia promedio: 90.4505
+Parada 648 tiene distancia promedio: 207.236
+Parada 649 tiene distancia promedio: 90.15
+Parada 650 tiene distancia promedio: 206.53
+Parada 651 tiene distancia promedio: 89.85
+Parada 652 tiene distancia promedio: 89.5505
+Parada 653 tiene distancia promedio: 89.2515
+Parada 654 tiene distancia promedio: 88.953
+Parada 655 tiene distancia promedio: 88.655
+Parada 656 tiene distancia promedio: 88.3575
+Parada 657 tiene distancia promedio: 205.399
+Parada 658 tiene distancia promedio: 88.0605
+Parada 659 tiene distancia promedio: 87.764
+Parada 660 tiene distancia promedio: 210.687
+Parada 661 tiene distancia promedio: 87.468
+Parada 662 tiene distancia promedio: 209.499
+Parada 663 tiene distancia promedio: 87.1725
+Parada 664 tiene distancia promedio: 208.486
+Parada 665 tiene distancia promedio: 206.121
+Parada 666 tiene distancia promedio: 86.8775
+Parada 667 tiene distancia promedio: 86.583
+Parada 668 tiene distancia promedio: 86.289
+Parada 669 tiene distancia promedio: 211.221
+Parada 670 tiene distancia promedio: 207.708
+Parada 671 tiene distancia promedio: 206.364
+Parada 672 tiene distancia promedio: 85.9955
+Parada 673 tiene distancia promedio: 208.361
+Parada 674 tiene distancia promedio: 85.7025
+Parada 675 tiene distancia promedio: 85.41
+Parada 676 tiene distancia promedio: 205.673
+Parada 677 tiene distancia promedio: 204.933
+Parada 678 tiene distancia promedio: 208.662
+Parada 679 tiene distancia promedio: 0.0005
+Parada 680 tiene distancia promedio: 207.468
+Parada 681 tiene distancia promedio: 205.294
+Parada 682 tiene distancia promedio: 85.118
+Parada 683 tiene distancia promedio: 212.444
+Parada 684 tiene distancia promedio: 84.8265
+Parada 685 tiene distancia promedio: 208.897
+Parada 686 tiene distancia promedio: 205.523
+Parada 687 tiene distancia promedio: 205.841
+Parada 688 tiene distancia promedio: 207.516
+Parada 689 tiene distancia promedio: 207.15
+Parada 690 tiene distancia promedio: 84.5355
+Parada 691 tiene distancia promedio: 210.446
+Parada 693 tiene distancia promedio: 84.245
+Parada 694 tiene distancia promedio: 206.54
+Parada 695 tiene distancia promedio: 83.955
+Parada 696 tiene distancia promedio: 83.6655
+Parada 697 tiene distancia promedio: 213.087
+Parada 699 tiene distancia promedio: 83.3765
+Parada 700 tiene distancia promedio: 205.62
+Parada 701 tiene distancia promedio: 83.088
+Parada 702 tiene distancia promedio: 82.8
+Parada 703 tiene distancia promedio: 206.191
+Parada 704 tiene distancia promedio: 82.5125
+Parada 705 tiene distancia promedio: 208.253
+Parada 706 tiene distancia promedio: 82.2255
+Parada 707 tiene distancia promedio: 207.053
+Parada 708 tiene distancia promedio: 81.939
+Parada 709 tiene distancia promedio: 205.161
+Parada 710 tiene distancia promedio: 206.289
+Parada 711 tiene distancia promedio: 81.653
+Parada 712 tiene distancia promedio: 81.3675
+Parada 713 tiene distancia promedio: 81.0825
+Parada 714 tiene distancia promedio: 210.281
+Parada 715 tiene distancia promedio: 205.536
+Parada 716 tiene distancia promedio: 0.0005
+Parada 717 tiene distancia promedio: 80.798
+Parada 718 tiene distancia promedio: 204.663
+Parada 719 tiene distancia promedio: 208.661
+Parada 720 tiene distancia promedio: 80.514
+Parada 721 tiene distancia promedio: 80.2305
+Parada 722 tiene distancia promedio: 79.9475
+Parada 723 tiene distancia promedio: 79.665
+Parada 724 tiene distancia promedio: 210.59
+Parada 725 tiene distancia promedio: 79.383
+Parada 726 tiene distancia promedio: 79.1015
+Parada 727 tiene distancia promedio: 78.8205
+Parada 728 tiene distancia promedio: 207.526
+Parada 729 tiene distancia promedio: 78.54
+Parada 730 tiene distancia promedio: 209.127
+Parada 731 tiene distancia promedio: 206.775
+Parada 732 tiene distancia promedio: 208.016
+Parada 733 tiene distancia promedio: 209.721
+Parada 734 tiene distancia promedio: 78.26
+Parada 735 tiene distancia promedio: 77.9805
+Parada 736 tiene distancia promedio: 77.7015
+Parada 737 tiene distancia promedio: 209.786
+Parada 738 tiene distancia promedio: 77.423
+Parada 739 tiene distancia promedio: 206.579
+Parada 741 tiene distancia promedio: 77.145
+Parada 742 tiene distancia promedio: 205.58
+Parada 743 tiene distancia promedio: 207.804
+Parada 744 tiene distancia promedio: 76.8675
+Parada 745 tiene distancia promedio: 76.5905
+Parada 746 tiene distancia promedio: 209.612
+Parada 747 tiene distancia promedio: 76.314
+Parada 748 tiene distancia promedio: 76.038
+Parada 749 tiene distancia promedio: 209.446
+Parada 750 tiene distancia promedio: 75.7625
+Parada 751 tiene distancia promedio: 208.875
+Parada 752 tiene distancia promedio: 75.4875
+Parada 753 tiene distancia promedio: 207.298
+Parada 754 tiene distancia promedio: 75.213
+Parada 755 tiene distancia promedio: 206.185
+Parada 756 tiene distancia promedio: 74.939
+Parada 758 tiene distancia promedio: 207.237
+Parada 759 tiene distancia promedio: 210.917
+Parada 760 tiene distancia promedio: 74.6655
+Parada 761 tiene distancia promedio: 206.786
+Parada 762 tiene distancia promedio: 208.458
+Parada 763 tiene distancia promedio: 206.169
+Parada 764 tiene distancia promedio: 74.3925
+Parada 765 tiene distancia promedio: 74.12
+Parada 766 tiene distancia promedio: 73.848
+Parada 767 tiene distancia promedio: 73.5765
+Parada 768 tiene distancia promedio: 211.614
+Parada 769 tiene distancia promedio: 205.999
+Parada 770 tiene distancia promedio: 73.3055
+Parada 771 tiene distancia promedio: 73.035
+Parada 772 tiene distancia promedio: 72.765
+Parada 773 tiene distancia promedio: 0.0005
+Parada 774 tiene distancia promedio: 72.4955
+Parada 775 tiene distancia promedio: 72.2265
+Parada 776 tiene distancia promedio: 71.958
+Parada 777 tiene distancia promedio: 71.69
+Parada 778 tiene distancia promedio: 71.4225
+Parada 779 tiene distancia promedio: 71.1555
+Parada 780 tiene distancia promedio: 70.889
+Parada 781 tiene distancia promedio: 70.623
+Parada 782 tiene distancia promedio: 70.3575
+Parada 783 tiene distancia promedio: 209.742
+Parada 784 tiene distancia promedio: 205.122
+Parada 785 tiene distancia promedio: 207.927
+Parada 786 tiene distancia promedio: 70.0925
+Parada 787 tiene distancia promedio: 205.952
+Parada 788 tiene distancia promedio: 207.93
+Parada 789 tiene distancia promedio: 208.605
+Parada 790 tiene distancia promedio: 206.981
+Parada 791 tiene distancia promedio: 210.838
+Parada 792 tiene distancia promedio: 69.828
+Parada 793 tiene distancia promedio: 206.957
+Parada 794 tiene distancia promedio: 208.185
+Parada 795 tiene distancia promedio: 207.244
+Parada 796 tiene distancia promedio: 69.564
+Parada 797 tiene distancia promedio: 69.3005
+Parada 798 tiene distancia promedio: 209.155
+Parada 799 tiene distancia promedio: 69.0375
+Parada 800 tiene distancia promedio: 68.775
+Parada 801 tiene distancia promedio: 209.186
+Parada 802 tiene distancia promedio: 68.513
+Parada 803 tiene distancia promedio: 206.458
+Parada 804 tiene distancia promedio: 68.2515
+Parada 805 tiene distancia promedio: 67.9905
+Parada 806 tiene distancia promedio: 205.794
+Parada 807 tiene distancia promedio: 67.73
+Parada 808 tiene distancia promedio: 205.58
+Parada 809 tiene distancia promedio: 207.891
+Parada 810 tiene distancia promedio: 67.47
+Parada 811 tiene distancia promedio: 67.2105
+Parada 812 tiene distancia promedio: 66.9515
+Parada 813 tiene distancia promedio: 208.552
+Parada 814 tiene distancia promedio: 204.04
+Parada 815 tiene distancia promedio: 206.867
+Parada 816 tiene distancia promedio: 66.693
+Parada 817 tiene distancia promedio: 207.041
+Parada 818 tiene distancia promedio: 208.026
+Parada 819 tiene distancia promedio: 207.206
+Parada 820 tiene distancia promedio: 207.607
+Parada 821 tiene distancia promedio: 66.435
+Parada 822 tiene distancia promedio: 208.863
+Parada 823 tiene distancia promedio: 66.1775
+Parada 824 tiene distancia promedio: 65.9205
+Parada 825 tiene distancia promedio: 65.664
+Parada 826 tiene distancia promedio: 207.203
+Parada 828 tiene distancia promedio: 65.408
+Parada 829 tiene distancia promedio: 210.389
+Parada 830 tiene distancia promedio: 210.762
+Parada 831 tiene distancia promedio: 207.457
+Parada 832 tiene distancia promedio: 208.79
+Parada 833 tiene distancia promedio: 207.688
+Parada 834 tiene distancia promedio: 210.228
+Parada 835 tiene distancia promedio: 208.533
+Parada 836 tiene distancia promedio: 207.798
+Parada 837 tiene distancia promedio: 206.528
+Parada 839 tiene distancia promedio: 206.395
+Parada 840 tiene distancia promedio: 65.1525
+Parada 841 tiene distancia promedio: 64.8975
+Parada 842 tiene distancia promedio: 64.643
+Parada 843 tiene distancia promedio: 207.776
+Parada 844 tiene distancia promedio: 64.389
+Parada 845 tiene distancia promedio: 64.1355
+Parada 846 tiene distancia promedio: 63.8825
+Parada 847 tiene distancia promedio: 206.953
+Parada 848 tiene distancia promedio: 208.19
+Parada 850 tiene distancia promedio: 63.63
+Parada 851 tiene distancia promedio: 210.936
+Parada 852 tiene distancia promedio: 208.797
+Parada 853 tiene distancia promedio: 210.256
+Parada 854 tiene distancia promedio: 210.034
+Parada 855 tiene distancia promedio: 206.996
+Parada 856 tiene distancia promedio: 207.1
+Parada 857 tiene distancia promedio: 63.378
+Parada 858 tiene distancia promedio: 206.011
+Parada 859 tiene distancia promedio: 207.899
+Parada 860 tiene distancia promedio: 63.1265
+Parada 861 tiene distancia promedio: 207.288
+Parada 862 tiene distancia promedio: 208.13
+Parada 863 tiene distancia promedio: 206.232
+Parada 864 tiene distancia promedio: 206.62
+Parada 865 tiene distancia promedio: 62.8755
+Parada 866 tiene distancia promedio: 62.625
+Parada 867 tiene distancia promedio: 203.53
+Parada 868 tiene distancia promedio: 206.482
+Parada 869 tiene distancia promedio: 62.375
+Parada 870 tiene distancia promedio: 206.024
+Parada 871 tiene distancia promedio: 62.1255
+Parada 872 tiene distancia promedio: 205.991
+Parada 873 tiene distancia promedio: 61.8765
+Parada 874 tiene distancia promedio: 212.442
+Parada 876 tiene distancia promedio: 206.619
+Parada 877 tiene distancia promedio: 207.776
+Parada 878 tiene distancia promedio: 61.628
+Parada 879 tiene distancia promedio: 206.056
+Parada 880 tiene distancia promedio: 61.38
+Parada 882 tiene distancia promedio: 61.1325
+Parada 883 tiene distancia promedio: 208.876
+Parada 884 tiene distancia promedio: 207.049
+Parada 885 tiene distancia promedio: 208.916
+Parada 886 tiene distancia promedio: 60.8855
+Parada 887 tiene distancia promedio: 60.639
+Parada 888 tiene distancia promedio: 204.988
+Parada 889 tiene distancia promedio: 60.393
+Parada 890 tiene distancia promedio: 209.783
+Parada 891 tiene distancia promedio: 204.88
+Parada 892 tiene distancia promedio: 60.1475
+Parada 893 tiene distancia promedio: 0.0015
+Parada 894 tiene distancia promedio: 59.9025
+Parada 895 tiene distancia promedio: 59.658
+Parada 896 tiene distancia promedio: 59.414
+Parada 897 tiene distancia promedio: 59.1705
+Parada 898 tiene distancia promedio: 204.765
+Parada 899 tiene distancia promedio: 207.645
+Parada 900 tiene distancia promedio: 208.67
+Parada 901 tiene distancia promedio: 208.078
+Parada 902 tiene distancia promedio: 209.341
+Parada 903 tiene distancia promedio: 58.9275
+Parada 904 tiene distancia promedio: 210.731
+Parada 905 tiene distancia promedio: 207.556
+Parada 906 tiene distancia promedio: 58.685
+Parada 907 tiene distancia promedio: 206.709
+Parada 908 tiene distancia promedio: 58.443
+Parada 909 tiene distancia promedio: 207.926
+Parada 910 tiene distancia promedio: 58.2015
+Parada 911 tiene distancia promedio: 206.951
+Parada 912 tiene distancia promedio: 205.605
+Parada 913 tiene distancia promedio: 206.811
+Parada 914 tiene distancia promedio: 57.9605
+Parada 915 tiene distancia promedio: 57.72
+Parada 916 tiene distancia promedio: 57.48
+Parada 917 tiene distancia promedio: 206.98
+Parada 918 tiene distancia promedio: 57.2405
+Parada 919 tiene distancia promedio: 0.004
+Parada 920 tiene distancia promedio: 208.016
+Parada 921 tiene distancia promedio: 57.0015
+Parada 922 tiene distancia promedio: 204.315
+Parada 923 tiene distancia promedio: 205.663
+Parada 924 tiene distancia promedio: 56.763
+Parada 925 tiene distancia promedio: 206.702
+Parada 926 tiene distancia promedio: 205.537
+Parada 927 tiene distancia promedio: 56.525
+Parada 928 tiene distancia promedio: 0.0015
+Parada 929 tiene distancia promedio: 209.949
+Parada 930 tiene distancia promedio: 207.066
+Parada 931 tiene distancia promedio: 208.554
+Parada 932 tiene distancia promedio: 56.2875
+Parada 933 tiene distancia promedio: 206.897
+Parada 934 tiene distancia promedio: 205.923
+Parada 935 tiene distancia promedio: 56.0505
+Parada 936 tiene distancia promedio: 55.814
+Parada 937 tiene distancia promedio: 207.24
+Parada 938 tiene distancia promedio: 55.578
+Parada 939 tiene distancia promedio: 55.3425
+Parada 940 tiene distancia promedio: 55.1075
+Parada 941 tiene distancia promedio: 208.869
+Parada 942 tiene distancia promedio: 207.657
+Parada 943 tiene distancia promedio: 54.873
+Parada 944 tiene distancia promedio: 204.887
+Parada 945 tiene distancia promedio: 210.734
+Parada 946 tiene distancia promedio: 208.82
+Parada 948 tiene distancia promedio: 208.65
+Parada 949 tiene distancia promedio: 54.639
+Parada 950 tiene distancia promedio: 54.4055
+Parada 951 tiene distancia promedio: 54.1725
+Parada 952 tiene distancia promedio: 208.059
+Parada 953 tiene distancia promedio: 53.94
+Parada 954 tiene distancia promedio: 53.708
+Parada 955 tiene distancia promedio: 53.4765
+Parada 956 tiene distancia promedio: 53.2455
+Parada 957 tiene distancia promedio: 203.994
+Parada 958 tiene distancia promedio: 206.725
+Parada 959 tiene distancia promedio: 53.015
+Parada 960 tiene distancia promedio: 52.785
+Parada 961 tiene distancia promedio: 207.691
+Parada 962 tiene distancia promedio: 207.866
+Parada 963 tiene distancia promedio: 52.5555
+Parada 964 tiene distancia promedio: 52.3265
+Parada 965 tiene distancia promedio: 207.312
+Parada 966 tiene distancia promedio: 208.186
+Parada 967 tiene distancia promedio: 52.098
+Parada 968 tiene distancia promedio: 207.562
+Parada 969 tiene distancia promedio: 209.452
+Parada 970 tiene distancia promedio: 208.964
+Parada 971 tiene distancia promedio: 209.069
+Parada 972 tiene distancia promedio: 51.87
+Parada 973 tiene distancia promedio: 206.744
+Parada 974 tiene distancia promedio: 51.6425
+Parada 976 tiene distancia promedio: 51.4155
+Parada 977 tiene distancia promedio: 0.0005
+Parada 978 tiene distancia promedio: 206.645
+Parada 979 tiene distancia promedio: 51.189
+Parada 980 tiene distancia promedio: 50.963
+Parada 981 tiene distancia promedio: 50.7375
+Parada 982 tiene distancia promedio: 50.5125
+Parada 983 tiene distancia promedio: 208.847
+Parada 985 tiene distancia promedio: 50.288
+Parada 986 tiene distancia promedio: 50.064
+Parada 987 tiene distancia promedio: 208.463
+Parada 988 tiene distancia promedio: 207.679
+Parada 989 tiene distancia promedio: 207.761
+Parada 990 tiene distancia promedio: 206.627
+Parada 991 tiene distancia promedio: 49.8405
+Parada 992 tiene distancia promedio: 49.6175
+Parada 993 tiene distancia promedio: 49.395
+Parada 994 tiene distancia promedio: 207.989
+Parada 995 tiene distancia promedio: 208.516
+Parada 996 tiene distancia promedio: 207.76
+Parada 997 tiene distancia promedio: 49.173
+Parada 998 tiene distancia promedio: 207.559
+Parada 999 tiene distancia promedio: 205.262
+Parada 1000 tiene distancia promedio: 205.296
+Parada 1001 tiene distancia promedio: 48.9515
+Parada 1003 tiene distancia promedio: 48.7305
+Parada 1004 tiene distancia promedio: 205.892
+Parada 1005 tiene distancia promedio: 208.846
+Parada 1007 tiene distancia promedio: 48.51
+Parada 1008 tiene distancia promedio: 48.29
+Parada 1009 tiene distancia promedio: 205.889
+Parada 1010 tiene distancia promedio: 48.0705
+Parada 1011 tiene distancia promedio: 207.077
+Parada 1012 tiene distancia promedio: 208.744
+Parada 1013 tiene distancia promedio: 209.272
+Parada 1014 tiene distancia promedio: 207.757
+Parada 1015 tiene distancia promedio: 47.8515
+Parada 1016 tiene distancia promedio: 47.633
+Parada 1017 tiene distancia promedio: 207.59
+Parada 1018 tiene distancia promedio: 47.415
+Parada 1019 tiene distancia promedio: 47.1975
+Parada 1020 tiene distancia promedio: 46.9805
+Parada 1021 tiene distancia promedio: 205.357
+Parada 1022 tiene distancia promedio: 46.764
+Parada 1023 tiene distancia promedio: 46.548
+Parada 1024 tiene distancia promedio: 46.3325
+Parada 1025 tiene distancia promedio: 207.422
+Parada 1026 tiene distancia promedio: 46.1175
+Parada 1027 tiene distancia promedio: 45.903
+Parada 1028 tiene distancia promedio: 0.0005
+Parada 1029 tiene distancia promedio: 45.689
+Parada 1031 tiene distancia promedio: 208.708
+Parada 1032 tiene distancia promedio: 45.4755
+Parada 1033 tiene distancia promedio: 45.2625
+Parada 1034 tiene distancia promedio: 45.05
+Parada 1035 tiene distancia promedio: 44.838
+Parada 1036 tiene distancia promedio: 44.6265
+Parada 1037 tiene distancia promedio: 44.4155
+Parada 1038 tiene distancia promedio: 204.71
+Parada 1039 tiene distancia promedio: 44.205
+Parada 1040 tiene distancia promedio: 43.995
+Parada 1041 tiene distancia promedio: 205.562
+Parada 1042 tiene distancia promedio: 43.7855
+Parada 1043 tiene distancia promedio: 43.5765
+Parada 1044 tiene distancia promedio: 43.368
+Parada 1045 tiene distancia promedio: 206.273
+Parada 1046 tiene distancia promedio: 204.897
+Parada 1047 tiene distancia promedio: 207.752
+Parada 1048 tiene distancia promedio: 43.16
+Parada 1049 tiene distancia promedio: 42.9525
+Parada 1050 tiene distancia promedio: 42.7455
+Parada 1051 tiene distancia promedio: 42.539
+Parada 1052 tiene distancia promedio: 42.333
+Parada 1053 tiene distancia promedio: 206.532
+Parada 1055 tiene distancia promedio: 42.1275
+Parada 1056 tiene distancia promedio: 206.998
+Parada 1057 tiene distancia promedio: 206.666
+Parada 1058 tiene distancia promedio: 41.9225
+Parada 1059 tiene distancia promedio: 206.132
+Parada 1060 tiene distancia promedio: 203.53
+Parada 1061 tiene distancia promedio: 41.718
+Parada 1062 tiene distancia promedio: 204.721
+Parada 1063 tiene distancia promedio: 207.679
+Parada 1064 tiene distancia promedio: 207.086
+Parada 1065 tiene distancia promedio: 41.514
+Parada 1066 tiene distancia promedio: 210.763
+Parada 1067 tiene distancia promedio: 41.3105
+Parada 1068 tiene distancia promedio: 41.1075
+Parada 1069 tiene distancia promedio: 40.905
+Parada 1070 tiene distancia promedio: 205.671
+Parada 1071 tiene distancia promedio: 40.703
+Parada 1072 tiene distancia promedio: 211.809
+Parada 1073 tiene distancia promedio: 206.631
+Parada 1074 tiene distancia promedio: 40.5015
+Parada 1075 tiene distancia promedio: 204.137
+Parada 1076 tiene distancia promedio: 205.882
+Parada 1077 tiene distancia promedio: 40.3005
+Parada 1078 tiene distancia promedio: 40.1
+Parada 1079 tiene distancia promedio: 39.9
+Parada 1080 tiene distancia promedio: 39.7005
+Parada 1081 tiene distancia promedio: 39.5015
+Parada 1082 tiene distancia promedio: 206.45
+Parada 1083 tiene distancia promedio: 208.507
+Parada 1084 tiene distancia promedio: 39.303
+Parada 1085 tiene distancia promedio: 39.105
+Parada 1086 tiene distancia promedio: 205.323
+Parada 1087 tiene distancia promedio: 38.9075
+Parada 1088 tiene distancia promedio: 207.87
+Parada 1089 tiene distancia promedio: 208.405
+Parada 1090 tiene distancia promedio: 205.879
+Parada 1091 tiene distancia promedio: 38.7105
+Parada 1092 tiene distancia promedio: 205.435
+Parada 1093 tiene distancia promedio: 208.698
+Parada 1094 tiene distancia promedio: 207.482
+Parada 1096 tiene distancia promedio: 38.514
+Parada 1097 tiene distancia promedio: 204.234
+Parada 1098 tiene distancia promedio: 205.046
+Parada 1099 tiene distancia promedio: 204.438
+Parada 1100 tiene distancia promedio: 208.39
+Parada 1101 tiene distancia promedio: 205.317
+Parada 1102 tiene distancia promedio: 206.094
+Parada 1103 tiene distancia promedio: 208.047
+Parada 1104 tiene distancia promedio: 205.293
+Parada 1105 tiene distancia promedio: 206.003
+Parada 1106 tiene distancia promedio: 38.318
+Parada 1107 tiene distancia promedio: 38.1225
+Parada 1108 tiene distancia promedio: 37.9275
+Parada 1109 tiene distancia promedio: 212.337
+Parada 1110 tiene distancia promedio: 211.513
+Parada 1111 tiene distancia promedio: 207.944
+Parada 1112 tiene distancia promedio: 37.733
+Parada 1113 tiene distancia promedio: 210.894
+Parada 1114 tiene distancia promedio: 37.539
+Parada 1115 tiene distancia promedio: 206.974
+Parada 1116 tiene distancia promedio: 207.112
+Parada 1117 tiene distancia promedio: 37.3455
+Parada 1118 tiene distancia promedio: 37.1525
+Parada 1119 tiene distancia promedio: 36.96
+Parada 1120 tiene distancia promedio: 207.245
+Parada 1121 tiene distancia promedio: 207.722
+Parada 1122 tiene distancia promedio: 36.768
+Parada 1123 tiene distancia promedio: 204.814
+Parada 1124 tiene distancia promedio: 36.5765
+Parada 1125 tiene distancia promedio: 36.3855
+Parada 1126 tiene distancia promedio: 36.195
+Parada 1127 tiene distancia promedio: 36.005
+Parada 1128 tiene distancia promedio: 35.8155
+Parada 1129 tiene distancia promedio: 203.105
+Parada 1130 tiene distancia promedio: 35.6265
+Parada 1131 tiene distancia promedio: 207.518
+Parada 1132 tiene distancia promedio: 35.438
+Parada 1133 tiene distancia promedio: 206.61
+Parada 1134 tiene distancia promedio: 35.25
+Parada 1135 tiene distancia promedio: 207.417
+Parada 1136 tiene distancia promedio: 35.0625
+Parada 1137 tiene distancia promedio: 34.8755
+Parada 1138 tiene distancia promedio: 203.933
+Parada 1139 tiene distancia promedio: 34.689
+Parada 1140 tiene distancia promedio: 206.661
+Parada 1141 tiene distancia promedio: 206.057
+Parada 1142 tiene distancia promedio: 209.924
+Parada 1143 tiene distancia promedio: 209.043
+Parada 1144 tiene distancia promedio: 34.503
+Parada 1145 tiene distancia promedio: 208.548
+Parada 1146 tiene distancia promedio: 34.3175
+Parada 1147 tiene distancia promedio: 206.026
+Parada 1148 tiene distancia promedio: 34.1325
+Parada 1149 tiene distancia promedio: 207.921
+Parada 1151 tiene distancia promedio: 33.948
+Parada 1152 tiene distancia promedio: 33.764
+Parada 1153 tiene distancia promedio: 207.004
+Parada 1154 tiene distancia promedio: 33.5805
+Parada 1155 tiene distancia promedio: 33.3975
+Parada 1156 tiene distancia promedio: 33.215
+Parada 1157 tiene distancia promedio: 0.0015
+Parada 1159 tiene distancia promedio: 33.033
+Parada 1160 tiene distancia promedio: 32.8515
+Parada 1161 tiene distancia promedio: 32.6705
+Parada 1162 tiene distancia promedio: 32.49
+Parada 1163 tiene distancia promedio: 32.31
+Parada 1164 tiene distancia promedio: 205.359
+Parada 1165 tiene distancia promedio: 32.1305
+Parada 1166 tiene distancia promedio: 202.231
+Parada 1167 tiene distancia promedio: 209.804
+Parada 1168 tiene distancia promedio: 211.24
+Parada 1169 tiene distancia promedio: 31.9515
+Parada 1170 tiene distancia promedio: 206.011
+Parada 1171 tiene distancia promedio: 31.773
+Parada 1172 tiene distancia promedio: 207
+Parada 1173 tiene distancia promedio: 31.595
+Parada 1174 tiene distancia promedio: 211.275
+Parada 1175 tiene distancia promedio: 207.3
+Parada 1176 tiene distancia promedio: 31.4175
+Parada 1177 tiene distancia promedio: 212.141
+Parada 1178 tiene distancia promedio: 31.2405
+Parada 1179 tiene distancia promedio: 206.451
+Parada 1180 tiene distancia promedio: 208.18
+Parada 1181 tiene distancia promedio: 209.04
+Parada 1182 tiene distancia promedio: 207.46
+Parada 1183 tiene distancia promedio: 0.0005
+Parada 1184 tiene distancia promedio: 206.352
+Parada 1185 tiene distancia promedio: 31.064
+Parada 1186 tiene distancia promedio: 207.553
+Parada 1187 tiene distancia promedio: 207.356
+Parada 1188 tiene distancia promedio: 210.012
+Parada 1189 tiene distancia promedio: 211.569
+Parada 1190 tiene distancia promedio: 206.566
+Parada 1191 tiene distancia promedio: 207.97
+Parada 1192 tiene distancia promedio: 208.446
+Parada 1193 tiene distancia promedio: 30.888
+Parada 1194 tiene distancia promedio: 30.7125
+Parada 1195 tiene distancia promedio: 30.5375
+Parada 1196 tiene distancia promedio: 30.363
+Parada 1197 tiene distancia promedio: 30.189
+Parada 1198 tiene distancia promedio: 30.0155
+Parada 1199 tiene distancia promedio: 207.658
+Parada 1200 tiene distancia promedio: 205.774
+Parada 1201 tiene distancia promedio: 207.691
+Parada 1202 tiene distancia promedio: 209.911
+Parada 1203 tiene distancia promedio: 206.945
+Parada 1204 tiene distancia promedio: 209.577
+Parada 1205 tiene distancia promedio: 29.8425
+Parada 1206 tiene distancia promedio: 204.144
+Parada 1207 tiene distancia promedio: 29.67
+Parada 1208 tiene distancia promedio: 29.498
+Parada 1210 tiene distancia promedio: 205.743
+Parada 1211 tiene distancia promedio: 29.3265
+Parada 1212 tiene distancia promedio: 29.1555
+Parada 1213 tiene distancia promedio: 28.985
+Parada 1214 tiene distancia promedio: 206.85
+Parada 1215 tiene distancia promedio: 28.815
+Parada 1216 tiene distancia promedio: 28.6455
+Parada 1217 tiene distancia promedio: 28.4765
+Parada 1218 tiene distancia promedio: 210.175
+Parada 1219 tiene distancia promedio: 28.308
+Parada 1220 tiene distancia promedio: 28.14
+Parada 1221 tiene distancia promedio: 0.0005
+Parada 1222 tiene distancia promedio: 27.9725
+Parada 1223 tiene distancia promedio: 206.828
+Parada 1224 tiene distancia promedio: 208.103
+Parada 1225 tiene distancia promedio: 208.099
+Parada 1226 tiene distancia promedio: 27.8055
+Parada 1227 tiene distancia promedio: 208.209
+Parada 1228 tiene distancia promedio: 27.639
+Parada 1229 tiene distancia promedio: 207.533
+Parada 1230 tiene distancia promedio: 206.343
+Parada 1231 tiene distancia promedio: 208.144
+Parada 1232 tiene distancia promedio: 207.578
+Parada 1233 tiene distancia promedio: 27.473
+Parada 1236 tiene distancia promedio: 27.3075
+Parada 1237 tiene distancia promedio: 211.393
+Parada 1238 tiene distancia promedio: 27.1425
+Parada 1239 tiene distancia promedio: 209.608
+Parada 1240 tiene distancia promedio: 204.867
+Parada 1241 tiene distancia promedio: 208.774
+Parada 1242 tiene distancia promedio: 206.732
+Parada 1243 tiene distancia promedio: 26.978
+Parada 1244 tiene distancia promedio: 207.2
+Parada 1245 tiene distancia promedio: 26.814
+Parada 1246 tiene distancia promedio: 204.646
+Parada 1247 tiene distancia promedio: 209.427
+Parada 1248 tiene distancia promedio: 26.6505
+Parada 1249 tiene distancia promedio: 26.4875
+Parada 1250 tiene distancia promedio: 207.575
+Parada 1251 tiene distancia promedio: 26.325
+Parada 1252 tiene distancia promedio: 26.163
+Parada 1253 tiene distancia promedio: 205.619
+Parada 1254 tiene distancia promedio: 206.761
+Parada 1255 tiene distancia promedio: 26.0015
+Parada 1257 tiene distancia promedio: 25.8405
+Parada 1259 tiene distancia promedio: 206.286
+Parada 1260 tiene distancia promedio: 25.68
+Parada 1261 tiene distancia promedio: 206.005
+Parada 1262 tiene distancia promedio: 25.52
+Parada 1263 tiene distancia promedio: 207.054
+Parada 1264 tiene distancia promedio: 204.906
+Parada 1265 tiene distancia promedio: 206.049
+Parada 1267 tiene distancia promedio: 206.53
+Parada 1268 tiene distancia promedio: 25.3605
+Parada 1269 tiene distancia promedio: 25.2015
+Parada 1270 tiene distancia promedio: 206.21
+Parada 1271 tiene distancia promedio: 207.324
+Parada 1272 tiene distancia promedio: 25.043
+Parada 1273 tiene distancia promedio: 205.642
+Parada 1274 tiene distancia promedio: 24.885
+Parada 1275 tiene distancia promedio: 208.632
+Parada 1276 tiene distancia promedio: 208.021
+Parada 1277 tiene distancia promedio: 24.7275
+Parada 1278 tiene distancia promedio: 209.754
+Parada 1279 tiene distancia promedio: 206.814
+Parada 1280 tiene distancia promedio: 208.663
+Parada 1281 tiene distancia promedio: 209.602
+Parada 1282 tiene distancia promedio: 207.649
+Parada 1283 tiene distancia promedio: 209.483
+Parada 1284 tiene distancia promedio: 24.5705
+Parada 1285 tiene distancia promedio: 24.414
+Parada 1286 tiene distancia promedio: 24.258
+Parada 1287 tiene distancia promedio: 206.297
+Parada 1288 tiene distancia promedio: 208.994
+Parada 1289 tiene distancia promedio: 24.1025
+Parada 1291 tiene distancia promedio: 23.9475
+Parada 1292 tiene distancia promedio: 210.549
+Parada 1293 tiene distancia promedio: 205.52
+Parada 1294 tiene distancia promedio: 207.516
+Parada 1295 tiene distancia promedio: 23.793
+Parada 1296 tiene distancia promedio: 206.346
+Parada 1297 tiene distancia promedio: 209.982
+Parada 1298 tiene distancia promedio: 23.639
+Parada 1299 tiene distancia promedio: 206.619
+Parada 1300 tiene distancia promedio: 207.852
+Parada 1301 tiene distancia promedio: 0.0005
+Parada 1302 tiene distancia promedio: 207.189
+Parada 1303 tiene distancia promedio: 23.4855
+Parada 1304 tiene distancia promedio: 23.3325
+Parada 1305 tiene distancia promedio: 210.436
+Parada 1306 tiene distancia promedio: 206.423
+Parada 1307 tiene distancia promedio: 23.18
+Parada 1308 tiene distancia promedio: 23.028
+Parada 1309 tiene distancia promedio: 207.494
+Parada 1310 tiene distancia promedio: 209.31
+Parada 1311 tiene distancia promedio: 207.194
+Parada 1312 tiene distancia promedio: 22.8765
+Parada 1313 tiene distancia promedio: 22.7255
+Parada 1314 tiene distancia promedio: 22.575
+Parada 1315 tiene distancia promedio: 209.691
+Parada 1316 tiene distancia promedio: 209.162
+Parada 1317 tiene distancia promedio: 206.605
+Parada 1319 tiene distancia promedio: 22.425
+Parada 1320 tiene distancia promedio: 22.2755
+Parada 1321 tiene distancia promedio: 22.1265
+Parada 1322 tiene distancia promedio: 209.199
+Parada 1323 tiene distancia promedio: 208.499
+Parada 1324 tiene distancia promedio: 21.978
+Parada 1325 tiene distancia promedio: 21.83
+Parada 1326 tiene distancia promedio: 207.77
+Parada 1327 tiene distancia promedio: 206.019
+Parada 1328 tiene distancia promedio: 206.331
+Parada 1329 tiene distancia promedio: 211.566
+Parada 1330 tiene distancia promedio: 206.724
+Parada 1331 tiene distancia promedio: 205.108
+Parada 1332 tiene distancia promedio: 207.567
+Parada 1333 tiene distancia promedio: 21.6825
+Parada 1334 tiene distancia promedio: 207.293
+Parada 1335 tiene distancia promedio: 21.5355
+Parada 1336 tiene distancia promedio: 203.196
+Parada 1337 tiene distancia promedio: 21.389
+Parada 1338 tiene distancia promedio: 209.641
+Parada 1339 tiene distancia promedio: 21.243
+Parada 1340 tiene distancia promedio: 208.056
+Parada 1342 tiene distancia promedio: 21.0975
+Parada 1343 tiene distancia promedio: 20.9525
+Parada 1344 tiene distancia promedio: 207.95
+Parada 1345 tiene distancia promedio: 210.291
+Parada 1346 tiene distancia promedio: 20.808
+Parada 1347 tiene distancia promedio: 208.837
+Parada 1348 tiene distancia promedio: 208.349
+Parada 1349 tiene distancia promedio: 20.664
+Parada 1350 tiene distancia promedio: 207.046
+Parada 1351 tiene distancia promedio: 209.006
+Parada 1352 tiene distancia promedio: 209.353
+Parada 1353 tiene distancia promedio: 206.739
+Parada 1354 tiene distancia promedio: 209.157
+Parada 1355 tiene distancia promedio: 208.422
+Parada 1356 tiene distancia promedio: 20.5205
+Parada 1357 tiene distancia promedio: 20.3775
+Parada 1358 tiene distancia promedio: 20.235
+Parada 1359 tiene distancia promedio: 20.093
+Parada 1360 tiene distancia promedio: 19.9515
+Parada 1361 tiene distancia promedio: 203.177
+Parada 1362 tiene distancia promedio: 206.918
+Parada 1364 tiene distancia promedio: 19.8105
+Parada 1365 tiene distancia promedio: 0.003
+Parada 1366 tiene distancia promedio: 206.939
+Parada 1367 tiene distancia promedio: 208.518
+Parada 1368 tiene distancia promedio: 205.466
+Parada 1369 tiene distancia promedio: 209.575
+Parada 1370 tiene distancia promedio: 206.007
+Parada 1371 tiene distancia promedio: 207.475
+Parada 1372 tiene distancia promedio: 19.67
+Parada 1373 tiene distancia promedio: 207.796
+Parada 1374 tiene distancia promedio: 19.53
+Parada 1375 tiene distancia promedio: 19.3905
+Parada 1376 tiene distancia promedio: 19.2515
+Parada 1377 tiene distancia promedio: 207.029
+Parada 1378 tiene distancia promedio: 19.113
+Parada 1379 tiene distancia promedio: 205.712
+Parada 1380 tiene distancia promedio: 207.264
+Parada 1381 tiene distancia promedio: 18.975
+Parada 1382 tiene distancia promedio: 208.976
+Parada 1383 tiene distancia promedio: 18.8375
+Parada 1384 tiene distancia promedio: 208.239
+Parada 1385 tiene distancia promedio: 208.19
+Parada 1386 tiene distancia promedio: 18.7005
+Parada 1387 tiene distancia promedio: 18.564
+Parada 1388 tiene distancia promedio: 208.707
+Parada 1389 tiene distancia promedio: 18.428
+Parada 1390 tiene distancia promedio: 18.2925
+Parada 1391 tiene distancia promedio: 18.1575
+Parada 1392 tiene distancia promedio: 0.003
+Parada 1393 tiene distancia promedio: 208.864
+Parada 1394 tiene distancia promedio: 202.246
+Parada 1395 tiene distancia promedio: 18.023
+Parada 1396 tiene distancia promedio: 210.93
+Parada 1397 tiene distancia promedio: 17.889
+Parada 1398 tiene distancia promedio: 17.7555
+Parada 1399 tiene distancia promedio: 17.6225
+Parada 1400 tiene distancia promedio: 17.49
+Parada 1402 tiene distancia promedio: 17.358
+Parada 1403 tiene distancia promedio: 17.2265
+Parada 1404 tiene distancia promedio: 206.661
+Parada 1405 tiene distancia promedio: 17.0955
+Parada 1406 tiene distancia promedio: 16.965
+Parada 1407 tiene distancia promedio: 209.673
+Parada 1408 tiene distancia promedio: 16.835
+Parada 1409 tiene distancia promedio: 206.935
+Parada 1410 tiene distancia promedio: 16.7055
+Parada 1411 tiene distancia promedio: 16.5765
+Parada 1412 tiene distancia promedio: 206.828
+Parada 1413 tiene distancia promedio: 208.942
+Parada 1414 tiene distancia promedio: 211.38
+Parada 1415 tiene distancia promedio: 16.448
+Parada 1416 tiene distancia promedio: 16.32
+Parada 1417 tiene distancia promedio: 207.76
+Parada 1418 tiene distancia promedio: 206.643
+Parada 1419 tiene distancia promedio: 16.1925
+Parada 1420 tiene distancia promedio: 206.519
+Parada 1421 tiene distancia promedio: 209.996
+Parada 1422 tiene distancia promedio: 16.0655
+Parada 1423 tiene distancia promedio: 206.703
+Parada 1424 tiene distancia promedio: 15.939
+Parada 1425 tiene distancia promedio: 206.696
+Parada 1427 tiene distancia promedio: 0.0005
+Parada 1428 tiene distancia promedio: 15.813
+Parada 1429 tiene distancia promedio: 15.6875
+Parada 1430 tiene distancia promedio: 205.53
+Parada 1431 tiene distancia promedio: 207.919
+Parada 1432 tiene distancia promedio: 15.5625
+Parada 1433 tiene distancia promedio: 15.438
+Parada 1434 tiene distancia promedio: 208.367
+Parada 1435 tiene distancia promedio: 15.314
+Parada 1436 tiene distancia promedio: 206.572
+Parada 1437 tiene distancia promedio: 15.1905
+Parada 1438 tiene distancia promedio: 206.738
+Parada 1439 tiene distancia promedio: 209.338
+Parada 1440 tiene distancia promedio: 15.0675
+Parada 1441 tiene distancia promedio: 206.915
+Parada 1442 tiene distancia promedio: 14.945
+Parada 1443 tiene distancia promedio: 14.823
+Parada 1444 tiene distancia promedio: 14.7015
+Parada 1445 tiene distancia promedio: 0.0015
+Parada 1446 tiene distancia promedio: 206.6
+Parada 1447 tiene distancia promedio: 207.299
+Parada 1448 tiene distancia promedio: 14.5805
+Parada 1449 tiene distancia promedio: 205.827
+Parada 1450 tiene distancia promedio: 208.136
+Parada 1451 tiene distancia promedio: 14.46
+Parada 1452 tiene distancia promedio: 206.975
+Parada 1453 tiene distancia promedio: 207.65
+Parada 1454 tiene distancia promedio: 14.34
+Parada 1455 tiene distancia promedio: 209.048
+Parada 1456 tiene distancia promedio: 210.619
+Parada 1457 tiene distancia promedio: 206.589
+Parada 1458 tiene distancia promedio: 204.673
+Parada 1459 tiene distancia promedio: 206.267
+Parada 1460 tiene distancia promedio: 211.883
+Parada 1461 tiene distancia promedio: 208.88
+Parada 1462 tiene distancia promedio: 14.2205
+Parada 1463 tiene distancia promedio: 205.97
+Parada 1464 tiene distancia promedio: 206.647
+Parada 1465 tiene distancia promedio: 14.1015
+Parada 1466 tiene distancia promedio: 208.09
+Parada 1467 tiene distancia promedio: 207.029
+Parada 1468 tiene distancia promedio: 13.983
+Parada 1469 tiene distancia promedio: 208.091
+Parada 1470 tiene distancia promedio: 208.63
+Parada 1471 tiene distancia promedio: 207.591
+Parada 1472 tiene distancia promedio: 208.025
+Parada 1473 tiene distancia promedio: 205.844
+Parada 1474 tiene distancia promedio: 205.09
+Parada 1475 tiene distancia promedio: 13.865
+Parada 1476 tiene distancia promedio: 13.7475
+Parada 1477 tiene distancia promedio: 13.6305
+Parada 1478 tiene distancia promedio: 13.514
+Parada 1479 tiene distancia promedio: 206.468
+Parada 1480 tiene distancia promedio: 13.398
+Parada 1481 tiene distancia promedio: 13.2825
+Parada 1482 tiene distancia promedio: 13.1675
+Parada 1483 tiene distancia promedio: 213.57
+Parada 1484 tiene distancia promedio: 13.053
+Parada 1486 tiene distancia promedio: 12.939
+Parada 1487 tiene distancia promedio: 203.815
+Parada 1488 tiene distancia promedio: 206.584
+Parada 1489 tiene distancia promedio: 206.028
+Parada 1490 tiene distancia promedio: 207.478
+Parada 1491 tiene distancia promedio: 204.882
+Parada 1492 tiene distancia promedio: 205.581
+Parada 1493 tiene distancia promedio: 204.827
+Parada 1494 tiene distancia promedio: 12.8255
+Parada 1495 tiene distancia promedio: 206.959
+Parada 1497 tiene distancia promedio: 12.7125
+Parada 1498 tiene distancia promedio: 12.6
+Parada 1499 tiene distancia promedio: 206.027
+Parada 1500 tiene distancia promedio: 12.488
+Parada 1501 tiene distancia promedio: 206.898
+Parada 1502 tiene distancia promedio: 208.634
+Parada 1503 tiene distancia promedio: 12.3765
+Parada 1504 tiene distancia promedio: 208.127
+Parada 1505 tiene distancia promedio: 211.632
+Parada 1506 tiene distancia promedio: 12.2655
+Parada 1507 tiene distancia promedio: 12.155
+Parada 1508 tiene distancia promedio: 12.045
+Parada 1509 tiene distancia promedio: 208.24
+Parada 1510 tiene distancia promedio: 11.9355
+Parada 1511 tiene distancia promedio: 206.055
+Parada 1513 tiene distancia promedio: 11.8265
+Parada 1514 tiene distancia promedio: 11.718
+Parada 1515 tiene distancia promedio: 11.61
+Parada 1516 tiene distancia promedio: 11.5025
+Parada 1517 tiene distancia promedio: 209.278
+Parada 1518 tiene distancia promedio: 11.3955
+Parada 1519 tiene distancia promedio: 208.806
+Parada 1520 tiene distancia promedio: 11.289
+Parada 1521 tiene distancia promedio: 11.183
+Parada 1522 tiene distancia promedio: 202.792
+Parada 1523 tiene distancia promedio: 11.0775
+Parada 1524 tiene distancia promedio: 0.0005
+Parada 1525 tiene distancia promedio: 0.0075
+Parada 1526 tiene distancia promedio: 205.094
+Parada 1528 tiene distancia promedio: 206.985
+Parada 1529 tiene distancia promedio: 209.395
+Parada 1530 tiene distancia promedio: 208.878
+Parada 1531 tiene distancia promedio: 10.9725
+Parada 1532 tiene distancia promedio: 10.868
+Parada 1533 tiene distancia promedio: 206.94
+Parada 1534 tiene distancia promedio: 10.764
+Parada 1535 tiene distancia promedio: 206.004
+Parada 1536 tiene distancia promedio: 10.6605
+Parada 1537 tiene distancia promedio: 209.322
+Parada 1538 tiene distancia promedio: 210.762
+Parada 1539 tiene distancia promedio: 10.5575
+Parada 1540 tiene distancia promedio: 10.455
+Parada 1541 tiene distancia promedio: 207
+Parada 1542 tiene distancia promedio: 10.353
+Parada 1543 tiene distancia promedio: 205.015
+Parada 1544 tiene distancia promedio: 208.155
+Parada 1545 tiene distancia promedio: 10.2515
+Parada 1546 tiene distancia promedio: 210.753
+Parada 1547 tiene distancia promedio: 204.684
+Parada 1548 tiene distancia promedio: 208.639
+Parada 1549 tiene distancia promedio: 10.1505
+Parada 1550 tiene distancia promedio: 10.05
+Parada 1551 tiene distancia promedio: 9.95
+Parada 1552 tiene distancia promedio: 9.8505
+Parada 1553 tiene distancia promedio: 204.436
+Parada 1554 tiene distancia promedio: 9.7515
+Parada 1555 tiene distancia promedio: 9.653
+Parada 1556 tiene distancia promedio: 208.214
+Parada 1557 tiene distancia promedio: 206.552
+Parada 1558 tiene distancia promedio: 9.555
+Parada 1559 tiene distancia promedio: 0.0015
+Parada 1560 tiene distancia promedio: 208.899
+Parada 1561 tiene distancia promedio: 205.5
+Parada 1562 tiene distancia promedio: 206.24
+Parada 1563 tiene distancia promedio: 9.4575
+Parada 1564 tiene distancia promedio: 9.3605
+Parada 1565 tiene distancia promedio: 209.024
+Parada 1566 tiene distancia promedio: 9.264
+Parada 1567 tiene distancia promedio: 205.106
+Parada 1569 tiene distancia promedio: 0.0005
+Parada 1570 tiene distancia promedio: 9.168
+Parada 1571 tiene distancia promedio: 206.883
+Parada 1573 tiene distancia promedio: 209.735
+Parada 1574 tiene distancia promedio: 9.0725
+Parada 1575 tiene distancia promedio: 8.9775
+Parada 1576 tiene distancia promedio: 210.425
+Parada 1577 tiene distancia promedio: 8.883
+Parada 1578 tiene distancia promedio: 207.406
+Parada 1579 tiene distancia promedio: 8.789
+Parada 1580 tiene distancia promedio: 8.6955
+Parada 1581 tiene distancia promedio: 208.601
+Parada 1582 tiene distancia promedio: 8.6025
+Parada 1583 tiene distancia promedio: 8.51
+Parada 1584 tiene distancia promedio: 210.152
+Parada 1585 tiene distancia promedio: 210.287
+Parada 1586 tiene distancia promedio: 8.418
+Parada 1587 tiene distancia promedio: 209.284
+Parada 1588 tiene distancia promedio: 205.064
+Parada 1590 tiene distancia promedio: 206.248
+Parada 1591 tiene distancia promedio: 209.804
+Parada 1592 tiene distancia promedio: 8.3265
+Parada 1593 tiene distancia promedio: 208.846
+Parada 1594 tiene distancia promedio: 208.945
+Parada 1595 tiene distancia promedio: 8.2355
+Parada 1596 tiene distancia promedio: 8.145
+Parada 1597 tiene distancia promedio: 204.828
+Parada 1598 tiene distancia promedio: 209.308
+Parada 1599 tiene distancia promedio: 8.055
+Parada 1600 tiene distancia promedio: 7.9655
+Parada 1601 tiene distancia promedio: 7.8765
+Parada 1602 tiene distancia promedio: 7.788
+Parada 1603 tiene distancia promedio: 7.7
+Parada 1604 tiene distancia promedio: 0.0015
+Parada 1605 tiene distancia promedio: 208.795
+Parada 1606 tiene distancia promedio: 7.6125
+Parada 1607 tiene distancia promedio: 7.5255
+Parada 1608 tiene distancia promedio: 7.439
+Parada 1609 tiene distancia promedio: 203.881
+Parada 1610 tiene distancia promedio: 7.353
+Parada 1611 tiene distancia promedio: 7.2675
+Parada 1612 tiene distancia promedio: 7.1825
+Parada 1613 tiene distancia promedio: 7.098
+Parada 1614 tiene distancia promedio: 0.0005
+Parada 1615 tiene distancia promedio: 7.014
+Parada 1616 tiene distancia promedio: 6.9305
+Parada 1617 tiene distancia promedio: 6.8475
+Parada 1618 tiene distancia promedio: 207.844
+Parada 1619 tiene distancia promedio: 203.921
+Parada 1620 tiene distancia promedio: 6.765
+Parada 1621 tiene distancia promedio: 214.518
+Parada 1622 tiene distancia promedio: 203.739
+Parada 1623 tiene distancia promedio: 211.872
+Parada 1624 tiene distancia promedio: 6.683
+Parada 1625 tiene distancia promedio: 208.529
+Parada 1626 tiene distancia promedio: 207.477
+Parada 1627 tiene distancia promedio: 6.6015
+Parada 1628 tiene distancia promedio: 208.664
+Parada 1629 tiene distancia promedio: 209.653
+Parada 1630 tiene distancia promedio: 208.171
+Parada 1631 tiene distancia promedio: 206.305
+Parada 1632 tiene distancia promedio: 206.655
+Parada 1633 tiene distancia promedio: 207.774
+Parada 1634 tiene distancia promedio: 208.416
+Parada 1635 tiene distancia promedio: 6.5205
+Parada 1636 tiene distancia promedio: 6.44
+Parada 1637 tiene distancia promedio: 6.36
+Parada 1638 tiene distancia promedio: 209.495
+Parada 1639 tiene distancia promedio: 205.631
+Parada 1640 tiene distancia promedio: 6.2805
+Parada 1641 tiene distancia promedio: 6.2015
+Parada 1642 tiene distancia promedio: 6.123
+Parada 1643 tiene distancia promedio: 6.045
+Parada 1644 tiene distancia promedio: 5.9675
+Parada 1645 tiene distancia promedio: 5.8905
+Parada 1646 tiene distancia promedio: 5.814
+Parada 1647 tiene distancia promedio: 205.992
+Parada 1648 tiene distancia promedio: 207.466
+Parada 1649 tiene distancia promedio: 205.74
+Parada 1650 tiene distancia promedio: 210.341
+Parada 1651 tiene distancia promedio: 5.738
+Parada 1652 tiene distancia promedio: 205.102
+Parada 1653 tiene distancia promedio: 205.3
+Parada 1654 tiene distancia promedio: 5.6625
+Parada 1657 tiene distancia promedio: 5.5875
+Parada 1658 tiene distancia promedio: 5.513
+Parada 1659 tiene distancia promedio: 5.439
+Parada 1660 tiene distancia promedio: 5.3655
+Parada 1661 tiene distancia promedio: 205.99
+Parada 1662 tiene distancia promedio: 5.2925
+Parada 1663 tiene distancia promedio: 5.22
+Parada 1664 tiene distancia promedio: 206.496
+Parada 1666 tiene distancia promedio: 5.148
+Parada 1667 tiene distancia promedio: 203.987
+Parada 1668 tiene distancia promedio: 5.0765
+Parada 1669 tiene distancia promedio: 0.003
+Parada 1670 tiene distancia promedio: 5.0055
+Parada 1671 tiene distancia promedio: 205.895
+Parada 1672 tiene distancia promedio: 4.935
+Parada 1673 tiene distancia promedio: 204.06
+Parada 1674 tiene distancia promedio: 4.865
+Parada 1675 tiene distancia promedio: 207.291
+Parada 1676 tiene distancia promedio: 4.7955
+Parada 1677 tiene distancia promedio: 4.7265
+Parada 1678 tiene distancia promedio: 209.817
+Parada 1679 tiene distancia promedio: 4.658
+Parada 1680 tiene distancia promedio: 207.814
+Parada 1681 tiene distancia promedio: 209.802
+Parada 1682 tiene distancia promedio: 206.256
+Parada 1683 tiene distancia promedio: 4.59
+Parada 1684 tiene distancia promedio: 205.963
+Parada 1685 tiene distancia promedio: 205.846
+Parada 1686 tiene distancia promedio: 4.5225
+Parada 1687 tiene distancia promedio: 205.093
+Parada 1688 tiene distancia promedio: 204.25
+Parada 1689 tiene distancia promedio: 209.726
+Parada 1690 tiene distancia promedio: 205.953
+Parada 1691 tiene distancia promedio: 207.111
+Parada 1692 tiene distancia promedio: 4.4555
+Parada 1693 tiene distancia promedio: 207.307
+Parada 1694 tiene distancia promedio: 4.389
+Parada 1695 tiene distancia promedio: 4.323
+Parada 1696 tiene distancia promedio: 207.997
+Parada 1697 tiene distancia promedio: 4.2575
+Parada 1698 tiene distancia promedio: 208.751
+Parada 1699 tiene distancia promedio: 4.1925
+Parada 1700 tiene distancia promedio: 206.248
+Parada 1701 tiene distancia promedio: 207.601
+Parada 1702 tiene distancia promedio: 4.128
+Parada 1703 tiene distancia promedio: 209.393
+Parada 1704 tiene distancia promedio: 4.064
+Parada 1705 tiene distancia promedio: 209.464
+Parada 1706 tiene distancia promedio: 207.155
+Parada 1707 tiene distancia promedio: 208.966
+Parada 1708 tiene distancia promedio: 204.976
+Parada 1709 tiene distancia promedio: 4.0005
+Parada 1710 tiene distancia promedio: 207.262
+Parada 1711 tiene distancia promedio: 207.476
+Parada 1712 tiene distancia promedio: 207.443
+Parada 1713 tiene distancia promedio: 3.9375
+Parada 1714 tiene distancia promedio: 208.254
+Parada 1715 tiene distancia promedio: 205.582
+Parada 1716 tiene distancia promedio: 206.507
+Parada 1717 tiene distancia promedio: 206.012
+Parada 1718 tiene distancia promedio: 3.875
+Parada 1719 tiene distancia promedio: 3.813
+Parada 1720 tiene distancia promedio: 207.215
+Parada 1721 tiene distancia promedio: 208.976
+Parada 1722 tiene distancia promedio: 210.442
+Parada 1723 tiene distancia promedio: 3.7515
+Parada 1724 tiene distancia promedio: 3.6905
+Parada 1725 tiene distancia promedio: 207.625
+Parada 1726 tiene distancia promedio: 210.133
+Parada 1727 tiene distancia promedio: 3.63
+Parada 1728 tiene distancia promedio: 207.488
+Parada 1729 tiene distancia promedio: 209.972
+Parada 1730 tiene distancia promedio: 210.749
+Parada 1731 tiene distancia promedio: 210.108
+Parada 1732 tiene distancia promedio: 208.26
+Parada 1733 tiene distancia promedio: 3.57
+Parada 1734 tiene distancia promedio: 3.5105
+Parada 1735 tiene distancia promedio: 3.4515
+Parada 1736 tiene distancia promedio: 3.393
+Parada 1737 tiene distancia promedio: 3.335
+Parada 1738 tiene distancia promedio: 3.2775
+Parada 1739 tiene distancia promedio: 206.742
+Parada 1740 tiene distancia promedio: 211.195
+Parada 1741 tiene distancia promedio: 3.2205
+Parada 1742 tiene distancia promedio: 207.309
+Parada 1743 tiene distancia promedio: 3.164
+Parada 1744 tiene distancia promedio: 204.5
+Parada 1745 tiene distancia promedio: 3.108
+Parada 1747 tiene distancia promedio: 204.661
+Parada 1748 tiene distancia promedio: 201.881
+Parada 1749 tiene distancia promedio: 3.0525
+Parada 1750 tiene distancia promedio: 207.947
+Parada 1751 tiene distancia promedio: 207.263
+Parada 1752 tiene distancia promedio: 206.469
+Parada 1753 tiene distancia promedio: 208.599
+Parada 1754 tiene distancia promedio: 205.602
+Parada 1755 tiene distancia promedio: 205.084
+Parada 1756 tiene distancia promedio: 208.761
+Parada 1757 tiene distancia promedio: 203.196
+Parada 1758 tiene distancia promedio: 2.9975
+Parada 1759 tiene distancia promedio: 207.269
+Parada 1760 tiene distancia promedio: 2.943
+Parada 1761 tiene distancia promedio: 210.474
+Parada 1762 tiene distancia promedio: 207.75
+Parada 1763 tiene distancia promedio: 2.889
+Parada 1764 tiene distancia promedio: 209.546
+Parada 1765 tiene distancia promedio: 2.8355
+Parada 1766 tiene distancia promedio: 205.682
+Parada 1767 tiene distancia promedio: 208.338
+Parada 1768 tiene distancia promedio: 2.7825
+Parada 1769 tiene distancia promedio: 207.236
+Parada 1770 tiene distancia promedio: 206.977
+Parada 1771 tiene distancia promedio: 2.73
+Parada 1772 tiene distancia promedio: 207.708
+Parada 1773 tiene distancia promedio: 2.678
+Parada 1774 tiene distancia promedio: 208
+Parada 1775 tiene distancia promedio: 208.481
+Parada 1776 tiene distancia promedio: 2.6265
+Parada 1777 tiene distancia promedio: 2.5755
+Parada 1778 tiene distancia promedio: 2.525
+Parada 1779 tiene distancia promedio: 2.475
+Parada 1780 tiene distancia promedio: 207.111
+Parada 1781 tiene distancia promedio: 2.4255
+Parada 1782 tiene distancia promedio: 2.3765
+Parada 1783 tiene distancia promedio: 207.411
+Parada 1784 tiene distancia promedio: 214.231
+Parada 1785 tiene distancia promedio: 2.328
+Parada 1786 tiene distancia promedio: 207.946
+Parada 1787 tiene distancia promedio: 2.28
+Parada 1788 tiene distancia promedio: 2.2325
+Parada 1789 tiene distancia promedio: 2.1855
+Parada 1790 tiene distancia promedio: 202.903
+Parada 1791 tiene distancia promedio: 206.982
+Parada 1792 tiene distancia promedio: 2.139
+Parada 1793 tiene distancia promedio: 210.634
+Parada 1794 tiene distancia promedio: 2.093
+Parada 1795 tiene distancia promedio: 209.47
+Parada 1796 tiene distancia promedio: 201.196
+Parada 1797 tiene distancia promedio: 2.0475
+Parada 1798 tiene distancia promedio: 2.0025
+Parada 1799 tiene distancia promedio: 1.958
+Parada 1800 tiene distancia promedio: 1.914
+Parada 1801 tiene distancia promedio: 205.243
+Parada 1803 tiene distancia promedio: 205.044
+Parada 1804 tiene distancia promedio: 1.8705
+Parada 1805 tiene distancia promedio: 1.8275
+Parada 1806 tiene distancia promedio: 1.785
+Parada 1807 tiene distancia promedio: 208.216
+Parada 1808 tiene distancia promedio: 1.743
+Parada 1809 tiene distancia promedio: 1.7015
+Parada 1810 tiene distancia promedio: 1.6605
+Parada 1811 tiene distancia promedio: 1.62
+Parada 1813 tiene distancia promedio: 207.179
+Parada 1814 tiene distancia promedio: 1.58
+Parada 1815 tiene distancia promedio: 205.821
+Parada 1816 tiene distancia promedio: 205.712
+Parada 1817 tiene distancia promedio: 206.877
+Parada 1818 tiene distancia promedio: 205.684
+Parada 1819 tiene distancia promedio: 1.5405
+Parada 1820 tiene distancia promedio: 208.015
+Parada 1821 tiene distancia promedio: 207.684
+Parada 1822 tiene distancia promedio: 1.5015
+Parada 1823 tiene distancia promedio: 1.463
+Parada 1824 tiene distancia promedio: 1.425
+Parada 1825 tiene distancia promedio: 208.965
+Parada 1826 tiene distancia promedio: 1.3875
+Parada 1827 tiene distancia promedio: 1.3505
+Parada 1828 tiene distancia promedio: 213.22
+Parada 1829 tiene distancia promedio: 207.502
+Parada 1830 tiene distancia promedio: 203.059
+Parada 1831 tiene distancia promedio: 1.314
+Parada 1832 tiene distancia promedio: 1.278
+Parada 1833 tiene distancia promedio: 206.415
+Parada 1834 tiene distancia promedio: 207.831
+Parada 1835 tiene distancia promedio: 0.0005
+Parada 1836 tiene distancia promedio: 1.2425
+Parada 1837 tiene distancia promedio: 1.2075
+Parada 1838 tiene distancia promedio: 213.085
+Parada 1839 tiene distancia promedio: 209.024
+Parada 1840 tiene distancia promedio: 1.173
+Parada 1841 tiene distancia promedio: 1.139
+Parada 1842 tiene distancia promedio: 1.1055
+Parada 1843 tiene distancia promedio: 205.993
+Parada 1844 tiene distancia promedio: 1.0725
+Parada 1845 tiene distancia promedio: 208.132
+Parada 1846 tiene distancia promedio: 206.946
+Parada 1847 tiene distancia promedio: 208.248
+Parada 1848 tiene distancia promedio: 1.04
+Parada 1849 tiene distancia promedio: 208.195
+Parada 1850 tiene distancia promedio: 1.008
+Parada 1851 tiene distancia promedio: 0.9765
+Parada 1852 tiene distancia promedio: 205.934
+Parada 1853 tiene distancia promedio: 0.0005
+Parada 1854 tiene distancia promedio: 209.206
+Parada 1855 tiene distancia promedio: 208.395
+Parada 1856 tiene distancia promedio: 0.9455
+Parada 1857 tiene distancia promedio: 206.362
+Parada 1858 tiene distancia promedio: 0.915
+Parada 1860 tiene distancia promedio: 207.922
+Parada 1861 tiene distancia promedio: 0.885
+Parada 1862 tiene distancia promedio: 0.0015
+Parada 1863 tiene distancia promedio: 206.982
+Parada 1864 tiene distancia promedio: 206.202
+Parada 1865 tiene distancia promedio: 0.8555
+Parada 1866 tiene distancia promedio: 0.8265
+Parada 1867 tiene distancia promedio: 0.798
+Parada 1868 tiene distancia promedio: 0.77
+Parada 1869 tiene distancia promedio: 0.7425
+Parada 1871 tiene distancia promedio: 0.7155
+Parada 1872 tiene distancia promedio: 0.689
+Parada 1873 tiene distancia promedio: 0.663
+Parada 1874 tiene distancia promedio: 206.933
+Parada 1875 tiene distancia promedio: 0.6375
+Parada 1876 tiene distancia promedio: 0.6125
+Parada 1877 tiene distancia promedio: 204.691
+Parada 1878 tiene distancia promedio: 203.819
+Parada 1880 tiene distancia promedio: 0.588
+Parada 1882 tiene distancia promedio: 0.564
+Parada 1883 tiene distancia promedio: 209.671
+Parada 1884 tiene distancia promedio: 0.5405
+Parada 1885 tiene distancia promedio: 204.631
+Parada 1886 tiene distancia promedio: 0.5175
+Parada 1887 tiene distancia promedio: 209.405
+Parada 1888 tiene distancia promedio: 205.584
+Parada 1889 tiene distancia promedio: 205.591
+Parada 1890 tiene distancia promedio: 206.445
+Parada 1891 tiene distancia promedio: 208.725
+Parada 1892 tiene distancia promedio: 210.62
+Parada 1893 tiene distancia promedio: 209.809
+Parada 1894 tiene distancia promedio: 0.495
+Parada 1895 tiene distancia promedio: 0.473
+Parada 1896 tiene distancia promedio: 209.448
+Parada 1897 tiene distancia promedio: 207.114
+Parada 1898 tiene distancia promedio: 0.4515
+Parada 1899 tiene distancia promedio: 0.4305
+Parada 1900 tiene distancia promedio: 0.41
+Parada 1901 tiene distancia promedio: 0.39
+Parada 1902 tiene distancia promedio: 0.3705
+Parada 1903 tiene distancia promedio: 208.34
+Parada 1904 tiene distancia promedio: 0.3515
+Parada 1905 tiene distancia promedio: 205.446
+Parada 1906 tiene distancia promedio: 208.583
+Parada 1907 tiene distancia promedio: 211.389
+Parada 1908 tiene distancia promedio: 204.987
+Parada 1909 tiene distancia promedio: 0.333
+Parada 1910 tiene distancia promedio: 206.254
+Parada 1911 tiene distancia promedio: 0.315
+Parada 1912 tiene distancia promedio: 0.2975
+Parada 1913 tiene distancia promedio: 0.2805
+Parada 1914 tiene distancia promedio: 205.424
+Parada 1916 tiene distancia promedio: 0.264
+Parada 1917 tiene distancia promedio: 0.248
+Parada 1918 tiene distancia promedio: 206.271
+Parada 1919 tiene distancia promedio: 0.2325
+Parada 1920 tiene distancia promedio: 0.2175
+Parada 1921 tiene distancia promedio: 207.595
+Parada 1922 tiene distancia promedio: 0.203
+Parada 1923 tiene distancia promedio: 203.849
+Parada 1924 tiene distancia promedio: 204.031
+Parada 1925 tiene distancia promedio: 0.189
+Parada 1926 tiene distancia promedio: 205.452
+Parada 1927 tiene distancia promedio: 0.1755
+Parada 1928 tiene distancia promedio: 0.1625
+Parada 1929 tiene distancia promedio: 206.07
+Parada 1930 tiene distancia promedio: 0.15
+Parada 1931 tiene distancia promedio: 204.518
+Parada 1932 tiene distancia promedio: 204.685
+Parada 1934 tiene distancia promedio: 208.521
+Parada 1935 tiene distancia promedio: 210.978
+Parada 1936 tiene distancia promedio: 209.798
+Parada 1937 tiene distancia promedio: 205.781
+Parada 1938 tiene distancia promedio: 0.138
+Parada 1939 tiene distancia promedio: 207.863
+Parada 1940 tiene distancia promedio: 205.664
+Parada 1941 tiene distancia promedio: 211.784
+Parada 1942 tiene distancia promedio: 0.1265
+Parada 1943 tiene distancia promedio: 0.1155
+Parada 1944 tiene distancia promedio: 0.105
+Parada 1945 tiene distancia promedio: 0.095
+Parada 1946 tiene distancia promedio: 207.454
+Parada 1947 tiene distancia promedio: 0.0005
+Parada 1948 tiene distancia promedio: 207.573
+Parada 1949 tiene distancia promedio: 201.358
+Parada 1950 tiene distancia promedio: 206.356
+Parada 1951 tiene distancia promedio: 0.0855
+Parada 1953 tiene distancia promedio: 206.31
+Parada 1954 tiene distancia promedio: 209.202
+Parada 1955 tiene distancia promedio: 0.0765
+Parada 1956 tiene distancia promedio: 206.07
+Parada 1957 tiene distancia promedio: 213.756
+Parada 1958 tiene distancia promedio: 210.439
+Parada 1959 tiene distancia promedio: 0.068
+Parada 1960 tiene distancia promedio: 0.06
+Parada 1961 tiene distancia promedio: 0.0525
+Parada 1962 tiene distancia promedio: 0.0455
+Parada 1963 tiene distancia promedio: 207.496
+Parada 1964 tiene distancia promedio: 209.892
+Parada 1965 tiene distancia promedio: 207.899
+Parada 1966 tiene distancia promedio: 202.306
+Parada 1967 tiene distancia promedio: 206.591
+Parada 1968 tiene distancia promedio: 207.704
+Parada 1969 tiene distancia promedio: 0.039
+Parada 1971 tiene distancia promedio: 0.033
+Parada 1972 tiene distancia promedio: 209.92
+Parada 1973 tiene distancia promedio: 0.0275
+Parada 1974 tiene distancia promedio: 0.0225
+Parada 1975 tiene distancia promedio: 207.233
+Parada 1976 tiene distancia promedio: 212.142
+Parada 1977 tiene distancia promedio: 209.52
+Parada 1978 tiene distancia promedio: 208.133
+Parada 1979 tiene distancia promedio: 207.109
+Parada 1980 tiene distancia promedio: 0.018
+Parada 1981 tiene distancia promedio: 0.014
+Parada 1982 tiene distancia promedio: 208.852
+Parada 1983 tiene distancia promedio: 211.333
+Parada 1984 tiene distancia promedio: 0.005
+Parada 1985 tiene distancia promedio: 209.699
+Parada 1986 tiene distancia promedio: 210.277
+Parada 1987 tiene distancia promedio: 209.446
+Parada 1988 tiene distancia promedio: 0.0105
+Parada 1989 tiene distancia promedio: 206.976
+Parada 1990 tiene distancia promedio: 0.0075
+Parada 1991 tiene distancia promedio: 0.005
+Parada 1992 tiene distancia promedio: 0.003
+Parada 1993 tiene distancia promedio: 0.0015
+Parada 1994 tiene distancia promedio: 0.0005
+Parada 1995 tiene distancia promedio: 207.72
+Parada 1996 tiene distancia promedio: 207.412
+Parada 1998 tiene distancia promedio: 207.067
+Parada 2000 tiene distancia promedio: 205.572
+El fugitivo está en: 11

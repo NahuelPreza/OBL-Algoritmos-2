@@ -1,0 +1,11 @@
+10
+A 71794543 Pasta Pasta Burrito Ensalada
+A 17325954 Sushi Sopa Ensalada Pasta
+E 0
+A 69770780 Sopa Sopa Pasta Pasta Pollo Sopa Hamburguesa Sopa Pollo
+Q 71794543
+A 83151362 Pizza Hamburguesa Burrito
+A 5034092 Pasta Tacos Pizza Burrito Sopa Ensalada Ensalada Pollo Ensalada Sopa
+A 64140421 Pollo Tacos Sushi Sopa Hamburguesa Tacos
+Q 83151362
+A 17748365 Pasta Sopa Pollo Tacos Hamburguesa Tacos

@@ -1,0 +1,101 @@
+100
+A 7964896 Ensalada Tacos Sushi
+A 57866675 Pollo Pollo Pizza Sopa Pollo Pizza Burrito Ensalada Ensalada Pollo
+A 59762171 Pasta Ensalada Tacos Pollo Burrito Pollo Pollo Pollo
+A 30373668 Tacos Sushi Sopa Pollo
+A 34154174 Pizza Burrito Ensalada Pasta Sopa Hamburguesa Tacos
+A 75534168 Ensalada
+Q 7964896
+A 17839577 Sopa Pizza
+A 87483736 Hamburguesa Sopa Burrito
+A 35282986 Hamburguesa Hamburguesa Pizza Pasta Pizza
+A 58480704 Tacos Burrito Tacos Pollo Hamburguesa Tacos Pizza Pollo Tacos
+A 94024582 Pizza Pollo Pasta Tacos Sushi
+Q 35282986
+Q 34154174
+Q 30373668
+A 89421375 Tacos Ensalada Hamburguesa Hamburguesa Sopa
+A 60959736 Hamburguesa Pollo Hamburguesa Pollo Sopa Ensalada Sopa Burrito Sushi
+A 10635437 Pasta
+A 80133678 Tacos Ensalada Sushi
+A 7224429 Hamburguesa Ensalada Sopa Ensalada Ensalada Hamburguesa Pasta
+A 46518587 Burrito
+A 7895085 Burrito Pollo Pollo Pasta Hamburguesa Pasta Sopa Sopa Ensalada
+A 66989764 Hamburguesa Tacos Tacos Pizza Pasta Tacos Tacos
+A 29712816 Sushi Burrito Tacos Pasta Tacos Burrito Pizza Ensalada Pollo
+Q 89421375
+A 1128577 Pollo
+A 83736772 Tacos Ensalada Sushi Ensalada
+Q 57866675
+A 10759667 Tacos Pasta Tacos Sopa Tacos Pollo Burrito
+Q 10635437
+A 12155091 Tacos Pollo Pasta Pollo Pollo Pasta Burrito
+A 86916188 Sopa Tacos Ensalada Sushi Sushi Burrito Sushi Ensalada Sopa Pollo
+Q 46518587
+A 62856132 Burrito
+E 12155091
+A 23894724 Tacos Burrito Hamburguesa Hamburguesa
+E 29712816
+A 86292636 Pasta Pollo Burrito
+E 35282986
+A 31960114 Sopa Sushi Pollo Hamburguesa
+A 35796546 Burrito Burrito
+A 53611940 Sushi Burrito Pollo Pasta
+E 17839577
+A 40294861 Sopa Burrito Pollo Sopa Sopa Pasta Pizza Pizza Sopa Hamburguesa
+A 27750257 Pasta Sushi Burrito Tacos
+Q 34154174
+Q 12155091
+Q 10635437
+A 6428341 Pizza Pollo Hamburguesa Hamburguesa Ensalada Sushi
+A 67867053 Pasta Pasta Pizza
+Q 58480704
+E 80133678
+A 31636584 Sopa Sopa Ensalada Sushi Pollo Tacos Pollo
+A 60224555 Pizza Pollo Pollo Pollo Pizza Pizza Tacos
+A 32964720 Burrito Hamburguesa Pasta Pollo Hamburguesa Tacos Pollo Pasta
+A 6993517 Burrito Hamburguesa
+E 35796546
+A 45739305 Sopa
+A 16788059 Ensalada Hamburguesa
+A 46111819 Tacos Burrito Sopa Pasta Ensalada Pasta Sushi Tacos Sopa
+Q 12155091
+Q 87483736
+E 6993517
+E 7224429
+A 87751426 Hamburguesa Burrito
+A 47804747 Hamburguesa Sushi Pizza Tacos Sushi Pollo
+A 88225401 Burrito
+E 7224429
+Q 31960114
+A 90074986 Pizza Sushi Hamburguesa Hamburguesa Sopa Pasta Sushi Pollo Ensalada Burrito
+A 41109845 Tacos Sushi Sopa Tacos Pollo
+A 28612107 Sopa Ensalada Pollo Pasta
+A 52835637 Ensalada Sushi Hamburguesa Pasta
+A 20506097 Burrito Tacos Pizza Pasta Ensalada Burrito
+Q 87483736
+Q 46518587
+E 83736772
+Q 6428341
+A 15569257 Pizza Sopa Burrito Sopa Pasta Pizza Burrito Sushi
+A 64306716 Pasta Pasta Tacos
+Q 64306716
+Q 12155091
+A 41075175 Hamburguesa Sushi Sopa Sushi Burrito Burrito Ensalada
+A 36628698 Tacos Ensalada
+A 43350592 Sopa Hamburguesa Tacos
+A 29213152 Ensalada Pizza Pasta Hamburguesa Pasta Sopa Sushi Sopa
+A 99317323 Pollo Sopa Tacos Sushi Hamburguesa Ensalada Pollo
+A 1914211 Tacos Pollo Ensalada Sushi Tacos
+A 28449807 Hamburguesa Pollo Pizza Pizza Ensalada Hamburguesa Pasta Pollo
+Q 20506097
+Q 80133678
+A 96414763 Hamburguesa Burrito Pasta Pasta Sopa Hamburguesa Sushi Ensalada Pasta Sopa
+A 49352402 Tacos Burrito Sopa Tacos Sushi Sopa Pizza Burrito Sushi
+A 786651 Hamburguesa Sushi Tacos Pizza Sopa Pasta
+A 64186583 Ensalada Sushi Sushi Pizza Pizza Hamburguesa Pasta Burrito Pizza
+A 57320442 Sushi Burrito Ensalada Tacos Sopa Pollo Sushi Pollo Pasta
+A 62756715 Pasta Burrito Pasta Burrito
+A 27519528 Pizza Ensalada Pollo Hamburguesa Hamburguesa Burrito Sopa
+A 76664056 Ensalada Tacos
+A 81123864 Ensalada

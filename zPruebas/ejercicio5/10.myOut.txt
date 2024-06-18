@@ -1,0 +1,21 @@
+Parada 1 es importante: 1 llegadas: 6
+Parada 2 es importante: 1 llegadas: 6
+Parada 3 es importante: 1 llegadas: 7
+Parada 4 es importante: 1 llegadas: 4
+Parada 5 es importante: 1 llegadas: 3
+Parada 6 es importante: 1 llegadas: 7
+Parada 7 es importante: 1 llegadas: 7
+Parada 8 es importante: 1 llegadas: 4
+Parada 9 es importante: 1 llegadas: 8
+Parada 10 es importante: 1 llegadas: 2
+Parada 1 tiene distancia promedio: 1.3
+Parada 2 tiene distancia promedio: 1.7
+Parada 3 tiene distancia promedio: 1.2
+Parada 4 tiene distancia promedio: 2.2
+Parada 5 tiene distancia promedio: 1.9
+Parada 6 tiene distancia promedio: 0.9
+Parada 7 tiene distancia promedio: 1.1
+Parada 8 tiene distancia promedio: 1.4
+Parada 9 tiene distancia promedio: 1.1
+Parada 10 tiene distancia promedio: 1e+009
+El fugitivo está en: 6
