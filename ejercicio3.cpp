@@ -44,5 +44,6 @@ int main()
     
     cout << counter << endl;
 
+    delete[] N;
     return 0;
 }
