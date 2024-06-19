@@ -17,30 +17,30 @@ int encontrarNumeroUnico(int* numeros, int izquierda, int derecha, int tamano) {
     int medio = (izquierda + derecha) / 2;
 
     if (sonLosTresIguales(numeros, medio, tamano)) {
-        int resultadoDerecha = encontrarNumeroUnico(numeros, medio + 2, derecha, tamano);
         int resultadoIzquierda = encontrarNumeroUnico(numeros, izquierda, medio - 2, tamano);
         
         if (resultadoIzquierda != -1) {
             return resultadoIzquierda;
         } else {
+            int resultadoDerecha = encontrarNumeroUnico(numeros, medio + 2, derecha, tamano);
             return resultadoDerecha;
         }
     } else if (medio > 0 && sonLosTresIguales(numeros, medio - 1, tamano)) {
-        int resultadoDerecha = encontrarNumeroUnico(numeros, medio + 1, derecha, tamano);
         int resultadoIzquierda = encontrarNumeroUnico(numeros, izquierda, medio - 3, tamano);
         
         if (resultadoIzquierda != -1) {
             return resultadoIzquierda;
         } else {
+            int resultadoDerecha = encontrarNumeroUnico(numeros, medio + 1, derecha, tamano);
             return resultadoDerecha;
         }
     } else if (medio < tamano - 1 && sonLosTresIguales(numeros, medio + 1, tamano)) {
-        int resultadoDerecha = encontrarNumeroUnico(numeros, medio + 3, derecha, tamano);
         int resultadoIzquierda = encontrarNumeroUnico(numeros, izquierda, medio - 1, tamano);
         
         if (resultadoIzquierda != -1) {
             return resultadoIzquierda;
         } else {
+            int resultadoDerecha = encontrarNumeroUnico(numeros, medio + 3, derecha, tamano);
             return resultadoDerecha;
         }
     } else {
