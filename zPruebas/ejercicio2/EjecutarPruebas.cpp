@@ -10,15 +10,15 @@ int main() {
     // Archivos de prueba
     vector<string> inputFiles = {
         "6.in.txt", "10.in.txt", "100.in.txt", "1000.in.txt",
-        "10000.in.txt", "100000.in.txt", "1000000.in.txt"
+        "10000.in.txt", "100000.in.txt", "1000000.in.txt", "10000000.in.txt"
     };
     vector<string> outputFiles = {
         "6.out.txt", "10.out.txt", "100.out.txt", "1000.out.txt",
-        "10000.out.txt", "100000.out.txt", "1000000.out.txt"
+        "10000.out.txt", "100000.out.txt", "1000000.out.txt", "10000000.out.txt"
     };
     vector<string> generatedFiles = {
         "6.myOut.txt", "10.myOut.txt", "100.myOut.txt", "1000.myOut.txt",
-        "10000.myOut.txt", "100000.myOut.txt", "1000000.myOut.txt"
+        "10000.myOut.txt", "100000.myOut.txt", "1000000.myOut.txt", "10000000.myOut.txt"
     };
 
     int tamano = generatedFiles.size();
