@@ -44,17 +44,19 @@ int main() {
             part1 = input;
         }
 
+        int identificador = stoi(part2);
+
         if (part1 == "A")
             {
-                tabla.insertar(stoi(part2), part3);
+                tabla.insertar(identificador, part3);
 
             } else if (part1 == "Q")
             {
-                cout << tabla.buscar(stoi(part2)) << endl;
+                cout << tabla.buscar(identificador) << endl;
 
-            } else if (!(tabla.buscar(stoi(part2)) == "Pedido no encontrado"))
+            } else if (!(tabla.buscar(identificador) == "Pedido no encontrado"))
             {
-                tabla.insertar(stoi(part2), "Entregado");
+                tabla.insertar(identificador, "Entregado");
             }   
     }
     

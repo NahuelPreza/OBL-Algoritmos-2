@@ -2,21 +2,14 @@
 #define TABLA_IMP
 #include <iostream>
 #include <string>
+#include "AVL.cpp"
 
 using namespace std;
 
 class TablaHash {
 private:
-
-    struct Nodo {
-        int clave;
-        string valor;
-        Nodo* sig;
-        Nodo(int k, string v) : clave(k), valor(v), sig(NULL) {}
-    };
-
     int capacidad;
-    Nodo** buckets;
+    AVL* buckets;
 
   
     int hash(int clave) {
@@ -25,34 +18,22 @@ private:
 
 public:
     TablaHash(int tableCapacidad) : capacidad(tableCapacidad) {
-        buckets = new Nodo*[capacidad];
-        for (int i = 0; i < capacidad; ++i) {
-            buckets[i] = NULL;
-        }
+        buckets = new AVL[capacidad];
     }
 
    
     void insertar(int clave, string valor) {
         int pos = hash(clave);
-        Nodo* nuevoNodo = new Nodo(clave, valor);
-        if (buckets[pos] == NULL) {
-            buckets[pos] = nuevoNodo;
-        } else {
-          
-            nuevoNodo->sig = buckets[pos];
-            buckets[pos] = nuevoNodo;
-        }
+        buckets[pos].insertar(clave, valor);
+        
     }
 
    
     string buscar(int clave) {
         int pos = hash(clave);
-        Nodo* nodoActual = buckets[pos];
-        while (nodoActual != NULL) {
-            if (nodoActual->clave == clave) {
-                return nodoActual->valor;
-            }
-            nodoActual = nodoActual->sig;
+        Nodo* nodoActual = buckets[pos].Obtener(clave);
+        if (nodoActual != NULL) {
+            return nodoActual->datosString;
         }
         return "Pedido no encontrado";
     }

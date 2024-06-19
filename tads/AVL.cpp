@@ -2,16 +2,19 @@
 
 using namespace std;
 
-class AVL {
-private:
-    struct Nodo {
+struct Nodo {
         int dato;
+        string datosString;
         Nodo* izquierda;
         Nodo* derecha;
         int altura;
 
-        Nodo(int valor) : dato(valor), izquierda(nullptr), derecha(nullptr), altura(1) {}
+        Nodo(int valor, string menu = "") : dato(valor), izquierda(nullptr), derecha(nullptr), altura(1), datosString(menu) {}
     };
+
+class AVL {
+private:
+    
 
     Nodo* raiz;
 
@@ -55,17 +58,17 @@ private:
         return nuevaRaiz;
     }
 
-    Nodo* insertarNodo(Nodo* nodo, int dato) {
+    Nodo* insertarNodo(Nodo* nodo, int dato, string menu = "") {
         if (nodo == nullptr) {
-            return new Nodo(dato);
+            return new Nodo(dato, menu);
         }
 
         if (dato < nodo->dato) {
-            nodo->izquierda = insertarNodo(nodo->izquierda, dato);
+            nodo->izquierda = insertarNodo(nodo->izquierda, dato, menu);
         } else if (dato > nodo->dato) {
-            nodo->derecha = insertarNodo(nodo->derecha, dato);
-        } else {
-            // No se permiten duplicados
+            nodo->derecha = insertarNodo(nodo->derecha, dato, menu);
+        } else if(dato == nodo->dato){
+            nodo->datosString = menu;
             return nodo;
         }
 
@@ -113,13 +116,31 @@ private:
         }
     }
 
+    Nodo* devolverNodo(Nodo* nodo, int clave) {
+        if (nodo == nullptr) {
+            return nullptr;
+        }
+
+        if (nodo->dato == clave) {
+            return nodo;
+        } else if (nodo->dato < clave) {
+            return devolverNodo(nodo->derecha, clave);
+        } else {
+            return devolverNodo(nodo->izquierda, clave);
+        }
+    }
+
 public:
     AVL() {
         raiz = nullptr;
     }
 
-    void insertar(int dato) {
-        raiz = insertarNodo(raiz, dato);
+    void insertar(int dato, string menu = "") {
+        raiz = insertarNodo(raiz, dato, menu);
+    }
+
+    Nodo* Obtener(int clave) {
+        return devolverNodo(raiz, clave);
     }
 
     bool ExisteQueSumeK(int dato, int k) {
