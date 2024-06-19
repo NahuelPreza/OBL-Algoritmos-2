@@ -20,7 +20,7 @@ private:
 
   
     int hash(int clave) {
-        return clave % capacidad;
+        return clave*7 % capacidad;
     }
 
 public:
