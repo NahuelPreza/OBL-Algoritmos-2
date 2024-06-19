@@ -8,38 +8,33 @@ using namespace std;
 
 int main()
 {
-   int nLen;
+   int largoDeListaN;
    
-    cin >> nLen;
+    cin >> largoDeListaN;
      
-    int* N = new int[nLen];
-    for (int i = 0; i < nLen; ++i) {
+    int* N = new int[largoDeListaN];
+    for (int i = 0; i < largoDeListaN; ++i) {
         cin >> N[i];
     }
 
 
-    int mLen;
-    cin >> mLen;
+    int largoDeListaM;
+    cin >> largoDeListaM;
 
-    int* M = new int[mLen];
-    for (int i = 0; i < mLen; ++i) {
-        cin >> M[i];
+
+    AVL arbol;
+    int elementoDeM;
+    
+    for (int i = 0; i < largoDeListaM; ++i) {
+        cin >> elementoDeM;
+        arbol.insertar(elementoDeM);
     }
     
     int k;
     cin >> k;
 
-
-    AVL arbol;
-    
-    
-    for (int i = 0; i < mLen; i++)
-    {
-        arbol.insertar(M[i]);
-    }
-    
     int counter =0;
-    for (int j = 0; j < nLen; j++)
+    for (int j = 0; j < largoDeListaN; j++)
     {
         if(arbol.ExisteQueSumeK(N[j], k)){
 
