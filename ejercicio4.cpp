@@ -13,9 +13,9 @@ int main() {
     Grafo grafo(numVertices);
 
     for (int i = 0; i < numAristas; ++i) {
-        int v, w;
-        cin >> v >> w;
-        grafo.agregarArista(v, w);
+        int origen, destino;
+        cin >> origen >> destino;
+        grafo.agregarArista(origen, destino);
     }
 
     cin >> cantidadDestinos;

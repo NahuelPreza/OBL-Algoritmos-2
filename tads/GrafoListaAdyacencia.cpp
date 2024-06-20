@@ -30,7 +30,7 @@ struct ListaAdyacencia {
         Arista* actual = cabeza;
         while (actual != nullptr) {
             if (actual->destino == destino) {
-            return; // Ya está agregado, no hacer nada
+                return; // Ya está agregado, no hacer nada
             }
             actual = actual->siguiente;
         }
