@@ -44,7 +44,7 @@ bool tourCaballo(int N, int inicioX, int inicioY) {
     for (int i = 0; i < N; ++i) {
         tablero[i] = new int[N];
     }
-    
+
     // Inicializar el tablero con -1 (no visitado)
     for (int i = 0; i < N; ++i) {
         for (int j = 0; j < N; ++j) {
@@ -57,10 +57,10 @@ bool tourCaballo(int N, int inicioX, int inicioY) {
 }
 
 int main() {
-    int N, r, c;
-    cin >> N >> r >> c;
+    int N, fila, columna;
+    cin >> N >> fila >> columna;
 
-    if (tourCaballo(N, r, c)) {
+    if (tourCaballo(N, fila, columna)) {
         cout << "SI" << endl;
     } else {
         cout << "NO" << endl;
