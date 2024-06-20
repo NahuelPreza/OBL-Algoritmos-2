@@ -12,7 +12,7 @@ const int movimientosCaballo[8][2] = {
 };
 
 // Función para verificar si una posición es válida y no ha sido visitada aún
-bool esSeguro(int x, int y, int N, int tablero[5][5]) {
+bool esPosValida(int x, int y, int N, int tablero[5][5]) {
     return (x >= 0 && x < N && y >= 0 && y < N && tablero[x][y] == -1);
 }
 
@@ -26,7 +26,7 @@ bool resolverTourCaballo(int x, int y, int conteoMovimientos, int N, int tablero
     for (int i = 0; i < 8; ++i) {
         int siguienteX = x + movimientosCaballo[i][0];
         int siguienteY = y + movimientosCaballo[i][1];
-        if (esSeguro(siguienteX, siguienteY, N, tablero)) {
+        if (esPosValida(siguienteX, siguienteY, N, tablero)) {
             tablero[siguienteX][siguienteY] = conteoMovimientos;
             if (resolverTourCaballo(siguienteX, siguienteY, conteoMovimientos + 1, N, tablero)) {
                 return true;
