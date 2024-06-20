@@ -25,16 +25,6 @@ struct ListaAdyacencia {
     // Añadir una arista al principio de la lista
     void agregarArista(int destino, int peso) {
         Arista* nuevaArista = new Arista(destino, peso);
-        
-        // Buscar si ya está agregado
-        Arista* actual = cabeza;
-        while (actual != nullptr) {
-            if (actual->destino == destino) {
-                return; // Ya está agregado, no hacer nada
-            }
-            actual = actual->siguiente;
-        }
-
         nuevaArista->siguiente = cabeza;
         cabeza = nuevaArista;
     }
