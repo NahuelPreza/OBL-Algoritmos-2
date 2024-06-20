@@ -12,12 +12,12 @@ const int movimientosCaballo[8][2] = {
 };
 
 // Función para verificar si una posición es válida y no ha sido visitada aún
-bool esPosValida(int x, int y, int N, int tablero[5][5]) {
+bool esPosValida(int x, int y, int N, int** tablero) {
     return (x >= 0 && x < N && y >= 0 && y < N && tablero[x][y] == -1);
 }
 
 // Función recursiva que intenta resolver el Tour del Caballo
-bool resolverTourCaballo(int x, int y, int conteoMovimientos, int N, int tablero[5][5]) {
+bool resolverTourCaballo(int x, int y, int conteoMovimientos, int N, int** tablero) {
     if (conteoMovimientos == N * N) {
         return true;
     }
@@ -39,7 +39,12 @@ bool resolverTourCaballo(int x, int y, int conteoMovimientos, int N, int tablero
 
 // Función principal que inicializa el tablero y llama a la función recursiva
 bool tourCaballo(int N, int inicioX, int inicioY) {
-    int tablero[5][5];
+    
+    int** tablero = new int*[N];
+    for (int i = 0; i < N; ++i) {
+        tablero[i] = new int[N];
+    }
+    
     // Inicializar el tablero con -1 (no visitado)
     for (int i = 0; i < N; ++i) {
         for (int j = 0; j < N; ++j) {

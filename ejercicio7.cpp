@@ -17,9 +17,11 @@ int main()
 
     // Leer las potencias de los virus e insertarlas en el montículo
     for (int i = 0; i < cantidadDeVirus; i++) {
+
         int potenciaDeVirus;
         cin >> potenciaDeVirus;
         monticuloVirus.insertar(potenciaDeVirus);
+        
     }
 
     if (monticuloVirus.puedeDestruirVirus(potenciaInicial))

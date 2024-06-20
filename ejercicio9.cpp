@@ -52,12 +52,16 @@ int contarFormas(int X, int Y) {
     
     // Crear matriz para almacenar las formas de llegar a cada celda
     int** formasDellegarA = new int*[X];
+
     for (int i = 0; i < X; ++i) {
+
         formasDellegarA[i] = new int[Y];
         for (int j = 0; j < Y; ++j) {
             formasDellegarA[i][j] = 0;
         }
+        
     }
+    
     formasDellegarA[0][0] = 1;
     
     // Rellenar la matriz formasDellegarA
